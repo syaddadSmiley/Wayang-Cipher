@@ -1,0 +1,2714 @@
+{
+    "metadata": {
+      "name": "Parikan Jowo Bervariasi (Lengkap)",
+      "language": "Javanese",
+      "type": "parikan_4_baris",
+      "chunk_size": 2
+    },
+    "dictionary": {
+      "AA": {
+        "phrase": "Rembulane katon terang",
+        "rhyme_key": "an"
+      },
+      "AB": {
+        "phrase": "Kembang udan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "AC": {
+        "phrase": "Angin wengi nggowo wulan",
+        "rhyme_key": "an"
+      },
+      "AD": {
+        "phrase": "Rasane nyaman ing njero ati",
+        "rhyme_key": "an"
+      },
+      "AE": {
+        "phrase": "Urip iku kudu tenan",
+        "rhyme_key": "an"
+      },
+      "AF": {
+        "phrase": "Ojo seneng gawe edan",
+        "rhyme_key": "an"
+      },
+      "AG": {
+        "phrase": "Yen kelingan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "AH": {
+        "phrase": "Isuk-isuk wes bebarengan",
+        "rhyme_key": "an"
+      },
+      "AI": {
+        "phrase": "Ngenteni tekane dalan",
+        "rhyme_key": "an"
+      },
+      "AJ": {
+        "phrase": "Sliramu katon luwih nyaman",
+        "rhyme_key": "an"
+      },
+      "AK": {
+        "phrase": "Swara pangan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "AL": {
+        "phrase": "Ayo pamitan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "AM": {
+        "phrase": "Langite katon tenan",
+        "rhyme_key": "an"
+      },
+      "AN": {
+        "phrase": "Tansah eling marang kancan",
+        "rhyme_key": "an"
+      },
+      "AO": {
+        "phrase": "Rembulane katon wangi",
+        "rhyme_key": "i"
+      },
+      "AP": {
+        "phrase": "Kembang ati ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "AQ": {
+        "phrase": "Angin wengi nggowo bumi",
+        "rhyme_key": "i"
+      },
+      "AR": {
+        "phrase": "Rasane sepi ing njero ati",
+        "rhyme_key": "i"
+      },
+      "AS": {
+        "phrase": "Urip iku kudu pesti",
+        "rhyme_key": "i"
+      },
+      "AT": {
+        "phrase": "Ojo seneng gawe suci",
+        "rhyme_key": "i"
+      },
+      "AU": {
+        "phrase": "Yen ngenteni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "AV": {
+        "phrase": "Isuk-isuk wes nggoleki",
+        "rhyme_key": "i"
+      },
+      "AW": {
+        "phrase": "Ngenteni tekane wengi",
+        "rhyme_key": "i"
+      },
+      "AX": {
+        "phrase": "Sliramu katon luwih wangi",
+        "rhyme_key": "i"
+      },
+      "AY": {
+        "phrase": "Swara geni ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "AZ": {
+        "phrase": "Ayo ngrasani kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "BA": {
+        "phrase": "Langite katon pesti",
+        "rhyme_key": "i"
+      },
+      "BB": {
+        "phrase": "Tansah eling marang meri",
+        "rhyme_key": "i"
+      },
+      "BC": {
+        "phrase": "Rembulane katon ijo",
+        "rhyme_key": "o"
+      },
+      "BD": {
+        "phrase": "Kembang roso ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "BE": {
+        "phrase": "Angin wengi nggowo tresno",
+        "rhyme_key": "o"
+      },
+      "BF": {
+        "phrase": "Rasane tuwo ing njero ati",
+        "rhyme_key": "o"
+      },
+      "BG": {
+        "phrase": "Urip iku kudu gelo",
+        "rhyme_key": "o"
+      },
+      "BH": {
+        "phrase": "Ojo seneng gawe rumongso",
+        "rhyme_key": "o"
+      },
+      "BI": {
+        "phrase": "Yen lungo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "BJ": {
+        "phrase": "Isuk-isuk wes moco",
+        "rhyme_key": "o"
+      },
+      "BK": {
+        "phrase": "Ngenteni tekane loro",
+        "rhyme_key": "o"
+      },
+      "BL": {
+        "phrase": "Sliramu katon luwih ijo",
+        "rhyme_key": "o"
+      },
+      "BM": {
+        "phrase": "Swara dongo ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "BN": {
+        "phrase": "Ayo ngomong kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "BO": {
+        "phrase": "Langite katon tuwo",
+        "rhyme_key": "o"
+      },
+      "BP": {
+        "phrase": "Tansah eling marang songo",
+        "rhyme_key": "o"
+      },
+      "BQ": {
+        "phrase": "Rembulane katon ayu",
+        "rhyme_key": "u"
+      },
+      "BR": {
+        "phrase": "Kembang banyu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "BS": {
+        "phrase": "Angin wengi nggowo watu",
+        "rhyme_key": "u"
+      },
+      "BT": {
+        "phrase": "Rasane kudu ing njero ati",
+        "rhyme_key": "u"
+      },
+      "BU": {
+        "phrase": "Urip iku kudu bingung",
+        "rhyme_key": "u"
+      },
+      "BV": {
+        "phrase": "Ojo seneng gawe rindu",
+        "rhyme_key": "u"
+      },
+      "BW": {
+        "phrase": "Yen mlaku ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "BX": {
+        "phrase": "Isuk-isuk wes ngguyu",
+        "rhyme_key": "u"
+      },
+      "BY": {
+        "phrase": "Ngenteni tekane sliramu",
+        "rhyme_key": "u"
+      },
+      "BZ": {
+        "phrase": "Sliramu katon luwih ayu",
+        "rhyme_key": "u"
+      },
+      "CA": {
+        "phrase": "Swara nesu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "CB": {
+        "phrase": "Ayo sinau kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "CC": {
+        "phrase": "Langite katon bingung",
+        "rhyme_key": "u"
+      },
+      "CD": {
+        "phrase": "Tansah eling marang turu",
+        "rhyme_key": "u"
+      },
+      "CE": {
+        "phrase": "Rembulane katon anyar",
+        "rhyme_key": "ar"
+      },
+      "CF": {
+        "phrase": "Kembang gunung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "CG": {
+        "phrase": "Angin wengi nggowo suwung",
+        "rhyme_key": "ung"
+      },
+      "CH": {
+        "phrase": "Rasane sabar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "CI": {
+        "phrase": "Urip iku kudu kasar",
+        "rhyme_key": "ar"
+      },
+      "CJ": {
+        "phrase": "Ojo seneng gawe bubar",
+        "rhyme_key": "ar"
+      },
+      "CK": {
+        "phrase": "Yen kerjo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "CL": {
+        "phrase": "Isuk-isuk wes ngajeni",
+        "rhyme_key": "i"
+      },
+      "CM": {
+        "phrase": "Ngenteni tekane gandrung",
+        "rhyme_key": "ung"
+      },
+      "CN": {
+        "phrase": "Sliramu katon luwih anyar",
+        "rhyme_key": "ar"
+      },
+      "CO": {
+        "phrase": "Swara wurung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "CP": {
+        "phrase": "Ayo ngenteni kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "CQ": {
+        "phrase": "Langite katon sabar",
+        "rhyme_key": "ar"
+      },
+      "CR": {
+        "phrase": "Tansah eling marang wening",
+        "rhyme_key": "ing"
+      },
+      "CS": {
+        "phrase": "Rembulane katon luhur",
+        "rhyme_key": "ur"
+      },
+      "CT": {
+        "phrase": "Kembang wening ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "CU": {
+        "phrase": "Angin wengi nggowo bening",
+        "rhyme_key": "ing"
+      },
+      "CV": {
+        "phrase": "Rasane akur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "CW": {
+        "phrase": "Urip iku kudu makmur",
+        "rhyme_key": "ur"
+      },
+      "CX": {
+        "phrase": "Ojo seneng gawe campur",
+        "rhyme_key": "ur"
+      },
+      "CY": {
+        "phrase": "Yen nesu ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "CZ": {
+        "phrase": "Isuk-isuk wes kelingan",
+        "rhyme_key": "an"
+      },
+      "DA": {
+        "phrase": "Ngenteni tekane sanding",
+        "rhyme_key": "ing"
+      },
+      "DB": {
+        "phrase": "Sliramu katon luwih luhur",
+        "rhyme_key": "ur"
+      },
+      "DC": {
+        "phrase": "Swara kuning ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "DD": {
+        "phrase": "Ayo bebarengan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "DE": {
+        "phrase": "Langite katon akur",
+        "rhyme_key": "ur"
+      },
+      "DF": {
+        "phrase": "Tansah eling marang udan",
+        "rhyme_key": "an"
+      },
+      "DG": {
+        "phrase": "Rembulane katon tenan",
+        "rhyme_key": "an"
+      },
+      "DH": {
+        "phrase": "Kembang dalan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "DI": {
+        "phrase": "Angin wengi nggowo pangan",
+        "rhyme_key": "an"
+      },
+      "DJ": {
+        "phrase": "Rasane edan ing njero ati",
+        "rhyme_key": "an"
+      },
+      "DK": {
+        "phrase": "Urip iku kudu terang",
+        "rhyme_key": "an"
+      },
+      "DL": {
+        "phrase": "Ojo seneng gawe nyaman",
+        "rhyme_key": "an"
+      },
+      "DM": {
+        "phrase": "Yen pamitan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "DN": {
+        "phrase": "Isuk-isuk wes ngrasani",
+        "rhyme_key": "i"
+      },
+      "DO": {
+        "phrase": "Ngenteni tekane kancan",
+        "rhyme_key": "an"
+      },
+      "DP": {
+        "phrase": "Sliramu katon luwih terang",
+        "rhyme_key": "an"
+      },
+      "DQ": {
+        "phrase": "Swara wulan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "DR": {
+        "phrase": "Ayo nggoleki kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "DS": {
+        "phrase": "Langite katon edan",
+        "rhyme_key": "an"
+      },
+      "DT": {
+        "phrase": "Tansah eling marang ati",
+        "rhyme_key": "i"
+      },
+      "DU": {
+        "phrase": "Rembulane katon pesti",
+        "rhyme_key": "i"
+      },
+      "DV": {
+        "phrase": "Kembang bumi ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "DW": {
+        "phrase": "Angin wengi nggowo wengi",
+        "rhyme_key": "i"
+      },
+      "DX": {
+        "phrase": "Rasane suci ing njero ati",
+        "rhyme_key": "i"
+      },
+      "DY": {
+        "phrase": "Urip iku kudu wangi",
+        "rhyme_key": "i"
+      },
+      "DZ": {
+        "phrase": "Ojo seneng gawe sepi",
+        "rhyme_key": "i"
+      },
+      "EA": {
+        "phrase": "Yen ngajeni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "EB": {
+        "phrase": "Isuk-isuk wes kerjo",
+        "rhyme_key": "o"
+      },
+      "EC": {
+        "phrase": "Ngenteni tekane geni",
+        "rhyme_key": "i"
+      },
+      "ED": {
+        "phrase": "Sliramu katon luwih pesti",
+        "rhyme_key": "i"
+      },
+      "EE": {
+        "phrase": "Swara meri ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "EF": {
+        "phrase": "Ayo lungo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "EG": {
+        "phrase": "Langite katon suci",
+        "rhyme_key": "i"
+      },
+      "EH": {
+        "phrase": "Tansah eling marang roso",
+        "rhyme_key": "o"
+      },
+      "EI": {
+        "phrase": "Rembulane katon gelo",
+        "rhyme_key": "o"
+      },
+      "EJ": {
+        "phrase": "Kembang tresno ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "EK": {
+        "phrase": "Angin wengi nggowo loro",
+        "rhyme_key": "o"
+      },
+      "EL": {
+        "phrase": "Rasane rumongso ing njero ati",
+        "rhyme_key": "o"
+      },
+      "EM": {
+        "phrase": "Urip iku kudu ijo",
+        "rhyme_key": "o"
+      },
+      "EN": {
+        "phrase": "Ojo seneng gawe tuwo",
+        "rhyme_key": "o"
+      },
+      "EO": {
+        "phrase": "Yen moco ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "EP": {
+        "phrase": "Isuk-isuk wes sinau",
+        "rhyme_key": "u"
+      },
+      "EQ": {
+        "phrase": "Ngenteni tekane dongo",
+        "rhyme_key": "o"
+      },
+      "ER": {
+        "phrase": "Sliramu katon luwih gelo",
+        "rhyme_key": "o"
+      },
+      "ES": {
+        "phrase": "Swara songo ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "ET": {
+        "phrase": "Ayo ngguyu kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "EU": {
+        "phrase": "Langite katon rumongso",
+        "rhyme_key": "o"
+      },
+      "EV": {
+        "phrase": "Tansah eling marang banyu",
+        "rhyme_key": "u"
+      },
+      "EW": {
+        "phrase": "Rembulane katon bingung",
+        "rhyme_key": "u"
+      },
+      "EX": {
+        "phrase": "Kembang watu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "EY": {
+        "phrase": "Angin wengi nggowo sliramu",
+        "rhyme_key": "u"
+      },
+      "EZ": {
+        "phrase": "Rasane rindu ing njero ati",
+        "rhyme_key": "u"
+      },
+      "FA": {
+        "phrase": "Urip iku kudu ayu",
+        "rhyme_key": "u"
+      },
+      "FB": {
+        "phrase": "Ojo seneng gawe kudu",
+        "rhyme_key": "u"
+      },
+      "FC": {
+        "phrase": "Yen ngomong ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "FD": {
+        "phrase": "Isuk-isuk wes mlaku",
+        "rhyme_key": "u"
+      },
+      "FE": {
+        "phrase": "Ngenteni tekane nesu",
+        "rhyme_key": "u"
+      },
+      "FF": {
+        "phrase": "Sliramu katon luwih bingung",
+        "rhyme_key": "u"
+      },
+      "FG": {
+        "phrase": "Swara turu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "FH": {
+        "phrase": "Ayo kelingan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "FI": {
+        "phrase": "Langite katon rindu",
+        "rhyme_key": "u"
+      },
+      "FJ": {
+        "phrase": "Tansah eling marang gunung",
+        "rhyme_key": "ung"
+      },
+      "FK": {
+        "phrase": "Rembulane katon sabar",
+        "rhyme_key": "ar"
+      },
+      "FL": {
+        "phrase": "Kembang suwung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "FM": {
+        "phrase": "Angin wengi nggowo gandrung",
+        "rhyme_key": "ung"
+      },
+      "FN": {
+        "phrase": "Rasane kasar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "FO": {
+        "phrase": "Urip iku kudu anyar",
+        "rhyme_key": "ar"
+      },
+      "FP": {
+        "phrase": "Ojo seneng gawe sabar",
+        "rhyme_key": "ar"
+      },
+      "FQ": {
+        "phrase": "Yen bebarengan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "FR": {
+        "phrase": "Isuk-isuk wes pamitan",
+        "rhyme_key": "an"
+      },
+      "FS": {
+        "phrase": "Ngenteni tekane wurung",
+        "rhyme_key": "ung"
+      },
+      "FT": {
+        "phrase": "Sliramu katon luwih bubar",
+        "rhyme_key": "ar"
+      },
+      "FU": {
+        "phrase": "Swara gunung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "FV": {
+        "phrase": "Ayo ngenteni kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "FW": {
+        "phrase": "Langite katon kasar",
+        "rhyme_key": "ar"
+      },
+      "FX": {
+        "phrase": "Tansah eling marang wening",
+        "rhyme_key": "ing"
+      },
+      "FY": {
+        "phrase": "Rembulane katon akur",
+        "rhyme_key": "ur"
+      },
+      "FZ": {
+        "phrase": "Kembang bening ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "GA": {
+        "phrase": "Angin wengi nggowo sanding",
+        "rhyme_key": "ing"
+      },
+      "GB": {
+        "phrase": "Rasane makmur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "GC": {
+        "phrase": "Urip iku kudu luhur",
+        "rhyme_key": "ur"
+      },
+      "GD": {
+        "phrase": "Ojo seneng gawe makmur",
+        "rhyme_key": "ur"
+      },
+      "GE": {
+        "phrase": "Yen nggoleki ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "GF": {
+        "phrase": "Isuk-isuk wes ngrasani",
+        "rhyme_key": "i"
+      },
+      "GG": {
+        "phrase": "Ngenteni tekane kuning",
+        "rhyme_key": "ing"
+      },
+      "GH": {
+        "phrase": "Sliramu katon luwih campur",
+        "rhyme_key": "ur"
+      },
+      "GI": {
+        "phrase": "Swara wening ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "GJ": {
+        "phrase": "Ayo nggoleki kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "GK": {
+        "phrase": "Langite katon campur",
+        "rhyme_key": "ur"
+      },
+      "GL": {
+        "phrase": "Tansah eling marang udan",
+        "rhyme_key": "an"
+      },
+      "GM": {
+        "phrase": "Rembulane katon nyaman",
+        "rhyme_key": "an"
+      },
+      "GN": {
+        "phrase": "Kembang dalan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "GO": {
+        "phrase": "Angin wengi nggowo kancan",
+        "rhyme_key": "an"
+      },
+      "GP": {
+        "phrase": "Rasane tenan ing njero ati",
+        "rhyme_key": "an"
+      },
+      "GQ": {
+        "phrase": "Urip iku kudu edan",
+        "rhyme_key": "an"
+      },
+      "GR": {
+        "phrase": "Ojo seneng gawe terang",
+        "rhyme_key": "an"
+      },
+      "GS": {
+        "phrase": "Yen ngrasani ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "GT": {
+        "phrase": "Isuk-isuk wes ngajeni",
+        "rhyme_key": "i"
+      },
+      "GU": {
+        "phrase": "Ngenteni tekane pangan",
+        "rhyme_key": "an"
+      },
+      "GV": {
+        "phrase": "Sliramu katon luwih edan",
+        "rhyme_key": "an"
+      },
+      "GW": {
+        "phrase": "Swara wulan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "GX": {
+        "phrase": "Ayo kerjo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "GY": {
+        "phrase": "Langite katon nyaman",
+        "rhyme_key": "an"
+      },
+      "GZ": {
+        "phrase": "Tansah eling marang ati",
+        "rhyme_key": "i"
+      },
+      "HA": {
+        "phrase": "Rembulane katon suci",
+        "rhyme_key": "i"
+      },
+      "HB": {
+        "phrase": "Kembang bumi ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "HC": {
+        "phrase": "Angin wengi nggowo meri",
+        "rhyme_key": "i"
+      },
+      "HD": {
+        "phrase": "Rasane wangi ing njero ati",
+        "rhyme_key": "i"
+      },
+      "HE": {
+        "phrase": "Urip iku kudu sepi",
+        "rhyme_key": "i"
+      },
+      "HF": {
+        "phrase": "Ojo seneng gawe pesti",
+        "rhyme_key": "i"
+      },
+      "HG": {
+        "phrase": "Yen ngajeni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "HH": {
+        "phrase": "Isuk-isuk wes lungo",
+        "rhyme_key": "o"
+      },
+      "HI": {
+        "phrase": "Ngenteni tekane wengi",
+        "rhyme_key": "i"
+      },
+      "HJ": {
+        "phrase": "Sliramu katon luwih suci",
+        "rhyme_key": "i"
+      },
+      "HK": {
+        "phrase": "Swara geni ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "HL": {
+        "phrase": "Ayo moco kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "HM": {
+        "phrase": "Langite katon wangi",
+        "rhyme_key": "i"
+      },
+      "HN": {
+        "phrase": "Tansah eling marang roso",
+        "rhyme_key": "o"
+      },
+      "HO": {
+        "phrase": "Rembulane katon rumongso",
+        "rhyme_key": "o"
+      },
+      "HP": {
+        "phrase": "Kembang tresno ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "HQ": {
+        "phrase": "Angin wengi nggowo songo",
+        "rhyme_key": "o"
+      },
+      "HR": {
+        "phrase": "Rasane ijo ing njero ati",
+        "rhyme_key": "o"
+      },
+      "HS": {
+        "phrase": "Urip iku kudu tuwo",
+        "rhyme_key": "o"
+      },
+      "HT": {
+        "phrase": "Ojo seneng gawe gelo",
+        "rhyme_key": "o"
+      },
+      "HU": {
+        "phrase": "Yen ngomong ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "HV": {
+        "phrase": "Isuk-isuk wes ngguyu",
+        "rhyme_key": "u"
+      },
+      "HW": {
+        "phrase": "Ngenteni tekane loro",
+        "rhyme_key": "o"
+      },
+      "HX": {
+        "phrase": "Sliramu katon luwih rumongso",
+        "rhyme_key": "o"
+      },
+      "HY": {
+        "phrase": "Swara dongo ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "HZ": {
+        "phrase": "Ayo mlaku kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "IA": {
+        "phrase": "Langite katon ijo",
+        "rhyme_key": "o"
+      },
+      "IB": {
+        "phrase": "Tansah eling marang banyu",
+        "rhyme_key": "u"
+      },
+      "IC": {
+        "phrase": "Rembulane katon rindu",
+        "rhyme_key": "u"
+      },
+      "ID": {
+        "phrase": "Kembang watu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "IE": {
+        "phrase": "Angin wengi nggowo turu",
+        "rhyme_key": "u"
+      },
+      "IF": {
+        "phrase": "Rasane ayu ing njero ati",
+        "rhyme_key": "u"
+      },
+      "IG": {
+        "phrase": "Urip iku kudu kudu",
+        "rhyme_key": "u"
+      },
+      "IH": {
+        "phrase": "Ojo seneng gawe bingung",
+        "rhyme_key": "u"
+      },
+      "II": {
+        "phrase": "Yen sinau ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "IJ": {
+        "phrase": "Isuk-isuk wes bebarengan",
+        "rhyme_key": "an"
+      },
+      "IK": {
+        "phrase": "Ngenteni tekane sliramu",
+        "rhyme_key": "u"
+      },
+      "IL": {
+        "phrase": "Sliramu katon luwih rindu",
+        "rhyme_key": "u"
+      },
+      "IM": {
+        "phrase": "Swara nesu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "IN": {
+        "phrase": "Ayo pamitan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "IO": {
+        "phrase": "Langite katon ayu",
+        "rhyme_key": "u"
+      },
+      "IP": {
+        "phrase": "Tansah eling marang gunung",
+        "rhyme_key": "ung"
+      },
+      "IQ": {
+        "phrase": "Rembulane katon bubar",
+        "rhyme_key": "ar"
+      },
+      "IR": {
+        "phrase": "Kembang suwung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "IS": {
+        "phrase": "Angin wengi nggowo wurung",
+        "rhyme_key": "ung"
+      },
+      "IT": {
+        "phrase": "Rasane anyar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "IU": {
+        "phrase": "Urip iku kudu sabar",
+        "rhyme_key": "ar"
+      },
+      "IV": {
+        "phrase": "Ojo seneng gawe kasar",
+        "rhyme_key": "ar"
+      },
+      "IW": {
+        "phrase": "Yen nesu ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "IX": {
+        "phrase": "Isuk-isuk wes kelingan",
+        "rhyme_key": "an"
+      },
+      "IY": {
+        "phrase": "Ngenteni tekane gandrung",
+        "rhyme_key": "ung"
+      },
+      "IZ": {
+        "phrase": "Sliramu katon luwih sabar",
+        "rhyme_key": "ar"
+      },
+      "JA": {
+        "phrase": "Swara gunung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "JB": {
+        "phrase": "Ayo bebarengan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "JC": {
+        "phrase": "Langite katon anyar",
+        "rhyme_key": "ar"
+      },
+      "JD": {
+        "phrase": "Tansah eling marang wening",
+        "rhyme_key": "ing"
+      },
+      "JE": {
+        "phrase": "Rembulane katon campur",
+        "rhyme_key": "ur"
+      },
+      "JF": {
+        "phrase": "Kembang bening ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "JG": {
+        "phrase": "Angin wengi nggowo kuning",
+        "rhyme_key": "ing"
+      },
+      "JH": {
+        "phrase": "Rasane luhur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "JI": {
+        "phrase": "Urip iku kudu akur",
+        "rhyme_key": "ur"
+      },
+      "JJ": {
+        "phrase": "Ojo seneng gawe luhur",
+        "rhyme_key": "ur"
+      },
+      "JK": {
+        "phrase": "Yen pamitan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "JL": {
+        "phrase": "Isuk-isuk wes nggoleki",
+        "rhyme_key": "i"
+      },
+      "JM": {
+        "phrase": "Ngenteni tekane sanding",
+        "rhyme_key": "ing"
+      },
+      "JN": {
+        "phrase": "Sliramu katon luwih makmur",
+        "rhyme_key": "ur"
+      },
+      "JO": {
+        "phrase": "Swara wening ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "JP": {
+        "phrase": "Ayo ngrasani kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "JQ": {
+        "phrase": "Langite katon makmur",
+        "rhyme_key": "ur"
+      },
+      "JR": {
+        "phrase": "Tansah eling marang dalan",
+        "rhyme_key": "an"
+      },
+      "JS": {
+        "phrase": "Rembulane katon edan",
+        "rhyme_key": "an"
+      },
+      "JT": {
+        "phrase": "Kembang pangan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "JU": {
+        "phrase": "Angin wengi nggowo wulan",
+        "rhyme_key": "an"
+      },
+      "JV": {
+        "phrase": "Rasane terang ing njero ati",
+        "rhyme_key": "an"
+      },
+      "JW": {
+        "phrase": "Urip iku kudu nyaman",
+        "rhyme_key": "an"
+      },
+      "JX": {
+        "phrase": "Ojo seneng gawe tenan",
+        "rhyme_key": "an"
+      },
+      "JY": {
+        "phrase": "Yen nggoleki ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "JZ": {
+        "phrase": "Isuk-isuk wes ngajeni",
+        "rhyme_key": "i"
+      },
+      "KA": {
+        "phrase": "Ngenteni tekane udan",
+        "rhyme_key": "an"
+      },
+      "KB": {
+        "phrase": "Sliramu katon luwih tenan",
+        "rhyme_key": "an"
+      },
+      "KC": {
+        "phrase": "Swara kancan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "KD": {
+        "phrase": "Ayo kerjo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "KE": {
+        "phrase": "Langite katon terang",
+        "rhyme_key": "an"
+      },
+      "KF": {
+        "phrase": "Tansah eling marang ati",
+        "rhyme_key": "i"
+      },
+      "KG": {
+        "phrase": "Rembulane katon sepi",
+        "rhyme_key": "i"
+      },
+      "KH": {
+        "phrase": "Kembang bumi ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "KI": {
+        "phrase": "Angin wengi nggowo geni",
+        "rhyme_key": "i"
+      },
+      "KJ": {
+        "phrase": "Rasane pesti ing njero ati",
+        "rhyme_key": "i"
+      },
+      "KK": {
+        "phrase": "Urip iku kudu suci",
+        "rhyme_key": "i"
+      },
+      "KL": {
+        "phrase": "Ojo seneng gawe wangi",
+        "rhyme_key": "i"
+      },
+      "KM": {
+        "phrase": "Yen ngrasani ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "KN": {
+        "phrase": "Isuk-isuk wes lungo",
+        "rhyme_key": "o"
+      },
+      "KO": {
+        "phrase": "Ngenteni tekane meri",
+        "rhyme_key": "i"
+      },
+      "KP": {
+        "phrase": "Sliramu katon luwih sepi",
+        "rhyme_key": "i"
+      },
+      "KQ": {
+        "phrase": "Swara wengi ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "KR": {
+        "phrase": "Ayo moco kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "KS": {
+        "phrase": "Langite katon sepi",
+        "rhyme_key": "i"
+      },
+      "KT": {
+        "phrase": "Tansah eling marang roso",
+        "rhyme_key": "o"
+      },
+      "KU": {
+        "phrase": "Rembulane katon tuwo",
+        "rhyme_key": "o"
+      },
+      "KV": {
+        "phrase": "Kembang tresno ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "KW": {
+        "phrase": "Angin wengi nggowo dongo",
+        "rhyme_key": "o"
+      },
+      "KX": {
+        "phrase": "Rasane gelo ing njero ati",
+        "rhyme_key": "o"
+      },
+      "KY": {
+        "phrase": "Urip iku kudu rumongso",
+        "rhyme_key": "o"
+      },
+      "KZ": {
+        "phrase": "Ojo seneng gawe ijo",
+        "rhyme_key": "o"
+      },
+      "LA": {
+        "phrase": "Yen kerjo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "LB": {
+        "phrase": "Isuk-isuk wes mlaku",
+        "rhyme_key": "u"
+      },
+      "LC": {
+        "phrase": "Ngenteni tekane songo",
+        "rhyme_key": "o"
+      },
+      "LD": {
+        "phrase": "Sliramu katon luwih tuwo",
+        "rhyme_key": "o"
+      },
+      "LE": {
+        "phrase": "Swara loro ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "LF": {
+        "phrase": "Ayo ngguyu kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "LG": {
+        "phrase": "Langite katon gelo",
+        "rhyme_key": "o"
+      },
+      "LH": {
+        "phrase": "Tansah eling marang banyu",
+        "rhyme_key": "u"
+      },
+      "LI": {
+        "phrase": "Rembulane katon kudu",
+        "rhyme_key": "u"
+      },
+      "LJ": {
+        "phrase": "Kembang watu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "LK": {
+        "phrase": "Angin wengi nggowo nesu",
+        "rhyme_key": "u"
+      },
+      "LL": {
+        "phrase": "Rasane bingung ing njero ati",
+        "rhyme_key": "u"
+      },
+      "LM": {
+        "phrase": "Urip iku kudu rindu",
+        "rhyme_key": "u"
+      },
+      "LN": {
+        "phrase": "Ojo seneng gawe ayu",
+        "rhyme_key": "u"
+      },
+      "LO": {
+        "phrase": "Yen ngomong ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "LP": {
+        "phrase": "Isuk-isuk wes sinau",
+        "rhyme_key": "u"
+      },
+      "LQ": {
+        "phrase": "Ngenteni tekane turu",
+        "rhyme_key": "u"
+      },
+      "LR": {
+        "phrase": "Sliramu katon luwih kudu",
+        "rhyme_key": "u"
+      },
+      "LS": {
+        "phrase": "Swara sliramu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "LT": {
+        "phrase": "Ayo kelingan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "LU": {
+        "phrase": "Langite katon bingung",
+        "rhyme_key": "u"
+      },
+      "LV": {
+        "phrase": "Tansah eling marang gunung",
+        "rhyme_key": "ung"
+      },
+      "LW": {
+        "phrase": "Rembulane katon kasar",
+        "rhyme_key": "ar"
+      },
+      "LX": {
+        "phrase": "Kembang suwung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "LY": {
+        "phrase": "Angin wengi nggowo gandrung",
+        "rhyme_key": "ung"
+      },
+      "LZ": {
+        "phrase": "Rasane bubar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "MA": {
+        "phrase": "Urip iku kudu sabar",
+        "rhyme_key": "ar"
+      },
+      "MB": {
+        "phrase": "Ojo seneng gawe anyar",
+        "rhyme_key": "ar"
+      },
+      "MC": {
+        "phrase": "Yen bebarengan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "MD": {
+        "phrase": "Isuk-isuk wes pamitan",
+        "rhyme_key": "an"
+      },
+      "ME": {
+        "phrase": "Ngenteni tekane wurung",
+        "rhyme_key": "ung"
+      },
+      "MF": {
+        "phrase": "Sliramu katon luwih kasar",
+        "rhyme_key": "ar"
+      },
+      "MG": {
+        "phrase": "Swara gunung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "MH": {
+        "phrase": "Ayo ngajeni kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "MI": {
+        "phrase": "Langite katon bubar",
+        "rhyme_key": "ar"
+      },
+      "MJ": {
+        "phrase": "Tansah eling marang wening",
+        "rhyme_key": "ing"
+      },
+      "MK": {
+        "phrase": "Rembulane katon makmur",
+        "rhyme_key": "ur"
+      },
+      "ML": {
+        "phrase": "Kembang bening ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "MM": {
+        "phrase": "Angin wengi nggowo kuning",
+        "rhyme_key": "ing"
+      },
+      "MN": {
+        "phrase": "Rasane campur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "MO": {
+        "phrase": "Urip iku kudu akur",
+        "rhyme_key": "ur"
+      },
+      "MP": {
+        "phrase": "Ojo seneng gawe campur",
+        "rhyme_key": "ur"
+      },
+      "MQ": {
+        "phrase": "Yen mlaku ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "MR": {
+        "phrase": "Isuk-isuk wes ngguyu",
+        "rhyme_key": "u"
+      },
+      "MS": {
+        "phrase": "Ngenteni tekane sanding",
+        "rhyme_key": "ing"
+      },
+      "MT": {
+        "phrase": "Sliramu katon luwih akur",
+        "rhyme_key": "ur"
+      },
+      "MU": {
+        "phrase": "Swara wening ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "MV": {
+        "phrase": "Ayo sinau kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "MW": {
+        "phrase": "Langite katon luhur",
+        "rhyme_key": "ur"
+      },
+      "MX": {
+        "phrase": "Tansah eling marang wulan",
+        "rhyme_key": "an"
+      },
+      "MY": {
+        "phrase": "Rembulane katon tenan",
+        "rhyme_key": "an"
+      },
+      "MZ": {
+        "phrase": "Kembang kancan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "NA": {
+        "phrase": "Angin wengi nggowo udan",
+        "rhyme_key": "an"
+      },
+      "NB": {
+        "phrase": "Rasane nyaman ing njero ati",
+        "rhyme_key": "an"
+      },
+      "NC": {
+        "phrase": "Urip iku kudu terang",
+        "rhyme_key": "an"
+      },
+      "ND": {
+        "phrase": "Ojo seneng gawe edan",
+        "rhyme_key": "an"
+      },
+      "NE": {
+        "phrase": "Yen ngenteni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "NF": {
+        "phrase": "Isuk-isuk wes nggoleki",
+        "rhyme_key": "i"
+      },
+      "NG": {
+        "phrase": "Ngenteni tekane dalan",
+        "rhyme_key": "an"
+      },
+      "NH": {
+        "phrase": "Sliramu katon luwih nyaman",
+        "rhyme_key": "an"
+      },
+      "NI": {
+        "phrase": "Swara pangan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "NJ": {
+        "phrase": "Ayo ngrasani kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "NK": {
+        "phrase": "Langite katon tenan",
+        "rhyme_key": "an"
+      },
+      "NL": {
+        "phrase": "Tansah eling marang bumi",
+        "rhyme_key": "i"
+      },
+      "NM": {
+        "phrase": "Rembulane katon pesti",
+        "rhyme_key": "i"
+      },
+      "NN": {
+        "phrase": "Kembang wengi ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "NO": {
+        "phrase": "Angin wengi nggowo ati",
+        "rhyme_key": "i"
+      },
+      "NP": {
+        "phrase": "Rasane wangi ing njero ati",
+        "rhyme_key": "i"
+      },
+      "NQ": {
+        "phrase": "Urip iku kudu suci",
+        "rhyme_key": "i"
+      },
+      "NR": {
+        "phrase": "Ojo seneng gawe sepi",
+        "rhyme_key": "i"
+      },
+      "NS": {
+        "phrase": "Yen nggoleki ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "NT": {
+        "phrase": "Isuk-isuk wes kerjo",
+        "rhyme_key": "o"
+      },
+      "NU": {
+        "phrase": "Ngenteni tekane meri",
+        "rhyme_key": "i"
+      },
+      "NV": {
+        "phrase": "Sliramu katon luwih wangi",
+        "rhyme_key": "i"
+      },
+      "NW": {
+        "phrase": "Swara geni ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "NX": {
+        "phrase": "Ayo lungo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "NY": {
+        "phrase": "Langite katon pesti",
+        "rhyme_key": "i"
+      },
+      "NZ": {
+        "phrase": "Tansah eling marang tresno",
+        "rhyme_key": "o"
+      },
+      "OA": {
+        "phrase": "Rembulane katon ijo",
+        "rhyme_key": "o"
+      },
+      "OB": {
+        "phrase": "Kembang loro ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "OC": {
+        "phrase": "Angin wengi nggowo roso",
+        "rhyme_key": "o"
+      },
+      "OD": {
+        "phrase": "Rasane tuwo ing njero ati",
+        "rhyme_key": "o"
+      },
+      "OE": {
+        "phrase": "Urip iku kudu gelo",
+        "rhyme_key": "o"
+      },
+      "OF": {
+        "phrase": "Ojo seneng gawe rumongso",
+        "rhyme_key": "o"
+      },
+      "OG": {
+        "phrase": "Yen ngrasani ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "OH": {
+        "phrase": "Isuk-isuk wes moco",
+        "rhyme_key": "o"
+      },
+      "OI": {
+        "phrase": "Ngenteni tekane songo",
+        "rhyme_key": "o"
+      },
+      "OJ": {
+        "phrase": "Sliramu katon luwih ijo",
+        "rhyme_key": "o"
+      },
+      "OK": {
+        "phrase": "Swara dongo ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "OL": {
+        "phrase": "Ayo ngomong kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "OM": {
+        "phrase": "Langite katon tuwo",
+        "rhyme_key": "o"
+      },
+      "ON": {
+        "phrase": "Tansah eling marang watu",
+        "rhyme_key": "u"
+      },
+      "OO": {
+        "phrase": "Rembulane katon ayu",
+        "rhyme_key": "u"
+      },
+      "OP": {
+        "phrase": "Kembang sliramu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "OQ": {
+        "phrase": "Angin wengi nggowo banyu",
+        "rhyme_key": "u"
+      },
+      "OR": {
+        "phrase": "Rasane kudu ing njero ati",
+        "rhyme_key": "u"
+      },
+      "OS": {
+        "phrase": "Urip iku kudu bingung",
+        "rhyme_key": "u"
+      },
+      "OT": {
+        "phrase": "Ojo seneng gawe rindu",
+        "rhyme_key": "u"
+      },
+      "OU": {
+        "phrase": "Yen ngajeni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "OV": {
+        "phrase": "Isuk-isuk wes ngguyu",
+        "rhyme_key": "u"
+      },
+      "OW": {
+        "phrase": "Ngenteni tekane turu",
+        "rhyme_key": "u"
+      },
+      "OX": {
+        "phrase": "Sliramu katon luwih ayu",
+        "rhyme_key": "u"
+      },
+      "OY": {
+        "phrase": "Swara nesu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "OZ": {
+        "phrase": "Ayo mlaku kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "PA": {
+        "phrase": "Langite katon kudu",
+        "rhyme_key": "u"
+      },
+      "PB": {
+        "phrase": "Tansah eling marang suwung",
+        "rhyme_key": "ung"
+      },
+      "PC": {
+        "phrase": "Rembulane katon anyar",
+        "rhyme_key": "ar"
+      },
+      "PD": {
+        "phrase": "Kembang gandrung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "PE": {
+        "phrase": "Angin wengi nggowo gunung",
+        "rhyme_key": "ung"
+      },
+      "PF": {
+        "phrase": "Rasane sabar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "PG": {
+        "phrase": "Urip iku kudu kasar",
+        "rhyme_key": "ar"
+      },
+      "PH": {
+        "phrase": "Ojo seneng gawe bubar",
+        "rhyme_key": "ar"
+      },
+      "PI": {
+        "phrase": "Yen lungo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "PJ": {
+        "phrase": "Isuk-isuk wes sinau",
+        "rhyme_key": "u"
+      },
+      "PK": {
+        "phrase": "Ngenteni tekane wurung",
+        "rhyme_key": "ung"
+      },
+      "PL": {
+        "phrase": "Sliramu katon luwih anyar",
+        "rhyme_key": "ar"
+      },
+      "PM": {
+        "phrase": "Swara suwung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "PN": {
+        "phrase": "Ayo ngguyu kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "PO": {
+        "phrase": "Langite katon sabar",
+        "rhyme_key": "ar"
+      },
+      "PP": {
+        "phrase": "Tansah eling marang bening",
+        "rhyme_key": "ing"
+      },
+      "PQ": {
+        "phrase": "Rembulane katon luhur",
+        "rhyme_key": "ur"
+      },
+      "PR": {
+        "phrase": "Kembang sanding ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "PS": {
+        "phrase": "Angin wengi nggowo wening",
+        "rhyme_key": "ing"
+      },
+      "PT": {
+        "phrase": "Rasane akur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "PU": {
+        "phrase": "Urip iku kudu makmur",
+        "rhyme_key": "ur"
+      },
+      "PV": {
+        "phrase": "Ojo seneng gawe luhur",
+        "rhyme_key": "ur"
+      },
+      "PW": {
+        "phrase": "Yen moco ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "PX": {
+        "phrase": "Isuk-isuk wes kelingan",
+        "rhyme_key": "an"
+      },
+      "PY": {
+        "phrase": "Ngenteni tekane kuning",
+        "rhyme_key": "ing"
+      },
+      "PZ": {
+        "phrase": "Sliramu katon luwih luhur",
+        "rhyme_key": "ur"
+      },
+      "QA": {
+        "phrase": "Swara bening ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "QB": {
+        "phrase": "Ayo kelingan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "QC": {
+        "phrase": "Langite katon akur",
+        "rhyme_key": "ur"
+      },
+      "QD": {
+        "phrase": "Tansah eling marang kancan",
+        "rhyme_key": "an"
+      },
+      "QE": {
+        "phrase": "Rembulane katon terang",
+        "rhyme_key": "an"
+      },
+      "QF": {
+        "phrase": "Kembang wulan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "QG": {
+        "phrase": "Angin wengi nggowo dalan",
+        "rhyme_key": "an"
+      },
+      "QH": {
+        "phrase": "Rasane edan ing njero ati",
+        "rhyme_key": "an"
+      },
+      "QI": {
+        "phrase": "Urip iku kudu tenan",
+        "rhyme_key": "an"
+      },
+      "QJ": {
+        "phrase": "Ojo seneng gawe nyaman",
+        "rhyme_key": "an"
+      },
+      "QK": {
+        "phrase": "Yen bebarengan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "QL": {
+        "phrase": "Isuk-isuk wes pamitan",
+        "rhyme_key": "an"
+      },
+      "QM": {
+        "phrase": "Ngenteni tekane pangan",
+        "rhyme_key": "an"
+      },
+      "QN": {
+        "phrase": "Sliramu katon luwih terang",
+        "rhyme_key": "an"
+      },
+      "QO": {
+        "phrase": "Swara udan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "QP": {
+        "phrase": "Ayo bebarengan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "QQ": {
+        "phrase": "Langite katon edan",
+        "rhyme_key": "an"
+      },
+      "QR": {
+        "phrase": "Tansah eling marang meri",
+        "rhyme_key": "i"
+      },
+      "QS": {
+        "phrase": "Rembulane katon wangi",
+        "rhyme_key": "i"
+      },
+      "QT": {
+        "phrase": "Kembang geni ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "QU": {
+        "phrase": "Angin wengi nggowo bumi",
+        "rhyme_key": "i"
+      },
+      "QV": {
+        "phrase": "Rasane suci ing njero ati",
+        "rhyme_key": "i"
+      },
+      "QW": {
+        "phrase": "Urip iku kudu pesti",
+        "rhyme_key": "i"
+      },
+      "QX": {
+        "phrase": "Ojo seneng gawe sepi",
+        "rhyme_key": "i"
+      },
+      "QY": {
+        "phrase": "Yen ngomong ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "QZ": {
+        "phrase": "Isuk-isuk wes ngajeni",
+        "rhyme_key": "i"
+      },
+      "RA": {
+        "phrase": "Ngenteni tekane ati",
+        "rhyme_key": "i"
+      },
+      "RB": {
+        "phrase": "Sliramu katon luwih pesti",
+        "rhyme_key": "i"
+      },
+      "RC": {
+        "phrase": "Swara wengi ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "RD": {
+        "phrase": "Ayo ngajeni kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "RE": {
+        "phrase": "Langite katon suci",
+        "rhyme_key": "i"
+      },
+      "RF": {
+        "phrase": "Tansah eling marang songo",
+        "rhyme_key": "o"
+      },
+      "RG": {
+        "phrase": "Rembulane katon gelo",
+        "rhyme_key": "o"
+      },
+      "RH": {
+        "phrase": "Kembang dongo ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "RI": {
+        "phrase": "Angin wengi nggowo tresno",
+        "rhyme_key": "o"
+      },
+      "RJ": {
+        "phrase": "Rasane rumongso ing njero ati",
+        "rhyme_key": "o"
+      },
+      "RK": {
+        "phrase": "Urip iku kudu tuwo",
+        "rhyme_key": "o"
+      },
+      "RL": {
+        "phrase": "Ojo seneng gawe ijo",
+        "rhyme_key": "o"
+      },
+      "RM": {
+        "phrase": "Yen sinau ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "RN": {
+        "phrase": "Isuk-isuk wes moco",
+        "rhyme_key": "o"
+      },
+      "RO": {
+        "phrase": "Ngenteni tekane roso",
+        "rhyme_key": "o"
+      },
+      "RP": {
+        "phrase": "Sliramu katon luwih gelo",
+        "rhyme_key": "o"
+      },
+      "RQ": {
+        "phrase": "Swara loro ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "RR": {
+        "phrase": "Ayo moco kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "RS": {
+        "phrase": "Langite katon rumongso",
+        "rhyme_key": "o"
+      },
+      "RT": {
+        "phrase": "Tansah eling marang turu",
+        "rhyme_key": "u"
+      },
+      "RU": {
+        "phrase": "Rembulane katon bingung",
+        "rhyme_key": "u"
+      },
+      "RV": {
+        "phrase": "Kembang nesu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "RW": {
+        "phrase": "Angin wengi nggowo watu",
+        "rhyme_key": "u"
+      },
+      "RX": {
+        "phrase": "Rasane rindu ing njero ati",
+        "rhyme_key": "u"
+      },
+      "RY": {
+        "phrase": "Urip iku kudu ayu",
+        "rhyme_key": "u"
+      },
+      "RZ": {
+        "phrase": "Ojo seneng gawe kudu",
+        "rhyme_key": "u"
+      },
+      "SA": {
+        "phrase": "Yen kelingan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "SB": {
+        "phrase": "Isuk-isuk wes ngguyu",
+        "rhyme_key": "u"
+      },
+      "SC": {
+        "phrase": "Ngenteni tekane banyu",
+        "rhyme_key": "u"
+      },
+      "SD": {
+        "phrase": "Sliramu katon luwih bingung",
+        "rhyme_key": "u"
+      },
+      "SE": {
+        "phrase": "Swara sliramu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "SF": {
+        "phrase": "Ayo ngguyu kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "SG": {
+        "phrase": "Langite katon rindu",
+        "rhyme_key": "u"
+      },
+      "SH": {
+        "phrase": "Tansah eling marang wurung",
+        "rhyme_key": "ung"
+      },
+      "SI": {
+        "phrase": "Rembulane katon sabar",
+        "rhyme_key": "ar"
+      },
+      "SJ": {
+        "phrase": "Kembang gunung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "SK": {
+        "phrase": "Angin wengi nggowo suwung",
+        "rhyme_key": "ung"
+      },
+      "SL": {
+        "phrase": "Rasane kasar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "SM": {
+        "phrase": "Urip iku kudu bubar",
+        "rhyme_key": "ar"
+      },
+      "SN": {
+        "phrase": "Ojo seneng gawe anyar",
+        "rhyme_key": "ar"
+      },
+      "SO": {
+        "phrase": "Yen pamitan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "SP": {
+        "phrase": "Isuk-isuk wes kerjo",
+        "rhyme_key": "o"
+      },
+      "SQ": {
+        "phrase": "Ngenteni tekane gandrung",
+        "rhyme_key": "ung"
+      },
+      "SR": {
+        "phrase": "Sliramu katon luwih sabar",
+        "rhyme_key": "ar"
+      },
+      "SS": {
+        "phrase": "Swara wurung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "ST": {
+        "phrase": "Ayo kerjo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "SU": {
+        "phrase": "Langite katon kasar",
+        "rhyme_key": "ar"
+      },
+      "SV": {
+        "phrase": "Tansah eling marang kuning",
+        "rhyme_key": "ing"
+      },
+      "SW": {
+        "phrase": "Rembulane katon akur",
+        "rhyme_key": "ur"
+      },
+      "SX": {
+        "phrase": "Kembang wening ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "SY": {
+        "phrase": "Angin wengi nggowo bening",
+        "rhyme_key": "ing"
+      },
+      "SZ": {
+        "phrase": "Rasane makmur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "TA": {
+        "phrase": "Urip iku kudu campur",
+        "rhyme_key": "ur"
+      },
+      "TB": {
+        "phrase": "Ojo seneng gawe makmur",
+        "rhyme_key": "ur"
+      },
+      "TC": {
+        "phrase": "Yen bebarengan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "TD": {
+        "phrase": "Isuk-isuk wes mlaku",
+        "rhyme_key": "u"
+      },
+      "TE": {
+        "phrase": "Ngenteni tekane sanding",
+        "rhyme_key": "ing"
+      },
+      "TF": {
+        "phrase": "Sliramu katon luwih campur",
+        "rhyme_key": "ur"
+      },
+      "TG": {
+        "phrase": "Swara kuning ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "TH": {
+        "phrase": "Ayo mlaku kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "TI": {
+        "phrase": "Langite katon campur",
+        "rhyme_key": "ur"
+      },
+      "TJ": {
+        "phrase": "Tansah eling marang pangan",
+        "rhyme_key": "an"
+      },
+      "TK": {
+        "phrase": "Rembulane katon edan",
+        "rhyme_key": "an"
+      },
+      "TL": {
+        "phrase": "Kembang udan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "TM": {
+        "phrase": "Angin wengi nggowo kancan",
+        "rhyme_key": "an"
+      },
+      "TN": {
+        "phrase": "Rasane tenan ing njero ati",
+        "rhyme_key": "an"
+      },
+      "TO": {
+        "phrase": "Urip iku kudu nyaman",
+        "rhyme_key": "an"
+      },
+      "TP": {
+        "phrase": "Ojo seneng gawe terang",
+        "rhyme_key": "an"
+      },
+      "TQ": {
+        "phrase": "Yen ngenteni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "TR": {
+        "phrase": "Isuk-isuk wes sinau",
+        "rhyme_key": "u"
+      },
+      "TS": {
+        "phrase": "Ngenteni tekane wulan",
+        "rhyme_key": "an"
+      },
+      "TT": {
+        "phrase": "Sliramu katon luwih edan",
+        "rhyme_key": "an"
+      },
+      "TU": {
+        "phrase": "Swara dalan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "TV": {
+        "phrase": "Ayo sinau kanthi temenan",
+        "rhyme_key": "u"
+      },
+      "TW": {
+        "phrase": "Langite katon nyaman",
+        "rhyme_key": "an"
+      },
+      "TX": {
+        "phrase": "Tansah eling marang geni",
+        "rhyme_key": "i"
+      },
+      "TY": {
+        "phrase": "Rembulane katon suci",
+        "rhyme_key": "i"
+      },
+      "TZ": {
+        "phrase": "Kembang meri ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "UA": {
+        "phrase": "Angin wengi nggowo wengi",
+        "rhyme_key": "i"
+      },
+      "UB": {
+        "phrase": "Rasane sepi ing njero ati",
+        "rhyme_key": "i"
+      },
+      "UC": {
+        "phrase": "Urip iku kudu wangi",
+        "rhyme_key": "i"
+      },
+      "UD": {
+        "phrase": "Ojo seneng gawe pesti",
+        "rhyme_key": "i"
+      },
+      "UE": {
+        "phrase": "Yen pamitan ojo lali wektu",
+        "rhyme_key": "an"
+      },
+      "UF": {
+        "phrase": "Isuk-isuk wes lungo",
+        "rhyme_key": "o"
+      },
+      "UG": {
+        "phrase": "Ngenteni tekane bumi",
+        "rhyme_key": "i"
+      },
+      "UH": {
+        "phrase": "Sliramu katon luwih suci",
+        "rhyme_key": "i"
+      },
+      "UI": {
+        "phrase": "Swara ati ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "UJ": {
+        "phrase": "Ayo lungo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "UK": {
+        "phrase": "Langite katon wangi",
+        "rhyme_key": "i"
+      },
+      "UL": {
+        "phrase": "Tansah eling marang dongo",
+        "rhyme_key": "o"
+      },
+      "UM": {
+        "phrase": "Rembulane katon rumongso",
+        "rhyme_key": "o"
+      },
+      "UN": {
+        "phrase": "Kembang songo ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "UO": {
+        "phrase": "Angin wengi nggowo tresno",
+        "rhyme_key": "o"
+      },
+      "UP": {
+        "phrase": "Rasane ijo ing njero ati",
+        "rhyme_key": "o"
+      },
+      "UQ": {
+        "phrase": "Urip iku kudu gelo",
+        "rhyme_key": "o"
+      },
+      "UR": {
+        "phrase": "Ojo seneng gawe tuwo",
+        "rhyme_key": "o"
+      },
+      "US": {
+        "phrase": "Yen nggoleki ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "UT": {
+        "phrase": "Isuk-isuk wes kelingan",
+        "rhyme_key": "an"
+      },
+      "UU": {
+        "phrase": "Ngenteni tekane loro",
+        "rhyme_key": "o"
+      },
+      "UV": {
+        "phrase": "Sliramu katon luwih rumongso",
+        "rhyme_key": "o"
+      },
+      "UW": {
+        "phrase": "Swara roso ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "UX": {
+        "phrase": "Ayo bebarengan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "UY": {
+        "phrase": "Langite katon ijo",
+        "rhyme_key": "o"
+      },
+      "UZ": {
+        "phrase": "Tansah eling marang nesu",
+        "rhyme_key": "u"
+      },
+      "VA": {
+        "phrase": "Rembulane katon rindu",
+        "rhyme_key": "u"
+      },
+      "VB": {
+        "phrase": "Kembang turu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "VC": {
+        "phrase": "Angin wengi nggowo watu",
+        "rhyme_key": "u"
+      },
+      "VD": {
+        "phrase": "Rasane ayu ing njero ati",
+        "rhyme_key": "u"
+      },
+      "VE": {
+        "phrase": "Urip iku kudu kudu",
+        "rhyme_key": "u"
+      },
+      "VF": {
+        "phrase": "Ojo seneng gawe bingung",
+        "rhyme_key": "u"
+      },
+      "VG": {
+        "phrase": "Yen ngrasani ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "VH": {
+        "phrase": "Isuk-isuk wes bebarengan",
+        "rhyme_key": "an"
+      },
+      "VI": {
+        "phrase": "Ngenteni tekane sliramu",
+        "rhyme_key": "u"
+      },
+      "VJ": {
+        "phrase": "Sliramu katon luwih rindu",
+        "rhyme_key": "u"
+      },
+      "VK": {
+        "phrase": "Swara banyu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "VL": {
+        "phrase": "Ayo pamitan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "VM": {
+        "phrase": "Langite katon ayu",
+        "rhyme_key": "u"
+      },
+      "VN": {
+        "phrase": "Tansah eling marang wurung",
+        "rhyme_key": "ung"
+      },
+      "VO": {
+        "phrase": "Rembulane katon bubar",
+        "rhyme_key": "ar"
+      },
+      "VP": {
+        "phrase": "Kembang gandrung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "VQ": {
+        "phrase": "Angin wengi nggowo suwung",
+        "rhyme_key": "ung"
+      },
+      "VR": {
+        "phrase": "Rasane anyar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "VS": {
+        "phrase": "Urip iku kudu sabar",
+        "rhyme_key": "ar"
+      },
+      "VT": {
+        "phrase": "Ojo seneng gawe kasar",
+        "rhyme_key": "ar"
+      },
+      "VU": {
+        "phrase": "Yen ngajeni ojo lali wektu",
+        "rhyme_key": "i"
+      },
+      "VV": {
+        "phrase": "Isuk-isuk wes pamitan",
+        "rhyme_key": "an"
+      },
+      "VW": {
+        "phrase": "Ngenteni tekane gunung",
+        "rhyme_key": "ung"
+      },
+      "VX": {
+        "phrase": "Sliramu katon luwih bubar",
+        "rhyme_key": "ar"
+      },
+      "VY": {
+        "phrase": "Swara gandrung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "VZ": {
+        "phrase": "Ayo ngenteni kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "WA": {
+        "phrase": "Langite katon anyar",
+        "rhyme_key": "ar"
+      },
+      "WB": {
+        "phrase": "Tansah eling marang kuning",
+        "rhyme_key": "ing"
+      },
+      "WC": {
+        "phrase": "Rembulane katon campur",
+        "rhyme_key": "ur"
+      },
+      "WD": {
+        "phrase": "Kembang sanding ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "WE": {
+        "phrase": "Angin wengi nggowo wening",
+        "rhyme_key": "ing"
+      },
+      "WF": {
+        "phrase": "Rasane luhur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "WG": {
+        "phrase": "Urip iku kudu akur",
+        "rhyme_key": "ur"
+      },
+      "WH": {
+        "phrase": "Ojo seneng gawe makmur",
+        "rhyme_key": "ur"
+      },
+      "WI": {
+        "phrase": "Yen kerjo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "WJ": {
+        "phrase": "Isuk-isuk wes kelingan",
+        "rhyme_key": "an"
+      },
+      "WK": {
+        "phrase": "Ngenteni tekane bening",
+        "rhyme_key": "ing"
+      },
+      "WL": {
+        "phrase": "Sliramu katon luwih makmur",
+        "rhyme_key": "ur"
+      },
+      "WM": {
+        "phrase": "Swara kuning ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "WN": {
+        "phrase": "Ayo moco kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "WO": {
+        "phrase": "Langite katon luhur",
+        "rhyme_key": "ur"
+      },
+      "WP": {
+        "phrase": "Tansah eling marang wulan",
+        "rhyme_key": "an"
+      },
+      "WQ": {
+        "phrase": "Rembulane katon nyaman",
+        "rhyme_key": "an"
+      },
+      "WR": {
+        "phrase": "Kembang pangan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "WS": {
+        "phrase": "Angin wengi nggowo dalan",
+        "rhyme_key": "an"
+      },
+      "WT": {
+        "phrase": "Rasane edan ing njero ati",
+        "rhyme_key": "an"
+      },
+      "WU": {
+        "phrase": "Urip iku kudu tenan",
+        "rhyme_key": "an"
+      },
+      "WV": {
+        "phrase": "Ojo seneng gawe terang",
+        "rhyme_key": "an"
+      },
+      "WW": {
+        "phrase": "Yen lungo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "WX": {
+        "phrase": "Isuk-isuk wes bebarengan",
+        "rhyme_key": "an"
+      },
+      "WY": {
+        "phrase": "Ngenteni tekane kancan",
+        "rhyme_key": "an"
+      },
+      "WZ": {
+        "phrase": "Sliramu katon luwih tenan",
+        "rhyme_key": "an"
+      },
+      "XA": {
+        "phrase": "Swara udan ing wayah wengi",
+        "rhyme_key": "an"
+      },
+      "XB": {
+        "phrase": "Ayo nggoleki kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "XC": {
+        "phrase": "Langite katon nyaman",
+        "rhyme_key": "an"
+      },
+      "XD": {
+        "phrase": "Tansah eling marang bumi",
+        "rhyme_key": "i"
+      },
+      "XE": {
+        "phrase": "Rembulane katon sepi",
+        "rhyme_key": "i"
+      },
+      "XF": {
+        "phrase": "Kembang geni ing pinggir dalan",
+        "rhyme_key": "i"
+      },
+      "XG": {
+        "phrase": "Angin wengi nggowo meri",
+        "rhyme_key": "i"
+      },
+      "XH": {
+        "phrase": "Rasane pesti ing njero ati",
+        "rhyme_key": "i"
+      },
+      "XI": {
+        "phrase": "Urip iku kudu wangi",
+        "rhyme_key": "i"
+      },
+      "XJ": {
+        "phrase": "Ojo seneng gawe suci",
+        "rhyme_key": "i"
+      },
+      "XK": {
+        "phrase": "Yen moco ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "XL": {
+        "phrase": "Isuk-isuk pamitan",
+        "rhyme_key": "an"
+      },
+      "XM": {
+        "phrase": "Ngenteni tekane wengi",
+        "rhyme_key": "i"
+      },
+      "XN": {
+        "phrase": "Sliramu katon luwih sepi",
+        "rhyme_key": "i"
+      },
+      "XO": {
+        "phrase": "Swara ati ing wayah wengi",
+        "rhyme_key": "i"
+      },
+      "XP": {
+        "phrase": "Ayo ngomong kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "XQ": {
+        "phrase": "Langite katon sepi",
+        "rhyme_key": "i"
+      },
+      "XR": {
+        "phrase": "Tansah eling marang dongo",
+        "rhyme_key": "o"
+      },
+      "XS": {
+        "phrase": "Rembulane katon tuwo",
+        "rhyme_key": "o"
+      },
+      "XT": {
+        "phrase": "Kembang songo ing pinggir dalan",
+        "rhyme_key": "o"
+      },
+      "XU": {
+        "phrase": "Angin wengi nggowo loro",
+        "rhyme_key": "o"
+      },
+      "XV": {
+        "phrase": "Rasane gelo ing njero ati",
+        "rhyme_key": "o"
+      },
+      "XW": {
+        "phrase": "Urip iku kudu rumongso",
+        "rhyme_key": "o"
+      },
+      "XX": {
+        "phrase": "Ojo seneng gawe ijo",
+        "rhyme_key": "o"
+      },
+      "XY": {
+        "phrase": "Yen ngguyu ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "XZ": {
+        "phrase": "Isuk-isuk wes nggoleki",
+        "rhyme_key": "i"
+      },
+      "YA": {
+        "phrase": "Ngenteni tekane tresno",
+        "rhyme_key": "o"
+      },
+      "YB": {
+        "phrase": "Sliramu katon luwih tuwo",
+        "rhyme_key": "o"
+      },
+      "YC": {
+        "phrase": "Swara roso ing wayah wengi",
+        "rhyme_key": "o"
+      },
+      "YD": {
+        "phrase": "Ayo ngrasani kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "YE": {
+        "phrase": "Langite katon gelo",
+        "rhyme_key": "o"
+      },
+      "YF": {
+        "phrase": "Tansah eling marang nesu",
+        "rhyme_key": "u"
+      },
+      "YG": {
+        "phrase": "Rembulane katon kudu",
+        "rhyme_key": "u"
+      },
+      "YH": {
+        "phrase": "Kembang turu ing pinggir dalan",
+        "rhyme_key": "u"
+      },
+      "YI": {
+        "phrase": "Angin wengi nggowo sliramu",
+        "rhyme_key": "u"
+      },
+      "YJ": {
+        "phrase": "Rasane bingung ing njero ati",
+        "rhyme_key": "u"
+      },
+      "YK": {
+        "phrase": "Urip iku kudu rindu",
+        "rhyme_key": "u"
+      },
+      "YL": {
+        "phrase": "Ojo seneng gawe ayu",
+        "rhyme_key": "u"
+      },
+      "YM": {
+        "phrase": "Yen sinau ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "YN": {
+        "phrase": "Isuk-isuk wes ngajeni",
+        "rhyme_key": "i"
+      },
+      "YO": {
+        "phrase": "Ngenteni tekane watu",
+        "rhyme_key": "u"
+      },
+      "YP": {
+        "phrase": "Sliramu katon luwih kudu",
+        "rhyme_key": "u"
+      },
+      "YQ": {
+        "phrase": "Swara banyu ing wayah wengi",
+        "rhyme_key": "u"
+      },
+      "YR": {
+        "phrase": "Ayo ngajeni kanthi temenan",
+        "rhyme_key": "i"
+      },
+      "YS": {
+        "phrase": "Langite katon bingung",
+        "rhyme_key": "u"
+      },
+      "YT": {
+        "phrase": "Tansah eling marang wurung",
+        "rhyme_key": "ung"
+      },
+      "YU": {
+        "phrase": "Rembulane katon kasar",
+        "rhyme_key": "ar"
+      },
+      "YV": {
+        "phrase": "Kembang gandrung ing pinggir dalan",
+        "rhyme_key": "ung"
+      },
+      "YW": {
+        "phrase": "Angin wengi nggowo gunung",
+        "rhyme_key": "ung"
+      },
+      "YX": {
+        "phrase": "Rasane bubar ing njero ati",
+        "rhyme_key": "ar"
+      },
+      "YY": {
+        "phrase": "Urip iku kudu anyar",
+        "rhyme_key": "ar"
+      },
+      "YZ": {
+        "phrase": "Ojo seneng gawe sabar",
+        "rhyme_key": "ar"
+      },
+      "ZA": {
+        "phrase": "Yen kerjo ojo lali wektu",
+        "rhyme_key": "o"
+      },
+      "ZB": {
+        "phrase": "Isuk-isuk wes bebarengan",
+        "rhyme_key": "an"
+      },
+      "ZC": {
+        "phrase": "Ngenteni tekane suwung",
+        "rhyme_key": "ung"
+      },
+      "ZD": {
+        "phrase": "Sliramu katon luwih kasar",
+        "rhyme_key": "ar"
+      },
+      "ZE": {
+        "phrase": "Swara gandrung ing wayah wengi",
+        "rhyme_key": "ung"
+      },
+      "ZF": {
+        "phrase": "Ayo kerjo kanthi temenan",
+        "rhyme_key": "o"
+      },
+      "ZG": {
+        "phrase": "Langite katon bubar",
+        "rhyme_key": "ar"
+      },
+      "ZH": {
+        "phrase": "Tansah eling marang kuning",
+        "rhyme_key": "ing"
+      },
+      "ZI": {
+        "phrase": "Rembulane katon makmur",
+        "rhyme_key": "ur"
+      },
+      "ZJ": {
+        "phrase": "Kembang sanding ing pinggir dalan",
+        "rhyme_key": "ing"
+      },
+      "ZK": {
+        "phrase": "Angin wengi nggowo bening",
+        "rhyme_key": "ing"
+      },
+      "ZL": {
+        "phrase": "Rasane campur ing njero ati",
+        "rhyme_key": "ur"
+      },
+      "ZM": {
+        "phrase": "Urip iku kudu luhur",
+        "rhyme_key": "ur"
+      },
+      "ZN": {
+        "phrase": "Ojo seneng gawe akur",
+        "rhyme_key": "ur"
+      },
+      "ZO": {
+        "phrase": "Yen mlaku ojo lali wektu",
+        "rhyme_key": "u"
+      },
+      "ZP": {
+        "phrase": "Isuk-isuk wes pamitan",
+        "rhyme_key": "an"
+      },
+      "ZQ": {
+        "phrase": "Ngenteni tekane wening",
+        "rhyme_key": "ing"
+      },
+      "ZR": {
+        "phrase": "Sliramu katon luwih akur",
+        "rhyme_key": "ur"
+      },
+      "ZS": {
+        "phrase": "Swara sanding ing wayah wengi",
+        "rhyme_key": "ing"
+      },
+      "ZT": {
+        "phrase": "Ayo pamitan kanthi temenan",
+        "rhyme_key": "an"
+      },
+      "ZU": {
+        "phrase": "Langite katon makmur",
+        "rhyme_key": "ur"
+      },
+      "ZV": {
+        "phrase": "Tansah eling marang dalan",
+        "rhyme_key": "an"
+      },
+      "ZW": {
+        "phrase": "Kembang kancan ing pinggir dalan",
+        "rhyme_key": "an"
+      },
+      "ZX": {
+        "phrase": "Urip iku kudu edan",
+        "rhyme_key": "an"
+      },
+      "ZY": {
+        "phrase": "Ojo seneng gawe nyaman",
+        "rhyme_key": "an"
+      },
+      "ZZ": {
+        "phrase": "Yen nggoleki ojo lali wektu",
+        "rhyme_key": "i"
+      }
+    }
+  }

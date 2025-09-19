@@ -1,0 +1,2714 @@
+{
+    "metadata": {
+      "name": "Parikan Jowo Alus (Lengkap (ABSTRAK))",
+      "language": "Javanese",
+      "type": "parikan_4_baris",
+      "chunk_size": 2
+    },
+    "dictionary": {
+        "AA": {
+        "phrase": "tansah eling marang udan",
+        "rhyme_key": "an"
+        },
+        "AB": {
+        "phrase": "ojo lali karo putih",
+        "rhyme_key": "ih"
+        },
+        "AC": {
+        "phrase": "ning ndalan ketemu ijo",
+        "rhyme_key": "o"
+        },
+        "AD": {
+        "phrase": "kembang banyu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "AE": {
+        "phrase": "angin wengi nggowo anyar",
+        "rhyme_key": "ar"
+        },
+        "AF": {
+        "phrase": "sinau moco aksara luhur",
+        "rhyme_key": "ur"
+        },
+        "AG": {
+        "phrase": "rasane ayem karo gunung",
+        "rhyme_key": "ung"
+        },
+        "AH": {
+        "phrase": "weruh wening ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "AI": {
+        "phrase": "isuk-isuk golek wengi",
+        "rhyme_key": "i"
+        },
+        "AJ": {
+        "phrase": "yen bengi kelingan tresna",
+        "rhyme_key": "a"
+        },
+        "AK": {
+        "phrase": "tansah eling marang dalan",
+        "rhyme_key": "an"
+        },
+        "AL": {
+        "phrase": "ojo lali karo resik",
+        "rhyme_key": "ih"
+        },
+        "AM": {
+        "phrase": "ning ndalan ketemu tresno",
+        "rhyme_key": "o"
+        },
+        "AN": {
+        "phrase": "kembang watu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "AO": {
+        "phrase": "angin wengi nggowo sabar",
+        "rhyme_key": "ar"
+        },
+        "AP": {
+        "phrase": "sinau moco aksara nganggur",
+        "rhyme_key": "ur"
+        },
+        "AQ": {
+        "phrase": "rasane ayem karo bingung",
+        "rhyme_key": "ung"
+        },
+        "AR": {
+        "phrase": "weruh kuning ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "AS": {
+        "phrase": "isuk-isuk golek ati",
+        "rhyme_key": "i"
+        },
+        "AT": {
+        "phrase": "yen bengi kelingan kula",
+        "rhyme_key": "a"
+        },
+        "AU": {
+        "phrase": "tansah eling marang wulan",
+        "rhyme_key": "an"
+        },
+        "AV": {
+        "phrase": "ojo lali karo pait",
+        "rhyme_key": "ih"
+        },
+        "AW": {
+        "phrase": "ning ndalan ketemu loro",
+        "rhyme_key": "o"
+        },
+        "AX": {
+        "phrase": "kembang turu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "AY": {
+        "phrase": "angin wengi nggowo pencar",
+        "rhyme_key": "ar"
+        },
+        "AZ": {
+        "phrase": "sinau moco aksara ukur",
+        "rhyme_key": "ur"
+        },
+        "BA": {
+        "phrase": "rasane ayem karo suwung",
+        "rhyme_key": "ung"
+        },
+        "BB": {
+        "phrase": "weruh pusing ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "BC": {
+        "phrase": "isuk-isuk golek meri",
+        "rhyme_key": "i"
+        },
+        "BD": {
+        "phrase": "yen bengi kelingan donga",
+        "rhyme_key": "a"
+        },
+        "BE": {
+        "phrase": "tansah eling marang kancan",
+        "rhyme_key": "an"
+        },
+        "BF": {
+        "phrase": "ojo lali karo gurih",
+        "rhyme_key": "ih"
+        },
+        "BG": {
+        "phrase": "ning ndalan ketemu moco",
+        "rhyme_key": "o"
+        },
+        "BH": {
+        "phrase": "kembang ayu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "BI": {
+        "phrase": "angin wengi nggowo mekar",
+        "rhyme_key": "ar"
+        },
+        "BJ": {
+        "phrase": "sinau moco aksara makmur",
+        "rhyme_key": "ur"
+        },
+        "BK": {
+        "phrase": "rasane ayem karo garing",
+        "rhyme_key": "ung"
+        },
+        "BL": {
+        "phrase": "weruh miring ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "BM": {
+        "phrase": "isuk-isuk golek siji",
+        "rhyme_key": "i"
+        },
+        "BN": {
+        "phrase": "yen bengi kelingan rasa",
+        "rhyme_key": "a"
+        },
+        "BO": {
+        "phrase": "tansah eling marang prapatan",
+        "rhyme_key": "an"
+        },
+        "BP": {
+        "phrase": "ojo lali karo pilih",
+        "rhyme_key": "ih"
+        },
+        "BQ": {
+        "phrase": "ning ndalan ketemu songo",
+        "rhyme_key": "o"
+        },
+        "BR": {
+        "phrase": "kembang nesu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "BS": {
+        "phrase": "angin wengi nggowo bubar",
+        "rhyme_key": "ar"
+        },
+        "BT": {
+        "phrase": "sinau moco aksara lebur",
+        "rhyme_key": "ur"
+        },
+        "BU": {
+        "phrase": "rasane ayem karo agung",
+        "rhyme_key": "ung"
+        },
+        "BV": {
+        "phrase": "weruh penting ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "BW": {
+        "phrase": "isuk-isuk golek ngaji",
+        "rhyme_key": "i"
+        },
+        "BX": {
+        "phrase": "yen bengi kelingan cahya",
+        "rhyme_key": "a"
+        },
+        "BY": {
+        "phrase": "tansah eling marang taman",
+        "rhyme_key": "an"
+        },
+        "BZ": {
+        "phrase": "ojo lali karo bersih",
+        "rhyme_key": "ih"
+        },
+        "CA": {
+        "phrase": "ning ndalan ketemu tuwo",
+        "rhyme_key": "o"
+        },
+        "CB": {
+        "phrase": "kembang mlaku wangi tenan",
+        "rhyme_key": "u"
+        },
+        "CC": {
+        "phrase": "angin wengi nggowo kasar",
+        "rhyme_key": "ar"
+        },
+        "CD": {
+        "phrase": "sinau moco aksara campur",
+        "rhyme_key": "ur"
+        },
+        "CE": {
+        "phrase": "rasane ayem karo langkung",
+        "rhyme_key": "ung"
+        },
+        "CF": {
+        "phrase": "weruh garing ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "CG": {
+        "phrase": "isuk-isuk golek lali",
+        "rhyme_key": "i"
+        },
+        "CH": {
+        "phrase": "yen bengi kelingan dina",
+        "rhyme_key": "a"
+        },
+        "CI": {
+        "phrase": "tansah eling marang papan",
+        "rhyme_key": "an"
+        },
+        "CJ": {
+        "phrase": "ojo lali karo ngalih",
+        "rhyme_key": "ih"
+        },
+        "CK": {
+        "phrase": "ning ndalan ketemu roso",
+        "rhyme_key": "o"
+        },
+        "CL": {
+        "phrase": "kembang kudu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "CM": {
+        "phrase": "angin wengi nggowo benar",
+        "rhyme_key": "ar"
+        },
+        "CN": {
+        "phrase": "sinau moco aksara mundur",
+        "rhyme_key": "ur"
+        },
+        "CO": {
+        "phrase": "rasane ayem karo wurung",
+        "rhyme_key": "ung"
+        },
+        "CP": {
+        "phrase": "weruh bening ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "CQ": {
+        "phrase": "isuk-isuk golek sepi",
+        "rhyme_key": "i"
+        },
+        "CR": {
+        "phrase": "yen bengi kelingan kaca",
+        "rhyme_key": "a"
+        },
+        "CS": {
+        "phrase": "tansah eling marang pangan",
+        "rhyme_key": "an"
+        },
+        "CT": {
+        "phrase": "ojo lali karo mulih",
+        "rhyme_key": "ih"
+        },
+        "CU": {
+        "phrase": "ning ndalan ketemu lungo",
+        "rhyme_key": "o"
+        },
+        "CV": {
+        "phrase": "kembang sliramu wangi tenan",
+        "rhyme_key": "u"
+        },
+        "CW": {
+        "phrase": "angin wengi nggowo gemblar",
+        "rhyme_key": "ar"
+        },
+        "CX": {
+        "phrase": "sinau moco aksara akur",
+        "rhyme_key": "ur"
+        },
+        "CY": {
+        "phrase": "rasane ayem karo gandrung",
+        "rhyme_key": "ung"
+        },
+        "CZ": {
+        "phrase": "weruh sanding ing awang-awang",
+        "rhyme_key": "ing"
+        },
+        "DA": {
+        "phrase": "isuk-isuk golek dadi",
+        "rhyme_key": "i"
+        },
+        "DB": {
+        "phrase": "yen bengi kelingan jaga",
+        "rhyme_key": "a"
+        },
+        "DC": {
+        "phrase": "ning ndalan ketemu udan",
+        "rhyme_key": "an"
+        },
+        "DD": {
+        "phrase": "kembang putih wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "DE": {
+        "phrase": "angin wengi nggowo ijo",
+        "rhyme_key": "o"
+        },
+        "DF": {
+        "phrase": "sinau moco aksara banyu",
+        "rhyme_key": "u"
+        },
+        "DG": {
+        "phrase": "rasane ayem karo anyar",
+        "rhyme_key": "ar"
+        },
+        "DH": {
+        "phrase": "weruh luhur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "DI": {
+        "phrase": "isuk-isuk golek gunung",
+        "rhyme_key": "ung"
+        },
+        "DJ": {
+        "phrase": "yen bengi kelingan wening",
+        "rhyme_key": "ing"
+        },
+        "DK": {
+        "phrase": "tansah eling marang wengi",
+        "rhyme_key": "i"
+        },
+        "DL": {
+        "phrase": "ojo lali karo tresna",
+        "rhyme_key": "a"
+        },
+        "DM": {
+        "phrase": "ning ndalan ketemu dalan",
+        "rhyme_key": "an"
+        },
+        "DN": {
+        "phrase": "kembang resik wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "DO": {
+        "phrase": "angin wengi nggowo tresno",
+        "rhyme_key": "o"
+        },
+        "DP": {
+        "phrase": "sinau moco aksara watu",
+        "rhyme_key": "u"
+        },
+        "DQ": {
+        "phrase": "rasane ayem karo sabar",
+        "rhyme_key": "ar"
+        },
+        "DR": {
+        "phrase": "weruh nganggur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "DS": {
+        "phrase": "isuk-isuk golek bingung",
+        "rhyme_key": "ung"
+        },
+        "DT": {
+        "phrase": "yen bengi kelingan kuning",
+        "rhyme_key": "ing"
+        },
+        "DU": {
+        "phrase": "tansah eling marang ati",
+        "rhyme_key": "i"
+        },
+        "DV": {
+        "phrase": "ojo lali karo kula",
+        "rhyme_key": "a"
+        },
+        "DW": {
+        "phrase": "ning ndalan ketemu wulan",
+        "rhyme_key": "an"
+        },
+        "DX": {
+        "phrase": "kembang pait wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "DY": {
+        "phrase": "angin wengi nggowo loro",
+        "rhyme_key": "o"
+        },
+        "DZ": {
+        "phrase": "sinau moco aksara turu",
+        "rhyme_key": "u"
+        },
+        "EA": {
+        "phrase": "rasane ayem karo pencar",
+        "rhyme_key": "ar"
+        },
+        "EB": {
+        "phrase": "weruh ukur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "EC": {
+        "phrase": "isuk-isuk golek suwung",
+        "rhyme_key": "ung"
+        },
+        "ED": {
+        "phrase": "yen bengi kelingan pusing",
+        "rhyme_key": "ing"
+        },
+        "EE": {
+        "phrase": "tansah eling marang meri",
+        "rhyme_key": "i"
+        },
+        "EF": {
+        "phrase": "ojo lali karo donga",
+        "rhyme_key": "a"
+        },
+        "EG": {
+        "phrase": "ning ndalan ketemu kancan",
+        "rhyme_key": "an"
+        },
+        "EH": {
+        "phrase": "kembang gurih wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "EI": {
+        "phrase": "angin wengi nggowo moco",
+        "rhyme_key": "o"
+        },
+        "EJ": {
+        "phrase": "sinau moco aksara ayu",
+        "rhyme_key": "u"
+        },
+        "EK": {
+        "phrase": "rasane ayem karo mekar",
+        "rhyme_key": "ar"
+        },
+        "EL": {
+        "phrase": "weruh makmur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "EM": {
+        "phrase": "isuk-isuk golek garing",
+        "rhyme_key": "ung"
+        },
+        "EN": {
+        "phrase": "yen bengi kelingan miring",
+        "rhyme_key": "ing"
+        },
+        "EO": {
+        "phrase": "tansah eling marang siji",
+        "rhyme_key": "i"
+        },
+        "EP": {
+        "phrase": "ojo lali karo rasa",
+        "rhyme_key": "a"
+        },
+        "EQ": {
+        "phrase": "ning ndalan ketemu prapatan",
+        "rhyme_key": "an"
+        },
+        "ER": {
+        "phrase": "kembang pilih wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "ES": {
+        "phrase": "angin wengi nggowo songo",
+        "rhyme_key": "o"
+        },
+        "ET": {
+        "phrase": "sinau moco aksara nesu",
+        "rhyme_key": "u"
+        },
+        "EU": {
+        "phrase": "rasane ayem karo bubar",
+        "rhyme_key": "ar"
+        },
+        "EV": {
+        "phrase": "weruh lebur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "EW": {
+        "phrase": "isuk-isuk golek agung",
+        "rhyme_key": "ung"
+        },
+        "EX": {
+        "phrase": "yen bengi kelingan penting",
+        "rhyme_key": "ing"
+        },
+        "EY": {
+        "phrase": "tansah eling marang ngaji",
+        "rhyme_key": "i"
+        },
+        "EZ": {
+        "phrase": "ojo lali karo cahya",
+        "rhyme_key": "a"
+        },
+        "FA": {
+        "phrase": "ning ndalan ketemu taman",
+        "rhyme_key": "an"
+        },
+        "FB": {
+        "phrase": "kembang bersih wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "FC": {
+        "phrase": "angin wengi nggowo tuwo",
+        "rhyme_key": "o"
+        },
+        "FD": {
+        "phrase": "sinau moco aksara mlaku",
+        "rhyme_key": "u"
+        },
+        "FE": {
+        "phrase": "rasane ayem karo kasar",
+        "rhyme_key": "ar"
+        },
+        "FF": {
+        "phrase": "weruh campur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "FG": {
+        "phrase": "isuk-isuk golek langkung",
+        "rhyme_key": "ung"
+        },
+        "FH": {
+        "phrase": "yen bengi kelingan garing",
+        "rhyme_key": "ing"
+        },
+        "FI": {
+        "phrase": "tansah eling marang lali",
+        "rhyme_key": "i"
+        },
+        "FJ": {
+        "phrase": "ojo lali karo dina",
+        "rhyme_key": "a"
+        },
+        "FK": {
+        "phrase": "ning ndalan ketemu papan",
+        "rhyme_key": "an"
+        },
+        "FL": {
+        "phrase": "kembang ngalih wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "FM": {
+        "phrase": "angin wengi nggowo roso",
+        "rhyme_key": "o"
+        },
+        "FN": {
+        "phrase": "sinau moco aksara kudu",
+        "rhyme_key": "u"
+        },
+        "FO": {
+        "phrase": "rasane ayem karo benar",
+        "rhyme_key": "ar"
+        },
+        "FP": {
+        "phrase": "weruh mundur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "FQ": {
+        "phrase": "isuk-isuk golek wurung",
+        "rhyme_key": "ung"
+        },
+        "FR": {
+        "phrase": "yen bengi kelingan bening",
+        "rhyme_key": "ing"
+        },
+        "FS": {
+        "phrase": "tansah eling marang sepi",
+        "rhyme_key": "i"
+        },
+        "FT": {
+        "phrase": "ojo lali karo kaca",
+        "rhyme_key": "a"
+        },
+        "FU": {
+        "phrase": "ning ndalan ketemu pangan",
+        "rhyme_key": "an"
+        },
+        "FV": {
+        "phrase": "kembang mulih wangi tenan",
+        "rhyme_key": "ih"
+        },
+        "FW": {
+        "phrase": "angin wengi nggowo lungo",
+        "rhyme_key": "o"
+        },
+        "FX": {
+        "phrase": "sinau moco aksara sliramu",
+        "rhyme_key": "u"
+        },
+        "FY": {
+        "phrase": "rasane ayem karo gemblar",
+        "rhyme_key": "ar"
+        },
+        "FZ": {
+        "phrase": "weruh akur ing awang-awang",
+        "rhyme_key": "ur"
+        },
+        "GA": {
+        "phrase": "isuk-isuk golek gandrung",
+        "rhyme_key": "ung"
+        },
+        "GB": {
+        "phrase": "yen bengi kelingan sanding",
+        "rhyme_key": "ing"
+        },
+        "GC": {
+        "phrase": "tansah eling marang dadi",
+        "rhyme_key": "i"
+        },
+        "GD": {
+        "phrase": "ojo lali karo jaga",
+        "rhyme_key": "a"
+        },
+        "GE": {
+        "phrase": "kembang udan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "GF": {
+        "phrase": "angin wengi nggowo putih",
+        "rhyme_key": "ih"
+        },
+        "GG": {
+        "phrase": "sinau moco aksara ijo",
+        "rhyme_key": "o"
+        },
+        "GH": {
+        "phrase": "rasane ayem karo banyu",
+        "rhyme_key": "u"
+        },
+        "GI": {
+        "phrase": "weruh anyar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "GJ": {
+        "phrase": "isuk-isuk golek luhur",
+        "rhyme_key": "ur"
+        },
+        "GK": {
+        "phrase": "yen bengi kelingan gunung",
+        "rhyme_key": "ung"
+        },
+        "GL": {
+        "phrase": "tansah eling marang wening",
+        "rhyme_key": "ing"
+        },
+        "GM": {
+        "phrase": "ojo lali karo wengi",
+        "rhyme_key": "i"
+        },
+        "GN": {
+        "phrase": "ning ndalan ketemu tresna",
+        "rhyme_key": "an"
+        },
+        "GO": {
+        "phrase": "kembang dalan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "GP": {
+        "phrase": "angin wengi nggowo resik",
+        "rhyme_key": "ih"
+        },
+        "GQ": {
+        "phrase": "sinau moco aksara tresno",
+        "rhyme_key": "o"
+        },
+        "GR": {
+        "phrase": "rasane ayem karo watu",
+        "rhyme_key": "u"
+        },
+        "GS": {
+        "phrase": "weruh sabar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "GT": {
+        "phrase": "isuk-isuk golek nganggur",
+        "rhyme_key": "ur"
+        },
+        "GU": {
+        "phrase": "yen bengi kelingan bingung",
+        "rhyme_key": "ung"
+        },
+        "GV": {
+        "phrase": "tansah eling marang kuning",
+        "rhyme_key": "ing"
+        },
+        "GW": {
+        "phrase": "ojo lali karo ati",
+        "rhyme_key": "i"
+        },
+        "GX": {
+        "phrase": "ning ndalan ketemu kula",
+        "rhyme_key": "a"
+        },
+        "GY": {
+        "phrase": "kembang wulan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "GZ": {
+        "phrase": "angin wengi nggowo pait",
+        "rhyme_key": "ih"
+        },
+        "HA": {
+        "phrase": "sinau moco aksara loro",
+        "rhyme_key": "o"
+        },
+        "HB": {
+        "phrase": "rasane ayem karo turu",
+        "rhyme_key": "u"
+        },
+        "HC": {
+        "phrase": "weruh pencar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "HD": {
+        "phrase": "isuk-isuk golek ukur",
+        "rhyme_key": "ur"
+        },
+        "HE": {
+        "phrase": "yen bengi kelingan suwung",
+        "rhyme_key": "ung"
+        },
+        "HF": {
+        "phrase": "tansah eling marang pusing",
+        "rhyme_key": "ing"
+        },
+        "HG": {
+        "phrase": "ojo lali karo meri",
+        "rhyme_key": "i"
+        },
+        "HH": {
+        "phrase": "ning ndalan ketemu donga",
+        "rhyme_key": "a"
+        },
+        "HI": {
+        "phrase": "kembang kancan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "HJ": {
+        "phrase": "angin wengi nggowo gurih",
+        "rhyme_key": "ih"
+        },
+        "HK": {
+        "phrase": "sinau moco aksara moco",
+        "rhyme_key": "o"
+        },
+        "HL": {
+        "phrase": "rasane ayem karo ayu",
+        "rhyme_key": "u"
+        },
+        "HM": {
+        "phrase": "weruh mekar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "HN": {
+        "phrase": "isuk-isuk golek makmur",
+        "rhyme_key": "ur"
+        },
+        "HO": {
+        "phrase": "yen bengi kelingan garing",
+        "rhyme_key": "ung"
+        },
+        "HP": {
+        "phrase": "tansah eling marang miring",
+        "rhyme_key": "ing"
+        },
+        "HQ": {
+        "phrase": "ojo lali karo siji",
+        "rhyme_key": "i"
+        },
+        "HR": {
+        "phrase": "ning ndalan ketemu rasa",
+        "rhyme_key": "a"
+        },
+        "HS": {
+        "phrase": "kembang prapatan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "HT": {
+        "phrase": "angin wengi nggowo pilih",
+        "rhyme_key": "ih"
+        },
+        "HU": {
+        "phrase": "sinau moco aksara songo",
+        "rhyme_key": "o"
+        },
+        "HV": {
+        "phrase": "rasane ayem karo nesu",
+        "rhyme_key": "u"
+        },
+        "HW": {
+        "phrase": "weruh bubar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "HX": {
+        "phrase": "isuk-isuk golek lebur",
+        "rhyme_key": "ur"
+        },
+        "HY": {
+        "phrase": "yen bengi kelingan agung",
+        "rhyme_key": "ung"
+        },
+        "HZ": {
+        "phrase": "tansah eling marang penting",
+        "rhyme_key": "ing"
+        },
+        "IA": {
+        "phrase": "ojo lali karo ngaji",
+        "rhyme_key": "i"
+        },
+        "IB": {
+        "phrase": "ning ndalan ketemu cahya",
+        "rhyme_key": "a"
+        },
+        "IC": {
+        "phrase": "kembang taman wangi tenan",
+        "rhyme_key": "an"
+        },
+        "ID": {
+        "phrase": "angin wengi nggowo bersih",
+        "rhyme_key": "ih"
+        },
+        "IE": {
+        "phrase": "sinau moco aksara tuwo",
+        "rhyme_key": "o"
+        },
+        "IF": {
+        "phrase": "rasane ayem karo mlaku",
+        "rhyme_key": "u"
+        },
+        "IG": {
+        "phrase": "weruh kasar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "IH": {
+        "phrase": "isuk-isuk golek campur",
+        "rhyme_key": "ur"
+        },
+        "II": {
+        "phrase": "yen bengi kelingan langkung",
+        "rhyme_key": "ung"
+        },
+        "IJ": {
+        "phrase": "tansah eling marang garing",
+        "rhyme_key": "ing"
+        },
+        "IK": {
+        "phrase": "ojo lali karo lali",
+        "rhyme_key": "i"
+        },
+        "IL": {
+        "phrase": "ning ndalan ketemu dina",
+        "rhyme_key": "a"
+        },
+        "IM": {
+        "phrase": "kembang papan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "IN": {
+        "phrase": "angin wengi nggowo ngalih",
+        "rhyme_key": "ih"
+        },
+        "IO": {
+        "phrase": "sinau moco aksara roso",
+        "rhyme_key": "o"
+        },
+        "IP": {
+        "phrase": "rasane ayem karo kudu",
+        "rhyme_key": "u"
+        },
+        "IQ": {
+        "phrase": "weruh benar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "IR": {
+        "phrase": "isuk-isuk golek mundur",
+        "rhyme_key": "ur"
+        },
+        "IS": {
+        "phrase": "yen bengi kelingan wurung",
+        "rhyme_key": "ung"
+        },
+        "IT": {
+        "phrase": "tansah eling marang bening",
+        "rhyme_key": "ing"
+        },
+        "IU": {
+        "phrase": "ojo lali karo sepi",
+        "rhyme_key": "i"
+        },
+        "IV": {
+        "phrase": "ning ndalan ketemu kaca",
+        "rhyme_key": "a"
+        },
+        "IW": {
+        "phrase": "kembang pangan wangi tenan",
+        "rhyme_key": "an"
+        },
+        "IX": {
+        "phrase": "angin wengi nggowo mulih",
+        "rhyme_key": "ih"
+        },
+        "IY": {
+        "phrase": "sinau moco aksara lungo",
+        "rhyme_key": "o"
+        },
+        "IZ": {
+        "phrase": "rasane ayem karo sliramu",
+        "rhyme_key": "u"
+        },
+        "JA": {
+        "phrase": "weruh gemblar ing awang-awang",
+        "rhyme_key": "ar"
+        },
+        "JB": {
+        "phrase": "isuk-isuk golek akur",
+        "rhyme_key": "ur"
+        },
+        "JC": {
+        "phrase": "yen bengi kelingan gandrung",
+        "rhyme_key": "ung"
+        },
+        "JD": {
+        "phrase": "tansah eling marang sanding",
+        "rhyme_key": "ing"
+        },
+        "JE": {
+        "phrase": "ojo lali karo dadi",
+        "rhyme_key": "i"
+        },
+        "JF": {
+        "phrase": "ning ndalan ketemu jaga",
+        "rhyme_key": "a"
+        },
+        "JG": {
+        "phrase": "angin wengi nggowo udan",
+        "rhyme_key": "an"
+        },
+        "JH": {
+        "phrase": "sinau moco aksara putih",
+        "rhyme_key": "ih"
+        },
+        "JI": {
+        "phrase": "rasane ayem karo ijo",
+        "rhyme_key": "o"
+        },
+        "JJ": {
+        "phrase": "weruh banyu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "JK": {
+        "phrase": "isuk-isuk golek anyar",
+        "rhyme_key": "ar"
+        },
+        "JL": {
+        "phrase": "yen bengi kelingan luhur",
+        "rhyme_key": "ur"
+        },
+        "JM": {
+        "phrase": "tansah eling marang gunung",
+        "rhyme_key": "ung"
+        },
+        "JN": {
+        "phrase": "ojo lali karo wening",
+        "rhyme_key": "ing"
+        },
+        "JO": {
+        "phrase": "ning ndalan ketemu wengi",
+        "rhyme_key": "an"
+        },
+        "JP": {
+        "phrase": "kembang tresna wangi tenan",
+        "rhyme_key": "a"
+        },
+        "JQ": {
+        "phrase": "angin wengi nggowo dalan",
+        "rhyme_key": "an"
+        },
+        "JR": {
+        "phrase": "sinau moco aksara resik",
+        "rhyme_key": "ih"
+        },
+        "JS": {
+        "phrase": "rasane ayem karo tresno",
+        "rhyme_key": "o"
+        },
+        "JT": {
+        "phrase": "weruh watu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "JU": {
+        "phrase": "isuk-isuk golek sabar",
+        "rhyme_key": "ar"
+        },
+        "JV": {
+        "phrase": "yen bengi kelingan nganggur",
+        "rhyme_key": "ur"
+        },
+        "JW": {
+        "phrase": "tansah eling marang bingung",
+        "rhyme_key": "ung"
+        },
+        "JX": {
+        "phrase": "ojo lali karo kuning",
+        "rhyme_key": "ing"
+        },
+        "JY": {
+        "phrase": "ning ndalan ketemu ati",
+        "rhyme_key": "an"
+        },
+        "JZ": {
+        "phrase": "kembang kula wangi tenan",
+        "rhyme_key": "a"
+        },
+        "KA": {
+        "phrase": "angin wengi nggowo wulan",
+        "rhyme_key": "an"
+        },
+        "KB": {
+        "phrase": "sinau moco aksara pait",
+        "rhyme_key": "ih"
+        },
+        "KC": {
+        "phrase": "rasane ayem karo loro",
+        "rhyme_key": "o"
+        },
+        "KD": {
+        "phrase": "weruh turu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "KE": {
+        "phrase": "isuk-isuk golek pencar",
+        "rhyme_key": "ar"
+        },
+        "KF": {
+        "phrase": "yen bengi kelingan ukur",
+        "rhyme_key": "ur"
+        },
+        "KG": {
+        "phrase": "tansah eling marang suwung",
+        "rhyme_key": "ung"
+        },
+        "KH": {
+        "phrase": "ojo lali karo pusing",
+        "rhyme_key": "ing"
+        },
+        "KI": {
+        "phrase": "ning ndalan ketemu meri",
+        "rhyme_key": "an"
+        },
+        "KJ": {
+        "phrase": "kembang donga wangi tenan",
+        "rhyme_key": "a"
+        },
+        "KK": {
+        "phrase": "angin wengi nggowo kancan",
+        "rhyme_key": "an"
+        },
+        "KL": {
+        "phrase": "sinau moco aksara gurih",
+        "rhyme_key": "ih"
+        },
+        "KM": {
+        "phrase": "rasane ayem karo moco",
+        "rhyme_key": "o"
+        },
+        "KN": {
+        "phrase": "weruh ayu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "KO": {
+        "phrase": "isuk-isuk golek mekar",
+        "rhyme_key": "ar"
+        },
+        "KP": {
+        "phrase": "yen bengi kelingan makmur",
+        "rhyme_key": "ur"
+        },
+        "KQ": {
+        "phrase": "tansah eling marang garing",
+        "rhyme_key": "ung"
+        },
+        "KR": {
+        "phrase": "ojo lali karo miring",
+        "rhyme_key": "ing"
+        },
+        "KS": {
+        "phrase": "ning ndalan ketemu siji",
+        "rhyme_key": "an"
+        },
+        "KT": {
+        "phrase": "kembang rasa wangi tenan",
+        "rhyme_key": "a"
+        },
+        "KU": {
+        "phrase": "angin wengi nggowo prapatan",
+        "rhyme_key": "an"
+        },
+        "KV": {
+        "phrase": "sinau moco aksara pilih",
+        "rhyme_key": "ih"
+        },
+        "KW": {
+        "phrase": "rasane ayem karo songo",
+        "rhyme_key": "o"
+        },
+        "KX": {
+        "phrase": "weruh nesu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "KY": {
+        "phrase": "isuk-isuk golek bubar",
+        "rhyme_key": "ar"
+        },
+        "KZ": {
+        "phrase": "yen bengi kelingan lebur",
+        "rhyme_key": "ur"
+        },
+        "LA": {
+        "phrase": "tansah eling marang agung",
+        "rhyme_key": "ung"
+        },
+        "LB": {
+        "phrase": "ojo lali karo penting",
+        "rhyme_key": "ing"
+        },
+        "LC": {
+        "phrase": "ning ndalan ketemu ngaji",
+        "rhyme_key": "an"
+        },
+        "LD": {
+        "phrase": "kembang cahya wangi tenan",
+        "rhyme_key": "a"
+        },
+        "LE": {
+        "phrase": "angin wengi nggowo taman",
+        "rhyme_key": "an"
+        },
+        "LF": {
+        "phrase": "sinau moco aksara bersih",
+        "rhyme_key": "ih"
+        },
+        "LG": {
+        "phrase": "rasane ayem karo tuwo",
+        "rhyme_key": "o"
+        },
+        "LH": {
+        "phrase": "weruh mlaku ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "LI": {
+        "phrase": "isuk-isuk golek kasar",
+        "rhyme_key": "ar"
+        },
+        "LJ": {
+        "phrase": "yen bengi kelingan campur",
+        "rhyme_key": "ur"
+        },
+        "LK": {
+        "phrase": "tansah eling marang langkung",
+        "rhyme_key": "ung"
+        },
+        "LL": {
+        "phrase": "ojo lali karo garing",
+        "rhyme_key": "ing"
+        },
+        "LM": {
+        "phrase": "ning ndalan ketemu lali",
+        "rhyme_key": "an"
+        },
+        "LN": {
+        "phrase": "kembang dina wangi tenan",
+        "rhyme_key": "a"
+        },
+        "LO": {
+        "phrase": "angin wengi nggowo papan",
+        "rhyme_key": "an"
+        },
+        "LP": {
+        "phrase": "sinau moco aksara ngalih",
+        "rhyme_key": "ih"
+        },
+        "LQ": {
+        "phrase": "rasane ayem karo roso",
+        "rhyme_key": "o"
+        },
+        "LR": {
+        "phrase": "weruh kudu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "LS": {
+        "phrase": "isuk-isuk golek benar",
+        "rhyme_key": "ar"
+        },
+        "LT": {
+        "phrase": "yen bengi kelingan mundur",
+        "rhyme_key": "ur"
+        },
+        "LU": {
+        "phrase": "tansah eling marang wurung",
+        "rhyme_key": "ung"
+        },
+        "LV": {
+        "phrase": "ojo lali karo bening",
+        "rhyme_key": "ing"
+        },
+        "LW": {
+        "phrase": "ning ndalan ketemu sepi",
+        "rhyme_key": "an"
+        },
+        "LX": {
+        "phrase": "kembang kaca wangi tenan",
+        "rhyme_key": "a"
+        },
+        "LY": {
+        "phrase": "angin wengi nggowo pangan",
+        "rhyme_key": "an"
+        },
+        "LZ": {
+        "phrase": "sinau moco aksara mulih",
+        "rhyme_key": "ih"
+        },
+        "MA": {
+        "phrase": "rasane ayem karo lungo",
+        "rhyme_key": "o"
+        },
+        "MB": {
+        "phrase": "weruh sliramu ing awang-awang",
+        "rhyme_key": "u"
+        },
+        "MC": {
+        "phrase": "isuk-isuk golek gemblar",
+        "rhyme_key": "ar"
+        },
+        "MD": {
+        "phrase": "yen bengi kelingan akur",
+        "rhyme_key": "ur"
+        },
+        "ME": {
+        "phrase": "tansah eling marang gandrung",
+        "rhyme_key": "ung"
+        },
+        "MF": {
+        "phrase": "ojo lali karo sanding",
+        "rhyme_key": "ing"
+        },
+        "MG": {
+        "phrase": "ning ndalan ketemu dadi",
+        "rhyme_key": "an"
+        },
+        "MH": {
+        "phrase": "kembang jaga wangi tenan",
+        "rhyme_key": "a"
+        },
+        "MI": {
+        "phrase": "sinau moco aksara udan",
+        "rhyme_key": "an"
+        },
+        "MJ": {
+        "phrase": "rasane ayem karo putih",
+        "rhyme_key": "ih"
+        },
+        "MK": {
+        "phrase": "weruh ijo ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "ML": {
+        "phrase": "isuk-isuk golek banyu",
+        "rhyme_key": "u"
+        },
+        "MM": {
+        "phrase": "yen bengi kelingan anyar",
+        "rhyme_key": "ar"
+        },
+        "MN": {
+        "phrase": "tansah eling marang luhur",
+        "rhyme_key": "ur"
+        },
+        "MO": {
+        "phrase": "ojo lali karo gunung",
+        "rhyme_key": "ung"
+        },
+        "MP": {
+        "phrase": "ning ndalan ketemu wening",
+        "rhyme_key": "an"
+        },
+        "MQ": {
+        "phrase": "kembang wengi wangi tenan",
+        "rhyme_key": "i"
+        },
+        "MR": {
+        "phrase": "angin wengi nggowo tresna",
+        "rhyme_key": "a"
+        },
+        "MS": {
+        "phrase": "sinau moco aksara dalan",
+        "rhyme_key": "an"
+        },
+        "MT": {
+        "phrase": "rasane ayem karo resik",
+        "rhyme_key": "ih"
+        },
+        "MU": {
+        "phrase": "weruh tresno ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "MV": {
+        "phrase": "isuk-isuk golek watu",
+        "rhyme_key": "u"
+        },
+        "MW": {
+        "phrase": "yen bengi kelingan sabar",
+        "rhyme_key": "ar"
+        },
+        "MX": {
+        "phrase": "tansah eling marang nganggur",
+        "rhyme_key": "ur"
+        },
+        "MY": {
+        "phrase": "ojo lali karo bingung",
+        "rhyme_key": "ung"
+        },
+        "MZ": {
+        "phrase": "ning ndalan ketemu kuning",
+        "rhyme_key": "an"
+        },
+        "NA": {
+        "phrase": "kembang ati wangi tenan",
+        "rhyme_key": "i"
+        },
+        "NB": {
+        "phrase": "angin wengi nggowo kula",
+        "rhyme_key": "a"
+        },
+        "NC": {
+        "phrase": "sinau moco aksara wulan",
+        "rhyme_key": "an"
+        },
+        "ND": {
+        "phrase": "rasane ayem karo pait",
+        "rhyme_key": "ih"
+        },
+        "NE": {
+        "phrase": "weruh loro ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "NF": {
+        "phrase": "isuk-isuk golek turu",
+        "rhyme_key": "u"
+        },
+        "NG": {
+        "phrase": "yen bengi kelingan pencar",
+        "rhyme_key": "ar"
+        },
+        "NH": {
+        "phrase": "tansah eling marang ukur",
+        "rhyme_key": "ur"
+        },
+        "NI": {
+        "phrase": "ojo lali karo suwung",
+        "rhyme_key": "ung"
+        },
+        "NJ": {
+        "phrase": "ning ndalan ketemu pusing",
+        "rhyme_key": "an"
+        },
+        "NK": {
+        "phrase": "kembang meri wangi tenan",
+        "rhyme_key": "i"
+        },
+        "NL": {
+        "phrase": "angin wengi nggowo donga",
+        "rhyme_key": "a"
+        },
+        "NM": {
+        "phrase": "sinau moco aksara kancan",
+        "rhyme_key": "an"
+        },
+        "NN": {
+        "phrase": "rasane ayem karo gurih",
+        "rhyme_key": "ih"
+        },
+        "NO": {
+        "phrase": "weruh moco ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "NP": {
+        "phrase": "isuk-isuk golek ayu",
+        "rhyme_key": "u"
+        },
+        "NQ": {
+        "phrase": "yen bengi kelingan mekar",
+        "rhyme_key": "ar"
+        },
+        "NR": {
+        "phrase": "tansah eling marang makmur",
+        "rhyme_key": "ur"
+        },
+        "NS": {
+        "phrase": "ojo lali karo garing",
+        "rhyme_key": "ung"
+        },
+        "NT": {
+        "phrase": "ning ndalan ketemu miring",
+        "rhyme_key": "an"
+        },
+        "NU": {
+        "phrase": "kembang siji wangi tenan",
+        "rhyme_key": "i"
+        },
+        "NV": {
+        "phrase": "angin wengi nggowo rasa",
+        "rhyme_key": "a"
+        },
+        "NW": {
+        "phrase": "sinau moco aksara prapatan",
+        "rhyme_key": "an"
+        },
+        "NX": {
+        "phrase": "rasane ayem karo pilih",
+        "rhyme_key": "ih"
+        },
+        "NY": {
+        "phrase": "weruh songo ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "NZ": {
+        "phrase": "isuk-isuk golek nesu",
+        "rhyme_key": "u"
+        },
+        "OA": {
+        "phrase": "yen bengi kelingan bubar",
+        "rhyme_key": "ar"
+        },
+        "OB": {
+        "phrase": "tansah eling marang lebur",
+        "rhyme_key": "ur"
+        },
+        "OC": {
+        "phrase": "ojo lali karo agung",
+        "rhyme_key": "ung"
+        },
+        "OD": {
+        "phrase": "ning ndalan ketemu penting",
+        "rhyme_key": "an"
+        },
+        "OE": {
+        "phrase": "kembang ngaji wangi tenan",
+        "rhyme_key": "i"
+        },
+        "OF": {
+        "phrase": "angin wengi nggowo cahya",
+        "rhyme_key": "a"
+        },
+        "OG": {
+        "phrase": "sinau moco aksara taman",
+        "rhyme_key": "an"
+        },
+        "OH": {
+        "phrase": "rasane ayem karo bersih",
+        "rhyme_key": "ih"
+        },
+        "OI": {
+        "phrase": "weruh tuwo ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "OJ": {
+        "phrase": "isuk-isuk golek mlaku",
+        "rhyme_key": "u"
+        },
+        "OK": {
+        "phrase": "yen bengi kelingan kasar",
+        "rhyme_key": "ar"
+        },
+        "OL": {
+        "phrase": "tansah eling marang campur",
+        "rhyme_key": "ur"
+        },
+        "OM": {
+        "phrase": "ojo lali karo langkung",
+        "rhyme_key": "ung"
+        },
+        "ON": {
+        "phrase": "ning ndalan ketemu garing",
+        "rhyme_key": "an"
+        },
+        "OO": {
+        "phrase": "kembang lali wangi tenan",
+        "rhyme_key": "i"
+        },
+        "OP": {
+        "phrase": "angin wengi nggowo dina",
+        "rhyme_key": "a"
+        },
+        "OQ": {
+        "phrase": "sinau moco aksara papan",
+        "rhyme_key": "an"
+        },
+        "OR": {
+        "phrase": "rasane ayem karo ngalih",
+        "rhyme_key": "ih"
+        },
+        "OS": {
+        "phrase": "weruh roso ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "OT": {
+        "phrase": "isuk-isuk golek kudu",
+        "rhyme_key": "u"
+        },
+        "OU": {
+        "phrase": "yen bengi kelingan benar",
+        "rhyme_key": "ar"
+        },
+        "OV": {
+        "phrase": "tansah eling marang mundur",
+        "rhyme_key": "ur"
+        },
+        "OW": {
+        "phrase": "ojo lali karo wurung",
+        "rhyme_key": "ung"
+        },
+        "OX": {
+        "phrase": "ning ndalan ketemu bening",
+        "rhyme_key": "an"
+        },
+        "OY": {
+        "phrase": "kembang sepi wangi tenan",
+        "rhyme_key": "i"
+        },
+        "OZ": {
+        "phrase": "angin wengi nggowo kaca",
+        "rhyme_key": "a"
+        },
+        "PA": {
+        "phrase": "sinau moco aksara pangan",
+        "rhyme_key": "an"
+        },
+        "PB": {
+        "phrase": "rasane ayem karo mulih",
+        "rhyme_key": "ih"
+        },
+        "PC": {
+        "phrase": "weruh lungo ing awang-awang",
+        "rhyme_key": "o"
+        },
+        "PD": {
+        "phrase": "isuk-isuk golek sliramu",
+        "rhyme_key": "u"
+        },
+        "PE": {
+        "phrase": "yen bengi kelingan gemblar",
+        "rhyme_key": "ar"
+        },
+        "PF": {
+        "phrase": "tansah eling marang akur",
+        "rhyme_key": "ur"
+        },
+        "PG": {
+        "phrase": "ojo lali karo gandrung",
+        "rhyme_key": "ung"
+        },
+        "PH": {
+        "phrase": "ning ndalan ketemu sanding",
+        "rhyme_key": "an"
+        },
+        "PI": {
+        "phrase": "kembang dadi wangi tenan",
+        "rhyme_key": "i"
+        },
+        "PJ": {
+        "phrase": "angin wengi nggowo jaga",
+        "rhyme_key": "a"
+        },
+        "PK": {
+        "phrase": "rasane ayem karo udan",
+        "rhyme_key": "an"
+        },
+        "PL": {
+        "phrase": "weruh putih ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "PM": {
+        "phrase": "isuk-isuk golek ijo",
+        "rhyme_key": "o"
+        },
+        "PN": {
+        "phrase": "yen bengi kelingan banyu",
+        "rhyme_key": "u"
+        },
+        "PO": {
+        "phrase": "tansah eling marang anyar",
+        "rhyme_key": "ar"
+        },
+        "PP": {
+        "phrase": "ojo lali karo luhur",
+        "rhyme_key": "ur"
+        },
+        "PQ": {
+        "phrase": "ning ndalan ketemu gunung",
+        "rhyme_key": "an"
+        },
+        "PR": {
+        "phrase": "kembang wening wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "PS": {
+        "phrase": "angin wengi nggowo wengi",
+        "rhyme_key": "i"
+        },
+        "PT": {
+        "phrase": "sinau moco aksara tresna",
+        "rhyme_key": "a"
+        },
+        "PU": {
+        "phrase": "rasane ayem karo dalan",
+        "rhyme_key": "an"
+        },
+        "PV": {
+        "phrase": "weruh resik ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "PW": {
+        "phrase": "isuk-isuk golek tresno",
+        "rhyme_key": "o"
+        },
+        "PX": {
+        "phrase": "yen bengi kelingan watu",
+        "rhyme_key": "u"
+        },
+        "PY": {
+        "phrase": "tansah eling marang sabar",
+        "rhyme_key": "ar"
+        },
+        "PZ": {
+        "phrase": "ojo lali karo nganggur",
+        "rhyme_key": "ur"
+        },
+        "QA": {
+        "phrase": "ning ndalan ketemu bingung",
+        "rhyme_key": "an"
+        },
+        "QB": {
+        "phrase": "kembang kuning wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "QC": {
+        "phrase": "angin wengi nggowo ati",
+        "rhyme_key": "i"
+        },
+        "QD": {
+        "phrase": "sinau moco aksara kula",
+        "rhyme_key": "a"
+        },
+        "QE": {
+        "phrase": "rasane ayem karo wulan",
+        "rhyme_key": "an"
+        },
+        "QF": {
+        "phrase": "weruh pait ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "QG": {
+        "phrase": "isuk-isuk golek loro",
+        "rhyme_key": "o"
+        },
+        "QH": {
+        "phrase": "yen bengi kelingan turu",
+        "rhyme_key": "u"
+        },
+        "QI": {
+        "phrase": "tansah eling marang pencar",
+        "rhyme_key": "ar"
+        },
+        "QJ": {
+        "phrase": "ojo lali karo ukur",
+        "rhyme_key": "ur"
+        },
+        "QK": {
+        "phrase": "ning ndalan ketemu suwung",
+        "rhyme_key": "an"
+        },
+        "QL": {
+        "phrase": "kembang pusing wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "QM": {
+        "phrase": "angin wengi nggowo meri",
+        "rhyme_key": "i"
+        },
+        "QN": {
+        "phrase": "sinau moco aksara donga",
+        "rhyme_key": "a"
+        },
+        "QO": {
+        "phrase": "rasane ayem karo kancan",
+        "rhyme_key": "an"
+        },
+        "QP": {
+        "phrase": "weruh gurih ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "QQ": {
+        "phrase": "isuk-isuk golek moco",
+        "rhyme_key": "o"
+        },
+        "QR": {
+        "phrase": "yen bengi kelingan ayu",
+        "rhyme_key": "u"
+        },
+        "QS": {
+        "phrase": "tansah eling marang mekar",
+        "rhyme_key": "ar"
+        },
+        "QT": {
+        "phrase": "ojo lali karo makmur",
+        "rhyme_key": "ur"
+        },
+        "QU": {
+        "phrase": "ning ndalan ketemu garing",
+        "rhyme_key": "an"
+        },
+        "QV": {
+        "phrase": "kembang miring wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "QW": {
+        "phrase": "angin wengi nggowo siji",
+        "rhyme_key": "i"
+        },
+        "QX": {
+        "phrase": "sinau moco aksara rasa",
+        "rhyme_key": "a"
+        },
+        "QY": {
+        "phrase": "rasane ayem karo prapatan",
+        "rhyme_key": "an"
+        },
+        "QZ": {
+        "phrase": "weruh pilih ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "RA": {
+        "phrase": "isuk-isuk golek songo",
+        "rhyme_key": "o"
+        },
+        "RB": {
+        "phrase": "yen bengi kelingan nesu",
+        "rhyme_key": "u"
+        },
+        "RC": {
+        "phrase": "tansah eling marang bubar",
+        "rhyme_key": "ar"
+        },
+        "RD": {
+        "phrase": "ojo lali karo lebur",
+        "rhyme_key": "ur"
+        },
+        "RE": {
+        "phrase": "ning ndalan ketemu agung",
+        "rhyme_key": "an"
+        },
+        "RF": {
+        "phrase": "kembang penting wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "RG": {
+        "phrase": "angin wengi nggowo ngaji",
+        "rhyme_key": "i"
+        },
+        "RH": {
+        "phrase": "sinau moco aksara cahya",
+        "rhyme_key": "a"
+        },
+        "RI": {
+        "phrase": "rasane ayem karo taman",
+        "rhyme_key": "an"
+        },
+        "RJ": {
+        "phrase": "weruh bersih ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "RK": {
+        "phrase": "isuk-isuk golek tuwo",
+        "rhyme_key": "o"
+        },
+        "RL": {
+        "phrase": "yen bengi kelingan mlaku",
+        "rhyme_key": "u"
+        },
+        "RM": {
+        "phrase": "tansah eling marang kasar",
+        "rhyme_key": "ar"
+        },
+        "RN": {
+        "phrase": "ojo lali karo campur",
+        "rhyme_key": "ur"
+        },
+        "RO": {
+        "phrase": "ning ndalan ketemu langkung",
+        "rhyme_key": "an"
+        },
+        "RP": {
+        "phrase": "kembang garing wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "RQ": {
+        "phrase": "angin wengi nggowo lali",
+        "rhyme_key": "i"
+        },
+        "RR": {
+        "phrase": "sinau moco aksara dina",
+        "rhyme_key": "a"
+        },
+        "RS": {
+        "phrase": "rasane ayem karo papan",
+        "rhyme_key": "an"
+        },
+        "RT": {
+        "phrase": "weruh ngalih ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "RU": {
+        "phrase": "isuk-isuk golek roso",
+        "rhyme_key": "o"
+        },
+        "RV": {
+        "phrase": "yen bengi kelingan kudu",
+        "rhyme_key": "u"
+        },
+        "RW": {
+        "phrase": "tansah eling marang benar",
+        "rhyme_key": "ar"
+        },
+        "RX": {
+        "phrase": "ojo lali karo mundur",
+        "rhyme_key": "ur"
+        },
+        "RY": {
+        "phrase": "ning ndalan ketemu wurung",
+        "rhyme_key": "an"
+        },
+        "RZ": {
+        "phrase": "kembang bening wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "SA": {
+        "phrase": "angin wengi nggowo sepi",
+        "rhyme_key": "i"
+        },
+        "SB": {
+        "phrase": "sinau moco aksara kaca",
+        "rhyme_key": "a"
+        },
+        "SC": {
+        "phrase": "rasane ayem karo pangan",
+        "rhyme_key": "an"
+        },
+        "SD": {
+        "phrase": "weruh mulih ing awang-awang",
+        "rhyme_key": "ih"
+        },
+        "SE": {
+        "phrase": "isuk-isuk golek lungo",
+        "rhyme_key": "o"
+        },
+        "SF": {
+        "phrase": "yen bengi kelingan sliramu",
+        "rhyme_key": "u"
+        },
+        "SG": {
+        "phrase": "tansah eling marang gemblar",
+        "rhyme_key": "ar"
+        },
+        "SH": {
+        "phrase": "ojo lali karo akur",
+        "rhyme_key": "ur"
+        },
+        "SI": {
+        "phrase": "ning ndalan ketemu gandrung",
+        "rhyme_key": "an"
+        },
+        "SJ": {
+        "phrase": "kembang sanding wangi tenan",
+        "rhyme_key": "ing"
+        },
+        "SK": {
+        "phrase": "angin wengi nggowo dadi",
+        "rhyme_key": "i"
+        },
+        "SL": {
+        "phrase": "sinau moco aksara jaga",
+        "rhyme_key": "a"
+        },
+        "SM": {
+        "phrase": "weruh udan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "SN": {
+        "phrase": "isuk-isuk golek putih",
+        "rhyme_key": "ih"
+        },
+        "SO": {
+        "phrase": "yen bengi kelingan ijo",
+        "rhyme_key": "o"
+        },
+        "SP": {
+        "phrase": "tansah eling marang banyu",
+        "rhyme_key": "u"
+        },
+        "SQ": {
+        "phrase": "ojo lali karo anyar",
+        "rhyme_key": "ar"
+        },
+        "SR": {
+        "phrase": "ning ndalan ketemu luhur",
+        "rhyme_key": "an"
+        },
+        "SS": {
+        "phrase": "kembang gunung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "ST": {
+        "phrase": "angin wengi nggowo wening",
+        "rhyme_key": "ing"
+        },
+        "SU": {
+        "phrase": "sinau moco aksara wengi",
+        "rhyme_key": "i"
+        },
+        "SV": {
+        "phrase": "rasane ayem karo tresna",
+        "rhyme_key": "a"
+        },
+        "SW": {
+        "phrase": "weruh dalan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "SX": {
+        "phrase": "isuk-isuk golek resik",
+        "rhyme_key": "ih"
+        },
+        "SY": {
+        "phrase": "yen bengi kelingan tresno",
+        "rhyme_key": "o"
+        },
+        "SZ": {
+        "phrase": "tansah eling marang watu",
+        "rhyme_key": "u"
+        },
+        "TA": {
+        "phrase": "ojo lali karo sabar",
+        "rhyme_key": "ar"
+        },
+        "TB": {
+        "phrase": "ning ndalan ketemu nganggur",
+        "rhyme_key": "an"
+        },
+        "TC": {
+        "phrase": "kembang bingung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "TD": {
+        "phrase": "angin wengi nggowo kuning",
+        "rhyme_key": "ing"
+        },
+        "TE": {
+        "phrase": "sinau moco aksara ati",
+        "rhyme_key": "i"
+        },
+        "TF": {
+        "phrase": "rasane ayem karo kula",
+        "rhyme_key": "a"
+        },
+        "TG": {
+        "phrase": "weruh wulan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "TH": {
+        "phrase": "isuk-isuk golek pait",
+        "rhyme_key": "ih"
+        },
+        "TI": {
+        "phrase": "yen bengi kelingan loro",
+        "rhyme_key": "o"
+        },
+        "TJ": {
+        "phrase": "tansah eling marang turu",
+        "rhyme_key": "u"
+        },
+        "TK": {
+        "phrase": "ojo lali karo pencar",
+        "rhyme_key": "ar"
+        },
+        "TL": {
+        "phrase": "ning ndalan ketemu ukur",
+        "rhyme_key": "an"
+        },
+        "TM": {
+        "phrase": "kembang suwung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "TN": {
+        "phrase": "angin wengi nggowo pusing",
+        "rhyme_key": "ing"
+        },
+        "TO": {
+        "phrase": "sinau moco aksara meri",
+        "rhyme_key": "i"
+        },
+        "TP": {
+        "phrase": "rasane ayem karo donga",
+        "rhyme_key": "a"
+        },
+        "TQ": {
+        "phrase": "weruh kancan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "TR": {
+        "phrase": "isuk-isuk golek gurih",
+        "rhyme_key": "ih"
+        },
+        "TS": {
+        "phrase": "yen bengi kelingan moco",
+        "rhyme_key": "o"
+        },
+        "TT": {
+        "phrase": "tansah eling marang ayu",
+        "rhyme_key": "u"
+        },
+        "TU": {
+        "phrase": "ojo lali karo mekar",
+        "rhyme_key": "ar"
+        },
+        "TV": {
+        "phrase": "ning ndalan ketemu makmur",
+        "rhyme_key": "an"
+        },
+        "TW": {
+        "phrase": "kembang garing wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "TX": {
+        "phrase": "angin wengi nggowo miring",
+        "rhyme_key": "ing"
+        },
+        "TY": {
+        "phrase": "sinau moco aksara siji",
+        "rhyme_key": "i"
+        },
+        "TZ": {
+        "phrase": "rasane ayem karo rasa",
+        "rhyme_key": "a"
+        },
+        "UA": {
+        "phrase": "weruh prapatan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "UB": {
+        "phrase": "isuk-isuk golek pilih",
+        "rhyme_key": "ih"
+        },
+        "UC": {
+        "phrase": "yen bengi kelingan songo",
+        "rhyme_key": "o"
+        },
+        "UD": {
+        "phrase": "tansah eling marang nesu",
+        "rhyme_key": "u"
+        },
+        "UE": {
+        "phrase": "ojo lali karo bubar",
+        "rhyme_key": "ar"
+        },
+        "UF": {
+        "phrase": "ning ndalan ketemu lebur",
+        "rhyme_key": "an"
+        },
+        "UG": {
+        "phrase": "kembang agung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "UH": {
+        "phrase": "angin wengi nggowo penting",
+        "rhyme_key": "ing"
+        },
+        "UI": {
+        "phrase": "sinau moco aksara ngaji",
+        "rhyme_key": "i"
+        },
+        "UJ": {
+        "phrase": "rasane ayem karo cahya",
+        "rhyme_key": "a"
+        },
+        "UK": {
+        "phrase": "weruh taman ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "UL": {
+        "phrase": "isuk-isuk golek bersih",
+        "rhyme_key": "ih"
+        },
+        "UM": {
+        "phrase": "yen bengi kelingan tuwo",
+        "rhyme_key": "o"
+        },
+        "UN": {
+        "phrase": "tansah eling marang mlaku",
+        "rhyme_key": "u"
+        },
+        "UO": {
+        "phrase": "ojo lali karo kasar",
+        "rhyme_key": "ar"
+        },
+        "UP": {
+        "phrase": "ning ndalan ketemu campur",
+        "rhyme_key": "an"
+        },
+        "UQ": {
+        "phrase": "kembang langkung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "UR": {
+        "phrase": "angin wengi nggowo garing",
+        "rhyme_key": "ing"
+        },
+        "US": {
+        "phrase": "sinau moco aksara lali",
+        "rhyme_key": "i"
+        },
+        "UT": {
+        "phrase": "rasane ayem karo dina",
+        "rhyme_key": "a"
+        },
+        "UU": {
+        "phrase": "weruh papan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "UV": {
+        "phrase": "isuk-isuk golek ngalih",
+        "rhyme_key": "ih"
+        },
+        "UW": {
+        "phrase": "yen bengi kelingan roso",
+        "rhyme_key": "o"
+        },
+        "UX": {
+        "phrase": "tansah eling marang kudu",
+        "rhyme_key": "u"
+        },
+        "UY": {
+        "phrase": "ojo lali karo benar",
+        "rhyme_key": "ar"
+        },
+        "UZ": {
+        "phrase": "ning ndalan ketemu mundur",
+        "rhyme_key": "an"
+        },
+        "VA": {
+        "phrase": "kembang wurung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "VB": {
+        "phrase": "angin wengi nggowo bening",
+        "rhyme_key": "ing"
+        },
+        "VC": {
+        "phrase": "sinau moco aksara sepi",
+        "rhyme_key": "i"
+        },
+        "VD": {
+        "phrase": "rasane ayem karo kaca",
+        "rhyme_key": "a"
+        },
+        "VE": {
+        "phrase": "weruh pangan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "VF": {
+        "phrase": "isuk-isuk golek mulih",
+        "rhyme_key": "ih"
+        },
+        "VG": {
+        "phrase": "yen bengi kelingan lungo",
+        "rhyme_key": "o"
+        },
+        "VH": {
+        "phrase": "tansah eling marang sliramu",
+        "rhyme_key": "u"
+        },
+        "VI": {
+        "phrase": "ojo lali karo gemblar",
+        "rhyme_key": "ar"
+        },
+        "VJ": {
+        "phrase": "ning ndalan ketemu akur",
+        "rhyme_key": "an"
+        },
+        "VK": {
+        "phrase": "kembang gandrung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "VL": {
+        "phrase": "angin wengi nggowo sanding",
+        "rhyme_key": "ing"
+        },
+        "VM": {
+        "phrase": "sinau moco aksara dadi",
+        "rhyme_key": "i"
+        },
+        "VN": {
+        "phrase": "rasane ayem karo jaga",
+        "rhyme_key": "a"
+        },
+        "VO": {
+        "phrase": "weruh putih ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "VP": {
+        "phrase": "isuk-isuk golek ijo",
+        "rhyme_key": "ih"
+        },
+        "VQ": {
+        "phrase": "yen bengi kelingan banyu",
+        "rhyme_key": "o"
+        },
+        "VR": {
+        "phrase": "tansah eling marang anyar",
+        "rhyme_key": "u"
+        },
+        "VS": {
+        "phrase": "ojo lali karo luhur",
+        "rhyme_key": "ar"
+        },
+        "VT": {
+        "phrase": "ning ndalan ketemu gunung",
+        "rhyme_key": "ur"
+        },
+        "VU": {
+        "phrase": "kembang wening wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "VV": {
+        "phrase": "angin wengi nggowo wengi",
+        "rhyme_key": "ing"
+        },
+        "VW": {
+        "phrase": "sinau moco aksara tresna",
+        "rhyme_key": "i"
+        },
+        "VX": {
+        "phrase": "rasane ayem karo dalan",
+        "rhyme_key": "a"
+        },
+        "VY": {
+        "phrase": "weruh resik ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "VZ": {
+        "phrase": "isuk-isuk golek tresno",
+        "rhyme_key": "ih"
+        },
+        "WA": {
+        "phrase": "yen bengi kelingan watu",
+        "rhyme_key": "o"
+        },
+        "WB": {
+        "phrase": "tansah eling marang sabar",
+        "rhyme_key": "u"
+        },
+        "WC": {
+        "phrase": "ojo lali karo nganggur",
+        "rhyme_key": "ar"
+        },
+        "WD": {
+        "phrase": "ning ndalan ketemu bingung",
+        "rhyme_key": "ur"
+        },
+        "WE": {
+        "phrase": "kembang kuning wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "WF": {
+        "phrase": "angin wengi nggowo ati",
+        "rhyme_key": "ing"
+        },
+        "WG": {
+        "phrase": "sinau moco aksara kula",
+        "rhyme_key": "i"
+        },
+        "WH": {
+        "phrase": "rasane ayem karo wulan",
+        "rhyme_key": "a"
+        },
+        "WI": {
+        "phrase": "weruh pait ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "WJ": {
+        "phrase": "isuk-isuk golek loro",
+        "rhyme_key": "ih"
+        },
+        "WK": {
+        "phrase": "yen bengi kelingan turu",
+        "rhyme_key": "o"
+        },
+        "WL": {
+        "phrase": "tansah eling marang pencar",
+        "rhyme_key": "u"
+        },
+        "WM": {
+        "phrase": "ojo lali karo ukur",
+        "rhyme_key": "ar"
+        },
+        "WN": {
+        "phrase": "ning ndalan ketemu suwung",
+        "rhyme_key": "ur"
+        },
+        "WO": {
+        "phrase": "kembang pusing wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "WP": {
+        "phrase": "angin wengi nggowo meri",
+        "rhyme_key": "ing"
+        },
+        "WQ": {
+        "phrase": "sinau moco aksara donga",
+        "rhyme_key": "i"
+        },
+        "WR": {
+        "phrase": "rasane ayem karo kancan",
+        "rhyme_key": "a"
+        },
+        "WS": {
+        "phrase": "weruh gurih ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "WT": {
+        "phrase": "isuk-isuk golek moco",
+        "rhyme_key": "ih"
+        },
+        "WU": {
+        "phrase": "yen bengi kelingan ayu",
+        "rhyme_key": "o"
+        },
+        "WV": {
+        "phrase": "tansah eling marang mekar",
+        "rhyme_key": "u"
+        },
+        "WW": {
+        "phrase": "ojo lali karo makmur",
+        "rhyme_key": "ar"
+        },
+        "WX": {
+        "phrase": "ning ndalan ketemu garing",
+        "rhyme_key": "ur"
+        },
+        "WY": {
+        "phrase": "kembang miring wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "WZ": {
+        "phrase": "angin wengi nggowo siji",
+        "rhyme_key": "ing"
+        },
+        "XA": {
+        "phrase": "sinau moco aksara rasa",
+        "rhyme_key": "i"
+        },
+        "XB": {
+        "phrase": "rasane ayem karo prapatan",
+        "rhyme_key": "a"
+        },
+        "XC": {
+        "phrase": "weruh pilih ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "XD": {
+        "phrase": "isuk-isuk golek songo",
+        "rhyme_key": "ih"
+        },
+        "XE": {
+        "phrase": "yen bengi kelingan nesu",
+        "rhyme_key": "o"
+        },
+        "XF": {
+        "phrase": "tansah eling marang bubar",
+        "rhyme_key": "u"
+        },
+        "XG": {
+        "phrase": "ojo lali karo lebur",
+        "rhyme_key": "ar"
+        },
+        "XH": {
+        "phrase": "ning ndalan ketemu agung",
+        "rhyme_key": "ur"
+        },
+        "XI": {
+        "phrase": "kembang penting wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "XJ": {
+        "phrase": "angin wengi nggowo ngaji",
+        "rhyme_key": "ing"
+        },
+        "XK": {
+        "phrase": "sinau moco aksara cahya",
+        "rhyme_key": "i"
+        },
+        "XL": {
+        "phrase": "rasane ayem karo taman",
+        "rhyme_key": "a"
+        },
+        "XM": {
+        "phrase": "weruh bersih ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "XN": {
+        "phrase": "isuk-isuk golek tuwo",
+        "rhyme_key": "ih"
+        },
+        "XO": {
+        "phrase": "yen bengi kelingan mlaku",
+        "rhyme_key": "o"
+        },
+        "XP": {
+        "phrase": "tansah eling marang kasar",
+        "rhyme_key": "u"
+        },
+        "XQ": {
+        "phrase": "ojo lali karo campur",
+        "rhyme_key": "ar"
+        },
+        "XR": {
+        "phrase": "ning ndalan ketemu langkung",
+        "rhyme_key": "ur"
+        },
+        "XS": {
+        "phrase": "kembang garing wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "XT": {
+        "phrase": "angin wengi nggowo lali",
+        "rhyme_key": "ing"
+        },
+        "XU": {
+        "phrase": "sinau moco aksara dina",
+        "rhyme_key": "i"
+        },
+        "XV": {
+        "phrase": "rasane ayem karo papan",
+        "rhyme_key": "a"
+        },
+        "XW": {
+        "phrase": "weruh ngalih ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "XX": {
+        "phrase": "isuk-isuk golek roso",
+        "rhyme_key": "ih"
+        },
+        "XY": {
+        "phrase": "yen bengi kelingan kudu",
+        "rhyme_key": "o"
+        },
+        "XZ": {
+        "phrase": "tansah eling marang benar",
+        "rhyme_key": "u"
+        },
+        "YA": {
+        "phrase": "ojo lali karo mundur",
+        "rhyme_key": "ar"
+        },
+        "YB": {
+        "phrase": "ning ndalan ketemu wurung",
+        "rhyme_key": "ur"
+        },
+        "YC": {
+        "phrase": "kembang bening wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "YD": {
+        "phrase": "angin wengi nggowo sepi",
+        "rhyme_key": "ing"
+        },
+        "YE": {
+        "phrase": "sinau moco aksara kaca",
+        "rhyme_key": "i"
+        },
+        "YF": {
+        "phrase": "rasane ayem karo pangan",
+        "rhyme_key": "a"
+        },
+        "YG": {
+        "phrase": "weruh mulih ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "YH": {
+        "phrase": "isuk-isuk golek lungo",
+        "rhyme_key": "ih"
+        },
+        "YI": {
+        "phrase": "yen bengi kelingan sliramu",
+        "rhyme_key": "o"
+        },
+        "YJ": {
+        "phrase": "tansah eling marang gemblar",
+        "rhyme_key": "u"
+        },
+        "YK": {
+        "phrase": "ojo lali karo akur",
+        "rhyme_key": "ar"
+        },
+        "YL": {
+        "phrase": "ning ndalan ketemu gandrung",
+        "rhyme_key": "ur"
+        },
+        "YM": {
+        "phrase": "kembang sanding wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "YN": {
+        "phrase": "angin wengi nggowo dadi",
+        "rhyme_key": "ing"
+        },
+        "YO": {
+        "phrase": "sinau moco aksara jaga",
+        "rhyme_key": "i"
+        },
+        "YP": {
+        "phrase": "rasane ayem karo udan",
+        "rhyme_key": "a"
+        },
+        "YQ": {
+        "phrase": "weruh udan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "YR": {
+        "phrase": "isuk-isuk golek putih",
+        "rhyme_key": "ih"
+        },
+        "YS": {
+        "phrase": "yen bengi kelingan ijo",
+        "rhyme_key": "o"
+        },
+        "YT": {
+        "phrase": "tansah eling marang banyu",
+        "rhyme_key": "u"
+        },
+        "YU": {
+        "phrase": "ojo lali karo anyar",
+        "rhyme_key": "ar"
+        },
+        "YV": {
+        "phrase": "ning ndalan ketemu luhur",
+        "rhyme_key": "ur"
+        },
+        "YW": {
+        "phrase": "kembang gunung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "YX": {
+        "phrase": "angin wengi nggowo wening",
+        "rhyme_key": "ing"
+        },
+        "YY": {
+        "phrase": "sinau moco aksara wengi",
+        "rhyme_key": "i"
+        },
+        "YZ": {
+        "phrase": "rasane ayem karo tresna",
+        "rhyme_key": "a"
+        },
+        "ZA": {
+        "phrase": "weruh dalan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "ZB": {
+        "phrase": "isuk-isuk golek resik",
+        "rhyme_key": "ih"
+        },
+        "ZC": {
+        "phrase": "yen bengi kelingan tresno",
+        "rhyme_key": "o"
+        },
+        "ZD": {
+        "phrase": "tansah eling marang watu",
+        "rhyme_key": "u"
+        },
+        "ZE": {
+        "phrase": "ojo lali karo sabar",
+        "rhyme_key": "ar"
+        },
+        "ZF": {
+        "phrase": "ning ndalan ketemu nganggur",
+        "rhyme_key": "ur"
+        },
+        "ZG": {
+        "phrase": "kembang bingung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "ZH": {
+        "phrase": "angin wengi nggowo kuning",
+        "rhyme_key": "ing"
+        },
+        "ZI": {
+        "phrase": "sinau moco aksara ati",
+        "rhyme_key": "i"
+        },
+        "ZJ": {
+        "phrase": "rasane ayem karo kula",
+        "rhyme_key": "a"
+        },
+        "ZK": {
+        "phrase": "weruh wulan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "ZL": {
+        "phrase": "isuk-isuk golek pait",
+        "rhyme_key": "ih"
+        },
+        "ZM": {
+        "phrase": "yen bengi kelingan loro",
+        "rhyme_key": "o"
+        },
+        "ZN": {
+        "phrase": "tansah eling marang turu",
+        "rhyme_key": "u"
+        },
+        "ZO": {
+        "phrase": "ojo lali karo pencar",
+        "rhyme_key": "ar"
+        },
+        "ZP": {
+        "phrase": "ning ndalan ketemu ukur",
+        "rhyme_key": "ur"
+        },
+        "ZQ": {
+        "phrase": "kembang suwung wangi tenan",
+        "rhyme_key": "ung"
+        },
+        "ZR": {
+        "phrase": "angin wengi nggowo pusing",
+        "rhyme_key": "ing"
+        },
+        "ZS": {
+        "phrase": "sinau moco aksara meri",
+        "rhyme_key": "i"
+        },
+        "ZT": {
+        "phrase": "rasane ayem karo donga",
+        "rhyme_key": "a"
+        },
+        "ZU": {
+        "phrase": "weruh kancan ing awang-awang",
+        "rhyme_key": "an"
+        },
+        "ZV": {
+        "phrase": "isuk-isuk golek gurih",
+        "rhyme_key": "ih"
+        },
+        "ZW": {
+        "phrase": "yen bengi kelingan moco",
+        "rhyme_key": "o"
+        },
+        "ZX": {
+        "phrase": "tansah eling marang ayu",
+        "rhyme_key": "u"
+        },
+        "ZY": {
+        "phrase": "ojo lali karo mekar",
+        "rhyme_key": "ar"
+        },
+        "ZZ": {
+        "phrase": "ning ndalan ketemu makmur",
+        "rhyme_key": "ur"
+        }
+    }
+  }

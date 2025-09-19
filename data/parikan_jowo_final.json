@@ -1,0 +1,2714 @@
+{
+  "metadata": {
+    "name": "Parikan Jowo Final (Unik & Terjamin)",
+    "language": "Javanese",
+    "type": "parikan_4_baris",
+    "chunk_size": 2
+  },
+  "dictionary": {
+    "AA": {
+      "phrase": "Ati sepi amergo meri",
+      "rhyme_key": "i"
+    },
+    "AB": {
+      "phrase": "Sliramu katon luwih nyaman",
+      "rhyme_key": "an"
+    },
+    "AC": {
+      "phrase": "Ati kelu amergo suwung",
+      "rhyme_key": "ung"
+    },
+    "AD": {
+      "phrase": "Kudu ngenteni ben ora kelu",
+      "rhyme_key": "u"
+    },
+    "AE": {
+      "phrase": "Kudu perangan ben ora kasar",
+      "rhyme_key": "ar"
+    },
+    "AF": {
+      "phrase": "Ati nyaman amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "AG": {
+      "phrase": "Ati edan amergo kuning",
+      "rhyme_key": "ing"
+    },
+    "AH": {
+      "phrase": "Kudu goyangan ben ora bubar",
+      "rhyme_key": "ar"
+    },
+    "AI": {
+      "phrase": "Ati anyar amergo geni",
+      "rhyme_key": "i"
+    },
+    "AJ": {
+      "phrase": "Ati sabar amergo geni",
+      "rhyme_key": "i"
+    },
+    "AK": {
+      "phrase": "Ati hancur amergo werno",
+      "rhyme_key": "o"
+    },
+    "AL": {
+      "phrase": "Kudu nyawiji ben ora edan",
+      "rhyme_key": "an"
+    },
+    "AM": {
+      "phrase": "Kudu sinau ben ora ayu",
+      "rhyme_key": "u"
+    },
+    "AN": {
+      "phrase": "Ati ayu amergo taman",
+      "rhyme_key": "an"
+    },
+    "AO": {
+      "phrase": "Ati pesti amergo rindu",
+      "rhyme_key": "u"
+    },
+    "AP": {
+      "phrase": "Ati sepi amergo wengi",
+      "rhyme_key": "i"
+    },
+    "AQ": {
+      "phrase": "Kudu nyoto ben ora wangi",
+      "rhyme_key": "i"
+    },
+    "AR": {
+      "phrase": "Ati pilu amergo dongo",
+      "rhyme_key": "o"
+    },
+    "AS": {
+      "phrase": "Ati pilu amergo bingung",
+      "rhyme_key": "u"
+    },
+    "AT": {
+      "phrase": "Ati anyar amergo bening",
+      "rhyme_key": "ing"
+    },
+    "AU": {
+      "phrase": "Ati rumongso amergo wengi",
+      "rhyme_key": "i"
+    },
+    "AV": {
+      "phrase": "Rasane bubar ing njero ati",
+      "rhyme_key": "i"
+    },
+    "AW": {
+      "phrase": "Ati tentrem amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "AX": {
+      "phrase": "Ati akur amergo wengi",
+      "rhyme_key": "i"
+    },
+    "AY": {
+      "phrase": "Ojo seneng gawe prasetyaji",
+      "rhyme_key": "i"
+    },
+    "AZ": {
+      "phrase": "Ati mujur amergo wulan",
+      "rhyme_key": "an"
+    },
+    "BA": {
+      "phrase": "Ati hancur amergo rekoso",
+      "rhyme_key": "o"
+    },
+    "BB": {
+      "phrase": "Ati rumongso amergo loro",
+      "rhyme_key": "o"
+    },
+    "BC": {
+      "phrase": "Kudu ngganggu ben ora terang",
+      "rhyme_key": "an"
+    },
+    "BD": {
+      "phrase": "Rasane mujur ing njero ati",
+      "rhyme_key": "i"
+    },
+    "BE": {
+      "phrase": "Ati rindu amergo suwung",
+      "rhyme_key": "ung"
+    },
+    "BF": {
+      "phrase": "Angin wengi nggowo kuning",
+      "rhyme_key": "ing"
+    },
+    "BG": {
+      "phrase": "Ati rindu amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "BH": {
+      "phrase": "Ati edan amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "BI": {
+      "phrase": "Kudu lungo ben ora bingung",
+      "rhyme_key": "u"
+    },
+    "BJ": {
+      "phrase": "Ati bubar amergo wening",
+      "rhyme_key": "ing"
+    },
+    "BK": {
+      "phrase": "Ati pesti amergo keping",
+      "rhyme_key": "ing"
+    },
+    "BL": {
+      "phrase": "Ati hancur amergo rindu",
+      "rhyme_key": "u"
+    },
+    "BM": {
+      "phrase": "Ati makmur amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "BN": {
+      "phrase": "Ati campur amergo banyu",
+      "rhyme_key": "u"
+    },
+    "BO": {
+      "phrase": "Ati campur amergo garing",
+      "rhyme_key": "ing"
+    },
+    "BP": {
+      "phrase": "Ati ijo amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "BQ": {
+      "phrase": "Ojo seneng gawe rumongso",
+      "rhyme_key": "o"
+    },
+    "BR": {
+      "phrase": "Sliramu katon luwih terang",
+      "rhyme_key": "an"
+    },
+    "BS": {
+      "phrase": "Ati lathi amergo rasamu",
+      "rhyme_key": "u"
+    },
+    "BT": {
+      "phrase": "Kudu kelingan ben ora kelu",
+      "rhyme_key": "u"
+    },
+    "BU": {
+      "phrase": "Langite katon loro",
+      "rhyme_key": "o"
+    },
+    "BV": {
+      "phrase": "Ati gelo amergo jantung",
+      "rhyme_key": "ung"
+    },
+    "BW": {
+      "phrase": "Yen ngganggu ojo lali wektu",
+      "rhyme_key": "unk"
+    },
+    "BX": {
+      "phrase": "Ati makmur amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "BY": {
+      "phrase": "Ati suci amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "BZ": {
+      "phrase": "Ati bodho amergo kancan",
+      "rhyme_key": "an"
+    },
+    "CA": {
+      "phrase": "Ati loro amergo bodho",
+      "rhyme_key": "o"
+    },
+    "CB": {
+      "phrase": "Kudu goyangan ben ora nyaman",
+      "rhyme_key": "an"
+    },
+    "CC": {
+      "phrase": "Ati tuwo amergo geni",
+      "rhyme_key": "i"
+    },
+    "CD": {
+      "phrase": "Kudu nggoleki ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "CE": {
+      "phrase": "Ati nelongso amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "CF": {
+      "phrase": "Ati pesti amergo nesu",
+      "rhyme_key": "u"
+    },
+    "CG": {
+      "phrase": "Ati prasojo amergo roso",
+      "rhyme_key": "o"
+    },
+    "CH": {
+      "phrase": "Swara kahanan ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "CI": {
+      "phrase": "Kudu ngobati ben ora sumebar",
+      "rhyme_key": "ar"
+    },
+    "CJ": {
+      "phrase": "Ati bingung amergo taman",
+      "rhyme_key": "an"
+    },
+    "CK": {
+      "phrase": "Ati suci amergo papan",
+      "rhyme_key": "an"
+    },
+    "CL": {
+      "phrase": "Ati kelu amergo suci",
+      "rhyme_key": "i"
+    },
+    "CM": {
+      "phrase": "Ati suci amergo loro",
+      "rhyme_key": "o"
+    },
+    "CN": {
+      "phrase": "Langite katon bubar",
+      "rhyme_key": "ar"
+    },
+    "CO": {
+      "phrase": "Ati pilu amergo garing",
+      "rhyme_key": "ing"
+    },
+    "CP": {
+      "phrase": "Ati terang amergo meri",
+      "rhyme_key": "i"
+    },
+    "CQ": {
+      "phrase": "Kudu ngrasani ben ora prasojo",
+      "rhyme_key": "o"
+    },
+    "CR": {
+      "phrase": "Ati tenan amergo lamunan",
+      "rhyme_key": "an"
+    },
+    "CS": {
+      "phrase": "Ayo lungo kanthi temenan",
+      "rhyme_key": "unk"
+    },
+    "CT": {
+      "phrase": "Ngenteni tekane geni",
+      "rhyme_key": "i"
+    },
+    "CU": {
+      "phrase": "Kudu kelingan ben ora pilu",
+      "rhyme_key": "u"
+    },
+    "CV": {
+      "phrase": "Ati luhur amergo bodho",
+      "rhyme_key": "o"
+    },
+    "CW": {
+      "phrase": "Ati bodho amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "CX": {
+      "phrase": "Ati rindu amergo nesu",
+      "rhyme_key": "u"
+    },
+    "CY": {
+      "phrase": "Kudu nesu ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "CZ": {
+      "phrase": "Ati lathi amergo kancan",
+      "rhyme_key": "an"
+    },
+    "DA": {
+      "phrase": "Kudu kerjo ben ora sumebar",
+      "rhyme_key": "ar"
+    },
+    "DB": {
+      "phrase": "Ati lathi amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "DC": {
+      "phrase": "Kembang bumi ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "DD": {
+      "phrase": "Ati campur amergo ati",
+      "rhyme_key": "i"
+    },
+    "DE": {
+      "phrase": "Kudu bebarengan ben ora nyaman",
+      "rhyme_key": "an"
+    },
+    "DF": {
+      "phrase": "Kudu mlaku ben ora bodho",
+      "rhyme_key": "o"
+    },
+    "DG": {
+      "phrase": "Ati ijo amergo songo",
+      "rhyme_key": "o"
+    },
+    "DH": {
+      "phrase": "Kudu sinau ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "DI": {
+      "phrase": "Ati sumebar amergo dongo",
+      "rhyme_key": "o"
+    },
+    "DJ": {
+      "phrase": "Kudu ngugemi ben ora pesti",
+      "rhyme_key": "i"
+    },
+    "DK": {
+      "phrase": "Ati sepi amergo pilu",
+      "rhyme_key": "u"
+    },
+    "DL": {
+      "phrase": "Ati pilu amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "DM": {
+      "phrase": "Ati kelu amergo katresnan",
+      "rhyme_key": "an"
+    },
+    "DN": {
+      "phrase": "Ati wangi amergo pilu",
+      "rhyme_key": "u"
+    },
+    "DO": {
+      "phrase": "Ati saru amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "DP": {
+      "phrase": "Ati ayu amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "DQ": {
+      "phrase": "Kudu nrimo ben ora rumongso",
+      "rhyme_key": "o"
+    },
+    "DR": {
+      "phrase": "Ati sepi amergo bukti",
+      "rhyme_key": "i"
+    },
+    "DS": {
+      "phrase": "Ati bodho amergo loro",
+      "rhyme_key": "o"
+    },
+    "DT": {
+      "phrase": "Rembulane katon nelongso",
+      "rhyme_key": "an"
+    },
+    "DU": {
+      "phrase": "Kudu nggoleki ben ora ayu",
+      "rhyme_key": "u"
+    },
+    "DV": {
+      "phrase": "Swara bening ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "DW": {
+      "phrase": "Golek bodho tekan bodho",
+      "rhyme_key": "o"
+    },
+    "DX": {
+      "phrase": "Ati nelongso amergo wengi",
+      "rhyme_key": "i"
+    },
+    "DY": {
+      "phrase": "Ati terang amergo ati",
+      "rhyme_key": "i"
+    },
+    "DZ": {
+      "phrase": "Ati ijo amergo dalan",
+      "rhyme_key": "an"
+    },
+    "EA": {
+      "phrase": "Ati kasmaran amergo sanding",
+      "rhyme_key": "ing"
+    },
+    "EB": {
+      "phrase": "Rasane nyaman ing njero ati",
+      "rhyme_key": "i"
+    },
+    "EC": {
+      "phrase": "Kudu bebarengan ben ora wangi",
+      "rhyme_key": "i"
+    },
+    "ED": {
+      "phrase": "Ati sumebar amergo rindu",
+      "rhyme_key": "u"
+    },
+    "EE": {
+      "phrase": "Kudu bebarengan ben ora campur",
+      "rhyme_key": "ur"
+    },
+    "EF": {
+      "phrase": "Yen sinau ojo lali wektu",
+      "rhyme_key": "unk"
+    },
+    "EG": {
+      "phrase": "Urip iku kudu bingung",
+      "rhyme_key": "u"
+    },
+    "EH": {
+      "phrase": "Kudu nrimo ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "EI": {
+      "phrase": "Ati suci amergo kancan",
+      "rhyme_key": "an"
+    },
+    "EJ": {
+      "phrase": "Kudu goyangan ben ora luhur",
+      "rhyme_key": "ur"
+    },
+    "EK": {
+      "phrase": "Ati nelongso amergo karyo",
+      "rhyme_key": "o"
+    },
+    "EL": {
+      "phrase": "Tansah eling marang suwung",
+      "rhyme_key": "ung"
+    },
+    "EM": {
+      "phrase": "Swara bingung ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "EN": {
+      "phrase": "Kudu ngajeni ben ora hancur",
+      "rhyme_key": "ur"
+    },
+    "EO": {
+      "phrase": "Ati mujur amergo papan",
+      "rhyme_key": "an"
+    },
+    "EP": {
+      "phrase": "Kudu ngugemi ben ora loro",
+      "rhyme_key": "o"
+    },
+    "EQ": {
+      "phrase": "Ati lathi amergo jantung",
+      "rhyme_key": "ung"
+    },
+    "ER": {
+      "phrase": "Kudu pamitan ben ora terang",
+      "rhyme_key": "an"
+    },
+    "ES": {
+      "phrase": "Kudu ngenteni ben ora rindu",
+      "rhyme_key": "u"
+    },
+    "ET": {
+      "phrase": "Rasane hancur ing njero ati",
+      "rhyme_key": "i"
+    },
+    "EU": {
+      "phrase": "Ati sabar amergo loro",
+      "rhyme_key": "o"
+    },
+    "EV": {
+      "phrase": "Ati kasmaran amergo loro",
+      "rhyme_key": "o"
+    },
+    "EW": {
+      "phrase": "Ati kelu amergo pati",
+      "rhyme_key": "i"
+    },
+    "EX": {
+      "phrase": "Kudu ngajeni ben ora nelongso",
+      "rhyme_key": "an"
+    },
+    "EY": {
+      "phrase": "Ati hancur amergo bening",
+      "rhyme_key": "ing"
+    },
+    "EZ": {
+      "phrase": "Ati rumongso amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "FA": {
+      "phrase": "Isuk-isuk wes ngenteni",
+      "rhyme_key": "i"
+    },
+    "FB": {
+      "phrase": "Ati lathi amergo pangan",
+      "rhyme_key": "an"
+    },
+    "FC": {
+      "phrase": "Ati rumongso amergo pilu",
+      "rhyme_key": "u"
+    },
+    "FD": {
+      "phrase": "Ati nyaman amergo pangan",
+      "rhyme_key": "an"
+    },
+    "FE": {
+      "phrase": "Sliramu katon luwih suci",
+      "rhyme_key": "i"
+    },
+    "FF": {
+      "phrase": "Ati sepi amergo loro",
+      "rhyme_key": "o"
+    },
+    "FG": {
+      "phrase": "Ati rumongso amergo bodho",
+      "rhyme_key": "o"
+    },
+    "FH": {
+      "phrase": "Ati pilu amergo rasamu",
+      "rhyme_key": "u"
+    },
+    "FI": {
+      "phrase": "Ati gelo amergo sanding",
+      "rhyme_key": "ing"
+    },
+    "FJ": {
+      "phrase": "Ati pesti amergo sandhing",
+      "rhyme_key": "i"
+    },
+    "FK": {
+      "phrase": "Ati campur amergo suci",
+      "rhyme_key": "i"
+    },
+    "FL": {
+      "phrase": "Kudu moco ben ora kasar",
+      "rhyme_key": "ar"
+    },
+    "FM": {
+      "phrase": "Kudu nyoto ben ora lathi",
+      "rhyme_key": "i"
+    },
+    "FN": {
+      "phrase": "Ati gelo amergo pati",
+      "rhyme_key": "i"
+    },
+    "FO": {
+      "phrase": "Ati kasar amergo meri",
+      "rhyme_key": "i"
+    },
+    "FP": {
+      "phrase": "Ayo ngobati kanthi temenan",
+      "rhyme_key": "unk"
+    },
+    "FQ": {
+      "phrase": "Ati bodho amergo watu",
+      "rhyme_key": "u"
+    },
+    "FR": {
+      "phrase": "Kudu sinau ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "FS": {
+      "phrase": "Ati loro amergo suci",
+      "rhyme_key": "i"
+    },
+    "FT": {
+      "phrase": "Ati kelu amergo garing",
+      "rhyme_key": "ing"
+    },
+    "FU": {
+      "phrase": "Kudu ngugemi ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "FV": {
+      "phrase": "Ati bodho amergo sepi",
+      "rhyme_key": "i"
+    },
+    "FW": {
+      "phrase": "Ati ayu amergo meri",
+      "rhyme_key": "i"
+    },
+    "FX": {
+      "phrase": "Ati ayu amergo pati",
+      "rhyme_key": "i"
+    },
+    "FY": {
+      "phrase": "Ati saru amergo kuning",
+      "rhyme_key": "ing"
+    },
+    "FZ": {
+      "phrase": "Kudu ngobati ben ora sepi",
+      "rhyme_key": "i"
+    },
+    "GA": {
+      "phrase": "Ati hancur amergo kuning",
+      "rhyme_key": "ing"
+    },
+    "GB": {
+      "phrase": "Isuk-isuk wes nyoto",
+      "rhyme_key": "o"
+    },
+    "GC": {
+      "phrase": "Ati ayu amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "GD": {
+      "phrase": "Kudu ngugemi ben ora sabar",
+      "rhyme_key": "ar"
+    },
+    "GE": {
+      "phrase": "Kudu bebarengan ben ora kasmaran",
+      "rhyme_key": "an"
+    },
+    "GF": {
+      "phrase": "Kembang ati ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "GG": {
+      "phrase": "Ati rumongso amergo nesu",
+      "rhyme_key": "u"
+    },
+    "GH": {
+      "phrase": "Ati loro amergo dalan",
+      "rhyme_key": "an"
+    },
+    "GI": {
+      "phrase": "Kudu kerjo ben ora campur",
+      "rhyme_key": "ur"
+    },
+    "GJ": {
+      "phrase": "Kudu nggoleki ben ora saru",
+      "rhyme_key": "u"
+    },
+    "GK": {
+      "phrase": "Ati akur amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "GL": {
+      "phrase": "Kudu nrimo ben ora sumebar",
+      "rhyme_key": "ar"
+    },
+    "GM": {
+      "phrase": "Ati kudu amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "GN": {
+      "phrase": "Ati ayu amergo garing",
+      "rhyme_key": "ing"
+    },
+    "GO": {
+      "phrase": "Ati tentrem amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "GP": {
+      "phrase": "Kudu pamitan ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "GQ": {
+      "phrase": "Tansah eling marang sandhing",
+      "rhyme_key": "i"
+    },
+    "GR": {
+      "phrase": "Ati kasmaran amergo wening",
+      "rhyme_key": "ing"
+    },
+    "GS": {
+      "phrase": "Ojo seneng gawe kelu",
+      "rhyme_key": "u"
+    },
+    "GT": {
+      "phrase": "Tansah eling marang bodho",
+      "rhyme_key": "o"
+    },
+    "GU": {
+      "phrase": "Ayo perangan kanthi temenan",
+      "rhyme_key": "unk"
+    },
+    "GV": {
+      "phrase": "Ati kudu amergo sanding",
+      "rhyme_key": "ing"
+    },
+    "GW": {
+      "phrase": "Ati prasetyaji amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "GX": {
+      "phrase": "Ati pilu amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "GY": {
+      "phrase": "Ati kudu amergo dalan",
+      "rhyme_key": "an"
+    },
+    "GZ": {
+      "phrase": "Ati terang amergo sandhing",
+      "rhyme_key": "i"
+    },
+    "HA": {
+      "phrase": "Ati kudu amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "HB": {
+      "phrase": "Kudu ngugemi ben ora ijo",
+      "rhyme_key": "o"
+    },
+    "HC": {
+      "phrase": "Ati prasojo amergo bukti",
+      "rhyme_key": "i"
+    },
+    "HD": {
+      "phrase": "Ati bingung amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "HE": {
+      "phrase": "Kudu nyoto ben ora suci",
+      "rhyme_key": "i"
+    },
+    "HF": {
+      "phrase": "Kudu ngganggu ben ora luhur",
+      "rhyme_key": "ur"
+    },
+    "HG": {
+      "phrase": "Ati kasar amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "HH": {
+      "phrase": "Kudu pamitan ben ora bubar",
+      "rhyme_key": "ar"
+    },
+    "HI": {
+      "phrase": "Ati pilu amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "HJ": {
+      "phrase": "Kudu nyoto ben ora sumebar",
+      "rhyme_key": "ar"
+    },
+    "HK": {
+      "phrase": "Kudu nesu ben ora saru",
+      "rhyme_key": "u"
+    },
+    "HL": {
+      "phrase": "Ati nyaman amergo karyo",
+      "rhyme_key": "o"
+    },
+    "HM": {
+      "phrase": "Ati rumongso amergo werno",
+      "rhyme_key": "o"
+    },
+    "HN": {
+      "phrase": "Kudu pamitan ben ora edan",
+      "rhyme_key": "an"
+    },
+    "HO": {
+      "phrase": "Kembang taman ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "HP": {
+      "phrase": "Kudu ngobati ben ora bingung",
+      "rhyme_key": "u"
+    },
+    "HQ": {
+      "phrase": "Ati sepi amergo dongo",
+      "rhyme_key": "o"
+    },
+    "HR": {
+      "phrase": "Kudu nyoto ben ora ijo",
+      "rhyme_key": "o"
+    },
+    "HS": {
+      "phrase": "Yen nrimo ojo lali wektu",
+      "rhyme_key": "unk"
+    },
+    "HT": {
+      "phrase": "Ati makmur amergo sandhing",
+      "rhyme_key": "i"
+    },
+    "HU": {
+      "phrase": "Ati nelongso amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "HV": {
+      "phrase": "Ati akur amergo geni",
+      "rhyme_key": "i"
+    },
+    "HW": {
+      "phrase": "Kudu lungo ben ora wangi",
+      "rhyme_key": "i"
+    },
+    "HX": {
+      "phrase": "Swara tekanan ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "HY": {
+      "phrase": "Ati sabar amergo rekoso",
+      "rhyme_key": "o"
+    },
+    "HZ": {
+      "phrase": "Ati kelu amergo rasamu",
+      "rhyme_key": "u"
+    },
+    "IA": {
+      "phrase": "Kudu nyawiji ben ora hancur",
+      "rhyme_key": "ur"
+    },
+    "IB": {
+      "phrase": "Ati sepi amergo pati",
+      "rhyme_key": "i"
+    },
+    "IC": {
+      "phrase": "Ati ijo amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "ID": {
+      "phrase": "Ati pesti amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "IE": {
+      "phrase": "Ati makmur amergo suci",
+      "rhyme_key": "i"
+    },
+    "IF": {
+      "phrase": "Swara pangan ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "IG": {
+      "phrase": "Ati loro amergo kancan",
+      "rhyme_key": "an"
+    },
+    "IH": {
+      "phrase": "Ati jembar amergo roso",
+      "rhyme_key": "o"
+    },
+    "II": {
+      "phrase": "Ati kelu amergo udan",
+      "rhyme_key": "an"
+    },
+    "IJ": {
+      "phrase": "Ati mujur amergo watu",
+      "rhyme_key": "u"
+    },
+    "IK": {
+      "phrase": "Ati tuwo amergo roso",
+      "rhyme_key": "o"
+    },
+    "IL": {
+      "phrase": "Ati campur amergo keping",
+      "rhyme_key": "ing"
+    },
+    "IM": {
+      "phrase": "Ati kasmaran amergo bukti",
+      "rhyme_key": "i"
+    },
+    "IN": {
+      "phrase": "Ayo ngajeni kanthi temenan",
+      "rhyme_key": "unk"
+    },
+    "IO": {
+      "phrase": "Ati kasmaran amergo bumi",
+      "rhyme_key": "i"
+    },
+    "IP": {
+      "phrase": "Ati rindu amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "IQ": {
+      "phrase": "Ati sumebar amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "IR": {
+      "phrase": "Kudu nyawiji ben ora pesti",
+      "rhyme_key": "i"
+    },
+    "IS": {
+      "phrase": "Ati tenan amergo awakmu",
+      "rhyme_key": "u"
+    },
+    "IT": {
+      "phrase": "Kudu nyawiji ben ora tenan",
+      "rhyme_key": "an"
+    },
+    "IU": {
+      "phrase": "Kudu ngenteni ben ora campur",
+      "rhyme_key": "ur"
+    },
+    "IV": {
+      "phrase": "Ati edan amergo sanding",
+      "rhyme_key": "ing"
+    },
+    "IW": {
+      "phrase": "Ati makmur amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "IX": {
+      "phrase": "Kembang wurung ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "IY": {
+      "phrase": "Kudu ngomong ben ora kudu",
+      "rhyme_key": "u"
+    },
+    "IZ": {
+      "phrase": "Swara keping ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "JA": {
+      "phrase": "Kudu nyoto ben ora saru",
+      "rhyme_key": "u"
+    },
+    "JB": {
+      "phrase": "Ati akur amergo rindu",
+      "rhyme_key": "u"
+    },
+    "JC": {
+      "phrase": "Kudu ngguyu ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "JD": {
+      "phrase": "Ati ayu amergo suwung",
+      "rhyme_key": "ung"
+    },
+    "JE": {
+      "phrase": "Kudu ngganggu ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "JF": {
+      "phrase": "Kudu ngguyu ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "JG": {
+      "phrase": "Ati tenan amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "JH": {
+      "phrase": "Ati ijo amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "JI": {
+      "phrase": "Ati pesti amergo rekoso",
+      "rhyme_key": "o"
+    },
+    "JJ": {
+      "phrase": "Rasane kasar ing njero ati",
+      "rhyme_key": "i"
+    },
+    "JK": {
+      "phrase": "Ati tuwo amergo bumi",
+      "rhyme_key": "i"
+    },
+    "JL": {
+      "phrase": "Ati pesti amergo banyu",
+      "rhyme_key": "u"
+    },
+    "JM": {
+      "phrase": "Isuk-isuk wes ngguyu",
+      "rhyme_key": "u"
+    },
+    "JN": {
+      "phrase": "Kudu ngrasani ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "JO": {
+      "phrase": "Ati mujur amergo suci",
+      "rhyme_key": "i"
+    },
+    "JP": {
+      "phrase": "Kudu bebarengan ben ora akur",
+      "rhyme_key": "ur"
+    },
+    "JQ": {
+      "phrase": "Ati kudu amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "JR": {
+      "phrase": "Ati kudu amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "JS": {
+      "phrase": "Kudu ngugemi ben ora suci",
+      "rhyme_key": "i"
+    },
+    "JT": {
+      "phrase": "Kudu bebarengan ben ora luhur",
+      "rhyme_key": "ur"
+    },
+    "JU": {
+      "phrase": "Ati pesti amergo awakmu",
+      "rhyme_key": "u"
+    },
+    "JV": {
+      "phrase": "Kudu nesu ben ora tuwo",
+      "rhyme_key": "o"
+    },
+    "JW": {
+      "phrase": "Kudu ngrasani ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "JX": {
+      "phrase": "Ati bingung amergo pilu",
+      "rhyme_key": "u"
+    },
+    "JY": {
+      "phrase": "Ati wangi amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "JZ": {
+      "phrase": "Ati terang amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "KA": {
+      "phrase": "Kudu nesu ben ora akur",
+      "rhyme_key": "ur"
+    },
+    "KB": {
+      "phrase": "Ati bingung amergo dongo",
+      "rhyme_key": "o"
+    },
+    "KC": {
+      "phrase": "Ati bubar amergo karyo",
+      "rhyme_key": "o"
+    },
+    "KD": {
+      "phrase": "Ati prasojo amergo wektumu",
+      "rhyme_key": "u"
+    },
+    "KE": {
+      "phrase": "Kudu nggoleki ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "KF": {
+      "phrase": "Ati kudu amergo keping",
+      "rhyme_key": "ing"
+    },
+    "KG": {
+      "phrase": "Ati sumebar amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "KH": {
+      "phrase": "Kudu nyawiji ben ora sabar",
+      "rhyme_key": "ar"
+    },
+    "KI": {
+      "phrase": "Sliramu katon luwih kasmaran",
+      "rhyme_key": "an"
+    },
+    "KJ": {
+      "phrase": "Ati kasmaran amergo miring",
+      "rhyme_key": "ing"
+    },
+    "KK": {
+      "phrase": "Ojo seneng gawe pesti",
+      "rhyme_key": "i"
+    },
+    "KL": {
+      "phrase": "Ati gelo amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "KM": {
+      "phrase": "Kudu ngrasani ben ora rumongso",
+      "rhyme_key": "o"
+    },
+    "KN": {
+      "phrase": "Golek wurung tekan wurung",
+      "rhyme_key": "ung"
+    },
+    "KO": {
+      "phrase": "Ati rindu amergo taman",
+      "rhyme_key": "an"
+    },
+    "KP": {
+      "phrase": "Kudu goyangan ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "KQ": {
+      "phrase": "Sliramu katon luwih nelongso",
+      "rhyme_key": "an"
+    },
+    "KR": {
+      "phrase": "Kudu kelingan ben ora bingung",
+      "rhyme_key": "u"
+    },
+    "KS": {
+      "phrase": "Ati gemati amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "KT": {
+      "phrase": "Ati terang amergo agung",
+      "rhyme_key": "ung"
+    },
+    "KU": {
+      "phrase": "Ati nelongso amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "KV": {
+      "phrase": "Ati campur amergo tresno",
+      "rhyme_key": "o"
+    },
+    "KW": {
+      "phrase": "Ati makmur amergo taman",
+      "rhyme_key": "an"
+    },
+    "KX": {
+      "phrase": "Ati saru amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "KY": {
+      "phrase": "Ati akur amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "KZ": {
+      "phrase": "Kudu ngajeni ben ora ijo",
+      "rhyme_key": "o"
+    },
+    "LA": {
+      "phrase": "Langite katon kudu",
+      "rhyme_key": "u"
+    },
+    "LB": {
+      "phrase": "Kudu sinau ben ora tentrem",
+      "rhyme_key": "an"
+    },
+    "LC": {
+      "phrase": "Ati loro amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "LD": {
+      "phrase": "Ati gelo amergo bodho",
+      "rhyme_key": "o"
+    },
+    "LE": {
+      "phrase": "Ati prasojo amergo janji",
+      "rhyme_key": "i"
+    },
+    "LF": {
+      "phrase": "Ati wangi amergo nesu",
+      "rhyme_key": "u"
+    },
+    "LG": {
+      "phrase": "Kudu ngomong ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "LH": {
+      "phrase": "Kudu ngobati ben ora suci",
+      "rhyme_key": "i"
+    },
+    "LI": {
+      "phrase": "Ati mujur amergo udan",
+      "rhyme_key": "an"
+    },
+    "LJ": {
+      "phrase": "Ati nelongso amergo udan",
+      "rhyme_key": "an"
+    },
+    "LK": {
+      "phrase": "Ati wangi amergo pati",
+      "rhyme_key": "i"
+    },
+    "LL": {
+      "phrase": "Swara jantung ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "LM": {
+      "phrase": "Ati terang amergo sepi",
+      "rhyme_key": "i"
+    },
+    "LN": {
+      "phrase": "Kudu ngajeni ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "LO": {
+      "phrase": "Ati saru amergo bodho",
+      "rhyme_key": "o"
+    },
+    "LP": {
+      "phrase": "Ati luhur amergo lamunan",
+      "rhyme_key": "an"
+    },
+    "LQ": {
+      "phrase": "Ati pilu amergo suwung",
+      "rhyme_key": "ung"
+    },
+    "LR": {
+      "phrase": "Ati sabar amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "LS": {
+      "phrase": "Angin wengi nggowo pangan",
+      "rhyme_key": "an"
+    },
+    "LT": {
+      "phrase": "Ati terang amergo pangan",
+      "rhyme_key": "an"
+    },
+    "LU": {
+      "phrase": "Ati kasar amergo keping",
+      "rhyme_key": "ing"
+    },
+    "LV": {
+      "phrase": "Golek awakmu tekan awakmu",
+      "rhyme_key": "u"
+    },
+    "LW": {
+      "phrase": "Kudu ngganggu ben ora gelo",
+      "rhyme_key": "o"
+    },
+    "LX": {
+      "phrase": "Kudu moco ben ora sepi",
+      "rhyme_key": "i"
+    },
+    "LY": {
+      "phrase": "Ati hancur amergo tresno",
+      "rhyme_key": "o"
+    },
+    "LZ": {
+      "phrase": "Kudu moco ben ora ijo",
+      "rhyme_key": "o"
+    },
+    "MA": {
+      "phrase": "Ati pilu amergo turu",
+      "rhyme_key": "u"
+    },
+    "MB": {
+      "phrase": "Ati campur amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "MC": {
+      "phrase": "Ati sepi amergo katresnan",
+      "rhyme_key": "an"
+    },
+    "MD": {
+      "phrase": "Ati tenan amergo turu",
+      "rhyme_key": "u"
+    },
+    "ME": {
+      "phrase": "Kembang janji ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "MF": {
+      "phrase": "Kudu nyoto ben ora sabar",
+      "rhyme_key": "ar"
+    },
+    "MG": {
+      "phrase": "Ati lathi amergo janji",
+      "rhyme_key": "i"
+    },
+    "MH": {
+      "phrase": "Rasane tuwo ing njero ati",
+      "rhyme_key": "i"
+    },
+    "MI": {
+      "phrase": "Kembang sandhing ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "MJ": {
+      "phrase": "Ati prasetyaji amergo janji",
+      "rhyme_key": "i"
+    },
+    "MK": {
+      "phrase": "Ati bubar amergo turu",
+      "rhyme_key": "u"
+    },
+    "ML": {
+      "phrase": "Kudu nyoto ben ora akur",
+      "rhyme_key": "ur"
+    },
+    "MM": {
+      "phrase": "Isuk-isuk wes bebarengan",
+      "rhyme_key": "an"
+    },
+    "MN": {
+      "phrase": "Kudu ngajeni ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "MO": {
+      "phrase": "Ati saru amergo bingung",
+      "rhyme_key": "u"
+    },
+    "MP": {
+      "phrase": "Ati nelongso amergo pilu",
+      "rhyme_key": "u"
+    },
+    "MQ": {
+      "phrase": "Ati pesti amergo janji",
+      "rhyme_key": "i"
+    },
+    "MR": {
+      "phrase": "Kudu ngobati ben ora pesti",
+      "rhyme_key": "i"
+    },
+    "MS": {
+      "phrase": "Kudu pamitan ben ora ayu",
+      "rhyme_key": "u"
+    },
+    "MT": {
+      "phrase": "Kudu bebarengan ben ora ijo",
+      "rhyme_key": "o"
+    },
+    "MU": {
+      "phrase": "Kudu lungo ben ora ijo",
+      "rhyme_key": "o"
+    },
+    "MV": {
+      "phrase": "Ati loro amergo watu",
+      "rhyme_key": "u"
+    },
+    "MW": {
+      "phrase": "Ati anyar amergo wengi",
+      "rhyme_key": "i"
+    },
+    "MX": {
+      "phrase": "Ati gelo amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "MY": {
+      "phrase": "Ati tenan amergo ati",
+      "rhyme_key": "i"
+    },
+    "MZ": {
+      "phrase": "Ngenteni tekane garing",
+      "rhyme_key": "ing"
+    },
+    "NA": {
+      "phrase": "Ati kudu amergo awakmu",
+      "rhyme_key": "u"
+    },
+    "NB": {
+      "phrase": "Ati lathi amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "NC": {
+      "phrase": "Kudu lungo ben ora suci",
+      "rhyme_key": "i"
+    },
+    "ND": {
+      "phrase": "Ati kelu amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "NE": {
+      "phrase": "Ojo seneng gawe wangi",
+      "rhyme_key": "i"
+    },
+    "NF": {
+      "phrase": "Ati nyaman amergo garing",
+      "rhyme_key": "ing"
+    },
+    "NG": {
+      "phrase": "Isuk-isuk wes nrimo",
+      "rhyme_key": "o"
+    },
+    "NH": {
+      "phrase": "Kudu ngugemi ben ora saru",
+      "rhyme_key": "u"
+    },
+    "NI": {
+      "phrase": "Kudu nrimo ben ora kelu",
+      "rhyme_key": "u"
+    },
+    "NJ": {
+      "phrase": "Kembang sarung ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "NK": {
+      "phrase": "Ati hancur amergo ati",
+      "rhyme_key": "i"
+    },
+    "NL": {
+      "phrase": "Kudu goyangan ben ora hancur",
+      "rhyme_key": "ur"
+    },
+    "NM": {
+      "phrase": "Kudu nyoto ben ora edan",
+      "rhyme_key": "an"
+    },
+    "NN": {
+      "phrase": "Ati tenan amergo janji",
+      "rhyme_key": "i"
+    },
+    "NO": {
+      "phrase": "Golek tekanan tekan tekanan",
+      "rhyme_key": "an"
+    },
+    "NP": {
+      "phrase": "Kudu nyoto ben ora gemati",
+      "rhyme_key": "i"
+    },
+    "NQ": {
+      "phrase": "Kudu ngenteni ben ora sepi",
+      "rhyme_key": "i"
+    },
+    "NR": {
+      "phrase": "Ati sepi amergo werno",
+      "rhyme_key": "o"
+    },
+    "NS": {
+      "phrase": "Ati saru amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "NT": {
+      "phrase": "Kudu nrimo ben ora hancur",
+      "rhyme_key": "ur"
+    },
+    "NU": {
+      "phrase": "Ati tentrem amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "NV": {
+      "phrase": "Kudu bebarengan ben ora sepi",
+      "rhyme_key": "i"
+    },
+    "NW": {
+      "phrase": "Kudu kelingan ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "NX": {
+      "phrase": "Ati nyaman amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "NY": {
+      "phrase": "Ati makmur amergo wektumu",
+      "rhyme_key": "u"
+    },
+    "NZ": {
+      "phrase": "Kudu ngenteni ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "OA": {
+      "phrase": "Ati rindu amergo pangan",
+      "rhyme_key": "an"
+    },
+    "OB": {
+      "phrase": "Ati kasmaran amergo pilu",
+      "rhyme_key": "u"
+    },
+    "OC": {
+      "phrase": "Ati akur amergo awakmu",
+      "rhyme_key": "u"
+    },
+    "OD": {
+      "phrase": "Ati suci amergo miring",
+      "rhyme_key": "ing"
+    },
+    "OE": {
+      "phrase": "Kudu kelingan ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "OF": {
+      "phrase": "Kudu nrimo ben ora gelo",
+      "rhyme_key": "o"
+    },
+    "OG": {
+      "phrase": "Ati kasmaran amergo kancan",
+      "rhyme_key": "an"
+    },
+    "OH": {
+      "phrase": "Ati lathi amergo taman",
+      "rhyme_key": "an"
+    },
+    "OI": {
+      "phrase": "Ati jembar amergo suci",
+      "rhyme_key": "i"
+    },
+    "OJ": {
+      "phrase": "Kudu nesu ben ora wangi",
+      "rhyme_key": "i"
+    },
+    "OK": {
+      "phrase": "Ati sumebar amergo taman",
+      "rhyme_key": "an"
+    },
+    "OL": {
+      "phrase": "Ati kasmaran amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "OM": {
+      "phrase": "Ati bodho amergo wening",
+      "rhyme_key": "ing"
+    },
+    "ON": {
+      "phrase": "Ati saru amergo udan",
+      "rhyme_key": "an"
+    },
+    "OO": {
+      "phrase": "Ati rindu amergo janji",
+      "rhyme_key": "i"
+    },
+    "OP": {
+      "phrase": "Kudu ngobati ben ora luhur",
+      "rhyme_key": "ur"
+    },
+    "OQ": {
+      "phrase": "Ati rumongso amergo songo",
+      "rhyme_key": "o"
+    },
+    "OR": {
+      "phrase": "Ati kudu amergo banyu",
+      "rhyme_key": "u"
+    },
+    "OS": {
+      "phrase": "Ati lathi amergo karyo",
+      "rhyme_key": "o"
+    },
+    "OT": {
+      "phrase": "Kudu ngganggu ben ora sepi",
+      "rhyme_key": "i"
+    },
+    "OU": {
+      "phrase": "Kudu perangan ben ora loro",
+      "rhyme_key": "o"
+    },
+    "OV": {
+      "phrase": "Kudu nesu ben ora edan",
+      "rhyme_key": "an"
+    },
+    "OW": {
+      "phrase": "Ngenteni tekane dalan",
+      "rhyme_key": "an"
+    },
+    "OX": {
+      "phrase": "Ati kelu amergo bingung",
+      "rhyme_key": "u"
+    },
+    "OY": {
+      "phrase": "Ati gemati amergo pangan",
+      "rhyme_key": "an"
+    },
+    "OZ": {
+      "phrase": "Kudu kerjo ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "PA": {
+      "phrase": "Ati nyaman amergo pilu",
+      "rhyme_key": "u"
+    },
+    "PB": {
+      "phrase": "Rasane akur ing njero ati",
+      "rhyme_key": "i"
+    },
+    "PC": {
+      "phrase": "Kudu perangan ben ora kudu",
+      "rhyme_key": "u"
+    },
+    "PD": {
+      "phrase": "Urip iku kudu wangi",
+      "rhyme_key": "i"
+    },
+    "PE": {
+      "phrase": "Ati pilu amergo songo",
+      "rhyme_key": "o"
+    },
+    "PF": {
+      "phrase": "Ati gemati amergo lamunan",
+      "rhyme_key": "an"
+    },
+    "PG": {
+      "phrase": "Rasane nelongso ing njero ati",
+      "rhyme_key": "i"
+    },
+    "PH": {
+      "phrase": "Kudu ngomong ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "PI": {
+      "phrase": "Ayo bebarengan kanthi temenan",
+      "rhyme_key": "unk"
+    },
+    "PJ": {
+      "phrase": "Ati bingung amergo tresno",
+      "rhyme_key": "o"
+    },
+    "PK": {
+      "phrase": "Golek papan tekan papan",
+      "rhyme_key": "an"
+    },
+    "PL": {
+      "phrase": "Kudu mlaku ben ora hancur",
+      "rhyme_key": "ur"
+    },
+    "PM": {
+      "phrase": "Ati makmur amergo bening",
+      "rhyme_key": "ing"
+    },
+    "PN": {
+      "phrase": "Ati rumongso amergo taman",
+      "rhyme_key": "an"
+    },
+    "PO": {
+      "phrase": "Ati bodho amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "PP": {
+      "phrase": "Rembulane katon campur",
+      "rhyme_key": "ur"
+    },
+    "PQ": {
+      "phrase": "Ati saru amergo ati",
+      "rhyme_key": "i"
+    },
+    "PR": {
+      "phrase": "Kudu kelingan ben ora gemati",
+      "rhyme_key": "i"
+    },
+    "PS": {
+      "phrase": "Ati pilu amergo tresno",
+      "rhyme_key": "o"
+    },
+    "PT": {
+      "phrase": "Ati tentrem amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "PU": {
+      "phrase": "Kudu nesu ben ora prasojo",
+      "rhyme_key": "o"
+    },
+    "PV": {
+      "phrase": "Kudu ngganggu ben ora suci",
+      "rhyme_key": "i"
+    },
+    "PW": {
+      "phrase": "Kudu ngguyu ben ora campur",
+      "rhyme_key": "ur"
+    },
+    "PX": {
+      "phrase": "Ati kelu amergo roso",
+      "rhyme_key": "o"
+    },
+    "PY": {
+      "phrase": "Ati terang amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "PZ": {
+      "phrase": "Rembulane katon saru",
+      "rhyme_key": "u"
+    },
+    "QA": {
+      "phrase": "Ati ijo amergo bumi",
+      "rhyme_key": "i"
+    },
+    "QB": {
+      "phrase": "Kudu nyoto ben ora kasmaran",
+      "rhyme_key": "an"
+    },
+    "QC": {
+      "phrase": "Rembulane katon mujur",
+      "rhyme_key": "ur"
+    },
+    "QD": {
+      "phrase": "Ati loro amergo pati",
+      "rhyme_key": "i"
+    },
+    "QE": {
+      "phrase": "Ati mujur amergo bumi",
+      "rhyme_key": "i"
+    },
+    "QF": {
+      "phrase": "Ati kelu amergo bening",
+      "rhyme_key": "ing"
+    },
+    "QG": {
+      "phrase": "Ati edan amergo udan",
+      "rhyme_key": "an"
+    },
+    "QH": {
+      "phrase": "Angin wengi nggowo rasamu",
+      "rhyme_key": "u"
+    },
+    "QI": {
+      "phrase": "Ati akur amergo ati",
+      "rhyme_key": "i"
+    },
+    "QJ": {
+      "phrase": "Ati prasetyaji amergo sandhing",
+      "rhyme_key": "i"
+    },
+    "QK": {
+      "phrase": "Ati hancur amergo janji",
+      "rhyme_key": "i"
+    },
+    "QL": {
+      "phrase": "Ati tuwo amergo pangan",
+      "rhyme_key": "an"
+    },
+    "QM": {
+      "phrase": "Ati nyaman amergo loro",
+      "rhyme_key": "o"
+    },
+    "QN": {
+      "phrase": "Ati kasmaran amergo bening",
+      "rhyme_key": "ing"
+    },
+    "QO": {
+      "phrase": "Kudu ngganggu ben ora edan",
+      "rhyme_key": "an"
+    },
+    "QP": {
+      "phrase": "Ati makmur amergo loro",
+      "rhyme_key": "o"
+    },
+    "QQ": {
+      "phrase": "Ati nelongso amergo janji",
+      "rhyme_key": "i"
+    },
+    "QR": {
+      "phrase": "Ati bodho amergo pilu",
+      "rhyme_key": "u"
+    },
+    "QS": {
+      "phrase": "Ati wangi amergo werno",
+      "rhyme_key": "o"
+    },
+    "QT": {
+      "phrase": "Ati hancur amergo awakmu",
+      "rhyme_key": "u"
+    },
+    "QU": {
+      "phrase": "Ati loro amergo meri",
+      "rhyme_key": "i"
+    },
+    "QV": {
+      "phrase": "Kudu ngguyu ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "QW": {
+      "phrase": "Kudu nyoto ben ora kelu",
+      "rhyme_key": "u"
+    },
+    "QX": {
+      "phrase": "Ngenteni tekane pusing",
+      "rhyme_key": "ing"
+    },
+    "QY": {
+      "phrase": "Ati tenan amergo bening",
+      "rhyme_key": "ing"
+    },
+    "QZ": {
+      "phrase": "Ati gemati amergo tresno",
+      "rhyme_key": "o"
+    },
+    "RA": {
+      "phrase": "Ati mujur amergo pati",
+      "rhyme_key": "i"
+    },
+    "RB": {
+      "phrase": "Ati prasojo amergo taman",
+      "rhyme_key": "an"
+    },
+    "RC": {
+      "phrase": "Kudu moco ben ora nyaman",
+      "rhyme_key": "an"
+    },
+    "RD": {
+      "phrase": "Kudu kelingan ben ora sepi",
+      "rhyme_key": "i"
+    },
+    "RE": {
+      "phrase": "Rasane terang ing njero ati",
+      "rhyme_key": "i"
+    },
+    "RF": {
+      "phrase": "Ngenteni tekane sandhing",
+      "rhyme_key": "i"
+    },
+    "RG": {
+      "phrase": "Ati ayu amergo bumi",
+      "rhyme_key": "i"
+    },
+    "RH": {
+      "phrase": "Ati sumebar amergo papan",
+      "rhyme_key": "an"
+    },
+    "RI": {
+      "phrase": "Ati loro amergo wengi",
+      "rhyme_key": "i"
+    },
+    "RJ": {
+      "phrase": "Ati pesti amergo kuning",
+      "rhyme_key": "ing"
+    },
+    "RK": {
+      "phrase": "Ati jembar amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "RL": {
+      "phrase": "Langite katon tentrem",
+      "rhyme_key": "an"
+    },
+    "RM": {
+      "phrase": "Ati terang amergo wening",
+      "rhyme_key": "ing"
+    },
+    "RN": {
+      "phrase": "Rembulane katon bingung",
+      "rhyme_key": "u"
+    },
+    "RO": {
+      "phrase": "Ati suci amergo janji",
+      "rhyme_key": "i"
+    },
+    "RP": {
+      "phrase": "Ati kelu amergo pilu",
+      "rhyme_key": "u"
+    },
+    "RQ": {
+      "phrase": "Kembang awakmu ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "RR": {
+      "phrase": "Ati wangi amergo wektumu",
+      "rhyme_key": "u"
+    },
+    "RS": {
+      "phrase": "Ati kasar amergo kuning",
+      "rhyme_key": "ing"
+    },
+    "RT": {
+      "phrase": "Kudu nrimo ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "RU": {
+      "phrase": "Kudu moco ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "RV": {
+      "phrase": "Kudu nyoto ben ora rumongso",
+      "rhyme_key": "o"
+    },
+    "RW": {
+      "phrase": "Kudu pamitan ben ora kasmaran",
+      "rhyme_key": "an"
+    },
+    "RX": {
+      "phrase": "Ati campur amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "RY": {
+      "phrase": "Ati hancur amergo dalan",
+      "rhyme_key": "an"
+    },
+    "RZ": {
+      "phrase": "Ati hancur amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "SA": {
+      "phrase": "Ati nelongso amergo geni",
+      "rhyme_key": "i"
+    },
+    "SB": {
+      "phrase": "Kudu mlaku ben ora bubar",
+      "rhyme_key": "ar"
+    },
+    "SC": {
+      "phrase": "Ngenteni tekane banyu",
+      "rhyme_key": "u"
+    },
+    "SD": {
+      "phrase": "Ati bodho amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "SE": {
+      "phrase": "Rasane gemati ing njero ati",
+      "rhyme_key": "i"
+    },
+    "SF": {
+      "phrase": "Ati nelongso amergo dalan",
+      "rhyme_key": "an"
+    },
+    "SG": {
+      "phrase": "Ati ijo amergo rekoso",
+      "rhyme_key": "o"
+    },
+    "SH": {
+      "phrase": "Ati kudu amergo rekoso",
+      "rhyme_key": "o"
+    },
+    "SI": {
+      "phrase": "Rembulane katon loro",
+      "rhyme_key": "o"
+    },
+    "SJ": {
+      "phrase": "Ati wangi amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "SK": {
+      "phrase": "Isuk-isuk wes moco",
+      "rhyme_key": "o"
+    },
+    "SL": {
+      "phrase": "Ati sabar amergo wening",
+      "rhyme_key": "ing"
+    },
+    "SM": {
+      "phrase": "Kudu ngganggu ben ora akur",
+      "rhyme_key": "ur"
+    },
+    "SN": {
+      "phrase": "Ati nelongso amergo bingung",
+      "rhyme_key": "u"
+    },
+    "SO": {
+      "phrase": "Ati sumebar amergo turu",
+      "rhyme_key": "u"
+    },
+    "SP": {
+      "phrase": "Ati tentrem amergo loro",
+      "rhyme_key": "o"
+    },
+    "SQ": {
+      "phrase": "Ati kudu amergo rasamu",
+      "rhyme_key": "u"
+    },
+    "SR": {
+      "phrase": "Ati lathi amergo geni",
+      "rhyme_key": "i"
+    },
+    "SS": {
+      "phrase": "Kudu bebarengan ben ora kelu",
+      "rhyme_key": "u"
+    },
+    "ST": {
+      "phrase": "Kudu perangan ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "SU": {
+      "phrase": "Kudu ngajeni ben ora bingung",
+      "rhyme_key": "u"
+    },
+    "SV": {
+      "phrase": "Ngenteni tekane pangan",
+      "rhyme_key": "an"
+    },
+    "SW": {
+      "phrase": "Ati bingung amergo roso",
+      "rhyme_key": "o"
+    },
+    "SX": {
+      "phrase": "Kudu moco ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "SY": {
+      "phrase": "Ati bubar amergo garing",
+      "rhyme_key": "ing"
+    },
+    "SZ": {
+      "phrase": "Ati makmur amergo kancan",
+      "rhyme_key": "an"
+    },
+    "TA": {
+      "phrase": "Golek dalan tekan dalan",
+      "rhyme_key": "an"
+    },
+    "TB": {
+      "phrase": "Ati prasetyaji amergo wengi",
+      "rhyme_key": "i"
+    },
+    "TC": {
+      "phrase": "Ati tuwo amergo miring",
+      "rhyme_key": "ing"
+    },
+    "TD": {
+      "phrase": "Ati tuwo amergo karyo",
+      "rhyme_key": "o"
+    },
+    "TE": {
+      "phrase": "Tansah eling marang kancan",
+      "rhyme_key": "an"
+    },
+    "TF": {
+      "phrase": "Golek rekoso tekan rekoso",
+      "rhyme_key": "o"
+    },
+    "TG": {
+      "phrase": "Ati edan amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "TH": {
+      "phrase": "Ati anyar amergo gunung",
+      "rhyme_key": "ung"
+    },
+    "TI": {
+      "phrase": "Kudu kerjo ben ora bubar",
+      "rhyme_key": "ar"
+    },
+    "TJ": {
+      "phrase": "Kudu ngenteni ben ora nyaman",
+      "rhyme_key": "an"
+    },
+    "TK": {
+      "phrase": "Ati ijo amergo turu",
+      "rhyme_key": "u"
+    },
+    "TL": {
+      "phrase": "Ati loro amergo taman",
+      "rhyme_key": "an"
+    },
+    "TM": {
+      "phrase": "Kudu ngugemi ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "TN": {
+      "phrase": "Kudu moco ben ora loro",
+      "rhyme_key": "o"
+    },
+    "TO": {
+      "phrase": "Sliramu katon luwih anyar",
+      "rhyme_key": "ar"
+    },
+    "TP": {
+      "phrase": "Ojo seneng gawe kasmaran",
+      "rhyme_key": "an"
+    },
+    "TQ": {
+      "phrase": "Ati kasmaran amergo dongo",
+      "rhyme_key": "o"
+    },
+    "TR": {
+      "phrase": "Ati tuwo amergo suci",
+      "rhyme_key": "i"
+    },
+    "TS": {
+      "phrase": "Kudu ngajeni ben ora pesti",
+      "rhyme_key": "i"
+    },
+    "TT": {
+      "phrase": "Ati ayu amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "TU": {
+      "phrase": "Kudu moco ben ora campur",
+      "rhyme_key": "ur"
+    },
+    "TV": {
+      "phrase": "Kudu ngguyu ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "TW": {
+      "phrase": "Urip iku kudu terang",
+      "rhyme_key": "an"
+    },
+    "TX": {
+      "phrase": "Ati tenan amergo bukti",
+      "rhyme_key": "i"
+    },
+    "TY": {
+      "phrase": "Ati kasmaran amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "TZ": {
+      "phrase": "Ati lathi amergo sarung",
+      "rhyme_key": "ung"
+    },
+    "UA": {
+      "phrase": "Ati nyaman amergo meri",
+      "rhyme_key": "i"
+    },
+    "UB": {
+      "phrase": "Golek miring tekan miring",
+      "rhyme_key": "ing"
+    },
+    "UC": {
+      "phrase": "Ati tuwo amergo rindu",
+      "rhyme_key": "u"
+    },
+    "UD": {
+      "phrase": "Ati sabar amergo wektumu",
+      "rhyme_key": "u"
+    },
+    "UE": {
+      "phrase": "Ati ijo amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "UF": {
+      "phrase": "Kudu nesu ben ora kelu",
+      "rhyme_key": "u"
+    },
+    "UG": {
+      "phrase": "Ati kelu amergo jantung",
+      "rhyme_key": "ung"
+    },
+    "UH": {
+      "phrase": "Ati ijo amergo taman",
+      "rhyme_key": "an"
+    },
+    "UI": {
+      "phrase": "Kudu sinau ben ora gemati",
+      "rhyme_key": "i"
+    },
+    "UJ": {
+      "phrase": "Ati loro amergo wulan",
+      "rhyme_key": "an"
+    },
+    "UK": {
+      "phrase": "Ati rindu amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "UL": {
+      "phrase": "Ati bingung amergo bening",
+      "rhyme_key": "ing"
+    },
+    "UM": {
+      "phrase": "Ati kasar amergo nesu",
+      "rhyme_key": "u"
+    },
+    "UN": {
+      "phrase": "Ati rumongso amergo bingung",
+      "rhyme_key": "u"
+    },
+    "UO": {
+      "phrase": "Ati kasmaran amergo nesu",
+      "rhyme_key": "u"
+    },
+    "UP": {
+      "phrase": "Urip iku kudu campur",
+      "rhyme_key": "ur"
+    },
+    "UQ": {
+      "phrase": "Ati rumongso amergo pati",
+      "rhyme_key": "i"
+    },
+    "UR": {
+      "phrase": "Ati mujur amergo geni",
+      "rhyme_key": "i"
+    },
+    "US": {
+      "phrase": "Ati kelu amergo turu",
+      "rhyme_key": "u"
+    },
+    "UT": {
+      "phrase": "Kembang watu ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "UU": {
+      "phrase": "Ati jembar amergo gandrung",
+      "rhyme_key": "ung"
+    },
+    "UV": {
+      "phrase": "Ati akur amergo agung",
+      "rhyme_key": "ung"
+    },
+    "UW": {
+      "phrase": "Ati luhur amergo jantung",
+      "rhyme_key": "ung"
+    },
+    "UX": {
+      "phrase": "Ati luhur amergo wektumu",
+      "rhyme_key": "u"
+    },
+    "UY": {
+      "phrase": "Ati prasetyaji amergo meri",
+      "rhyme_key": "i"
+    },
+    "UZ": {
+      "phrase": "Ngenteni tekane miring",
+      "rhyme_key": "ing"
+    },
+    "VA": {
+      "phrase": "Sliramu katon luwih gemati",
+      "rhyme_key": "i"
+    },
+    "VB": {
+      "phrase": "Ati prasetyaji amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "VC": {
+      "phrase": "Ati gelo amergo tekanan",
+      "rhyme_key": "an"
+    },
+    "VD": {
+      "phrase": "Ati ayu amergo lamunan",
+      "rhyme_key": "an"
+    },
+    "VE": {
+      "phrase": "Sliramu katon luwih tentrem",
+      "rhyme_key": "an"
+    },
+    "VF": {
+      "phrase": "Ati bubar amergo pangan",
+      "rhyme_key": "an"
+    },
+    "VG": {
+      "phrase": "Ati mujur amergo tresno",
+      "rhyme_key": "o"
+    },
+    "VH": {
+      "phrase": "Ayo mlaku kanthi temenan",
+      "rhyme_key": "unk"
+    },
+    "VI": {
+      "phrase": "Ati nelongso amergo sandhing",
+      "rhyme_key": "i"
+    },
+    "VJ": {
+      "phrase": "Angin wengi nggowo bumi",
+      "rhyme_key": "i"
+    },
+    "VK": {
+      "phrase": "Kudu pamitan ben ora wangi",
+      "rhyme_key": "i"
+    },
+    "VL": {
+      "phrase": "Ati suci amergo kahanan",
+      "rhyme_key": "an"
+    },
+    "VM": {
+      "phrase": "Ati ijo amergo udan",
+      "rhyme_key": "an"
+    },
+    "VN": {
+      "phrase": "Ngenteni tekane wektumu",
+      "rhyme_key": "u"
+    },
+    "VO": {
+      "phrase": "Ati akur amergo bingung",
+      "rhyme_key": "u"
+    },
+    "VP": {
+      "phrase": "Ati mujur amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "VQ": {
+      "phrase": "Ati gemati amergo jantung",
+      "rhyme_key": "ung"
+    },
+    "VR": {
+      "phrase": "Kembang lamunan ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "VS": {
+      "phrase": "Kudu nyoto ben ora jembar",
+      "rhyme_key": "ar"
+    },
+    "VT": {
+      "phrase": "Kudu mlaku ben ora pilu",
+      "rhyme_key": "u"
+    },
+    "VU": {
+      "phrase": "Angin wengi nggowo bukti",
+      "rhyme_key": "i"
+    },
+    "VV": {
+      "phrase": "Golek pati tekan pati",
+      "rhyme_key": "i"
+    },
+    "VW": {
+      "phrase": "Kembang rasamu ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "VX": {
+      "phrase": "Kudu nggoleki ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "VY": {
+      "phrase": "Ati ijo amergo pangan",
+      "rhyme_key": "an"
+    },
+    "VZ": {
+      "phrase": "Kudu ngobati ben ora rumongso",
+      "rhyme_key": "o"
+    },
+    "WA": {
+      "phrase": "Ati tenan amergo keping",
+      "rhyme_key": "ing"
+    },
+    "WB": {
+      "phrase": "Ati bubar amergo geni",
+      "rhyme_key": "i"
+    },
+    "WC": {
+      "phrase": "Ati gelo amergo ati",
+      "rhyme_key": "i"
+    },
+    "WD": {
+      "phrase": "Ati sabar amergo wengi",
+      "rhyme_key": "i"
+    },
+    "WE": {
+      "phrase": "Urip iku kudu prasetyaji",
+      "rhyme_key": "i"
+    },
+    "WF": {
+      "phrase": "Ati akur amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "WG": {
+      "phrase": "Ati loro amergo sanding",
+      "rhyme_key": "ing"
+    },
+    "WH": {
+      "phrase": "Kudu ngganggu ben ora prasojo",
+      "rhyme_key": "o"
+    },
+    "WI": {
+      "phrase": "Ati prasojo amergo sepi",
+      "rhyme_key": "i"
+    },
+    "WJ": {
+      "phrase": "Kudu nggoleki ben ora wangi",
+      "rhyme_key": "i"
+    },
+    "WK": {
+      "phrase": "Ati loro amergo banyu",
+      "rhyme_key": "u"
+    },
+    "WL": {
+      "phrase": "Kudu kelingan ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "WM": {
+      "phrase": "Ati prasojo amergo nesu",
+      "rhyme_key": "u"
+    },
+    "WN": {
+      "phrase": "Kudu nggoleki ben ora kasmaran",
+      "rhyme_key": "an"
+    },
+    "WO": {
+      "phrase": "Ati anyar amergo wektumu",
+      "rhyme_key": "u"
+    },
+    "WP": {
+      "phrase": "Kudu kerjo ben ora nyaman",
+      "rhyme_key": "an"
+    },
+    "WQ": {
+      "phrase": "Ati luhur amergo roso",
+      "rhyme_key": "o"
+    },
+    "WR": {
+      "phrase": "Golek katresnan tekan katresnan",
+      "rhyme_key": "an"
+    },
+    "WS": {
+      "phrase": "Golek suci tekan suci",
+      "rhyme_key": "i"
+    },
+    "WT": {
+      "phrase": "Urip iku kudu anyar",
+      "rhyme_key": "ar"
+    },
+    "WU": {
+      "phrase": "Ati tentrem amergo lamunan",
+      "rhyme_key": "an"
+    },
+    "WV": {
+      "phrase": "Ati gelo amergo werno",
+      "rhyme_key": "o"
+    },
+    "WW": {
+      "phrase": "Ati saru amergo dalan",
+      "rhyme_key": "an"
+    },
+    "WX": {
+      "phrase": "Ati anyar amergo turu",
+      "rhyme_key": "u"
+    },
+    "WY": {
+      "phrase": "Ati bingung amergo wurung",
+      "rhyme_key": "ung"
+    },
+    "WZ": {
+      "phrase": "Ati suci amergo geni",
+      "rhyme_key": "i"
+    },
+    "XA": {
+      "phrase": "Ati kasar amergo pusing",
+      "rhyme_key": "ing"
+    },
+    "XB": {
+      "phrase": "Ati bodho amergo dongo",
+      "rhyme_key": "o"
+    },
+    "XC": {
+      "phrase": "Ati anyar amergo udan",
+      "rhyme_key": "an"
+    },
+    "XD": {
+      "phrase": "Rasane tenan ing njero ati",
+      "rhyme_key": "i"
+    },
+    "XE": {
+      "phrase": "Ati loro amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "XF": {
+      "phrase": "Ati sepi amergo jantung",
+      "rhyme_key": "ung"
+    },
+    "XG": {
+      "phrase": "Ati gemati amergo awakmu",
+      "rhyme_key": "u"
+    },
+    "XH": {
+      "phrase": "Kudu kelingan ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "XI": {
+      "phrase": "Ati saru amergo miring",
+      "rhyme_key": "ing"
+    },
+    "XJ": {
+      "phrase": "Ati gemati amergo songo",
+      "rhyme_key": "o"
+    },
+    "XK": {
+      "phrase": "Ati sumebar amergo agung",
+      "rhyme_key": "ung"
+    },
+    "XL": {
+      "phrase": "Kudu bebarengan ben ora kasar",
+      "rhyme_key": "ar"
+    },
+    "XM": {
+      "phrase": "Ati luhur amergo tresno",
+      "rhyme_key": "o"
+    },
+    "XN": {
+      "phrase": "Ati bodho amergo bening",
+      "rhyme_key": "ing"
+    },
+    "XO": {
+      "phrase": "Ati ijo amergo garing",
+      "rhyme_key": "ing"
+    },
+    "XP": {
+      "phrase": "Ati jembar amergo geni",
+      "rhyme_key": "i"
+    },
+    "XQ": {
+      "phrase": "Kudu ngganggu ben ora tentrem",
+      "rhyme_key": "an"
+    },
+    "XR": {
+      "phrase": "Kembang jantung ing pinggir dalan",
+      "rhyme_key": "an"
+    },
+    "XS": {
+      "phrase": "Kudu ngrasani ben ora kudu",
+      "rhyme_key": "u"
+    },
+    "XT": {
+      "phrase": "Ati ayu amergo sepi",
+      "rhyme_key": "i"
+    },
+    "XU": {
+      "phrase": "Kudu nyoto ben ora kasar",
+      "rhyme_key": "ar"
+    },
+    "XV": {
+      "phrase": "Ati kelu amergo dalan",
+      "rhyme_key": "an"
+    },
+    "XW": {
+      "phrase": "Rembulane katon kasar",
+      "rhyme_key": "ar"
+    },
+    "XX": {
+      "phrase": "Ati suci amergo wengi",
+      "rhyme_key": "i"
+    },
+    "XY": {
+      "phrase": "Urip iku kudu hancur",
+      "rhyme_key": "ur"
+    },
+    "XZ": {
+      "phrase": "Ati jembar amergo lamunan",
+      "rhyme_key": "an"
+    },
+    "YA": {
+      "phrase": "Ati kasmaran amergo karyo",
+      "rhyme_key": "o"
+    },
+    "YB": {
+      "phrase": "Kudu ngugemi ben ora gemati",
+      "rhyme_key": "i"
+    },
+    "YC": {
+      "phrase": "Ati sabar amergo suci",
+      "rhyme_key": "i"
+    },
+    "YD": {
+      "phrase": "Kudu moco ben ora anyar",
+      "rhyme_key": "ar"
+    },
+    "YE": {
+      "phrase": "Rasane jembar ing njero ati",
+      "rhyme_key": "i"
+    },
+    "YF": {
+      "phrase": "Ati sumebar amergo ati",
+      "rhyme_key": "i"
+    },
+    "YG": {
+      "phrase": "Sliramu katon luwih pilu",
+      "rhyme_key": "u"
+    },
+    "YH": {
+      "phrase": "Swara watu ing wayah wengi",
+      "rhyme_key": "i"
+    },
+    "YI": {
+      "phrase": "Ati akur amergo bumi",
+      "rhyme_key": "i"
+    },
+    "YJ": {
+      "phrase": "Ati bodho amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "YK": {
+      "phrase": "Ati bingung amergo rasamu",
+      "rhyme_key": "u"
+    },
+    "YL": {
+      "phrase": "Ati wangi amergo geni",
+      "rhyme_key": "i"
+    },
+    "YM": {
+      "phrase": "Ati nyaman amergo keping",
+      "rhyme_key": "ing"
+    },
+    "YN": {
+      "phrase": "Ati gemati amergo werno",
+      "rhyme_key": "o"
+    },
+    "YO": {
+      "phrase": "Kudu ngguyu ben ora gemati",
+      "rhyme_key": "i"
+    },
+    "YP": {
+      "phrase": "Ati bingung amergo karyo",
+      "rhyme_key": "o"
+    },
+    "YQ": {
+      "phrase": "Ati lathi amergo bingung",
+      "rhyme_key": "u"
+    },
+    "YR": {
+      "phrase": "Kudu nesu ben ora mujur",
+      "rhyme_key": "ur"
+    },
+    "YS": {
+      "phrase": "Tansah eling marang kahanan",
+      "rhyme_key": "an"
+    },
+    "YT": {
+      "phrase": "Ati sumebar amergo janji",
+      "rhyme_key": "i"
+    },
+    "YU": {
+      "phrase": "Ati bingung amergo papan",
+      "rhyme_key": "an"
+    },
+    "YV": {
+      "phrase": "Ati kelu amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "YW": {
+      "phrase": "Ati wangi amergo karyo",
+      "rhyme_key": "o"
+    },
+    "YX": {
+      "phrase": "Kudu sinau ben ora luhur",
+      "rhyme_key": "ur"
+    },
+    "YY": {
+      "phrase": "Ati sabar amergo miring",
+      "rhyme_key": "ing"
+    },
+    "YZ": {
+      "phrase": "Ati pilu amergo bening",
+      "rhyme_key": "ing"
+    },
+    "ZA": {
+      "phrase": "Ati mujur amergo bingung",
+      "rhyme_key": "u"
+    },
+    "ZB": {
+      "phrase": "Ati kasmaran amergo garing",
+      "rhyme_key": "ing"
+    },
+    "ZC": {
+      "phrase": "Ati tentrem amergo sliramu",
+      "rhyme_key": "u"
+    },
+    "ZD": {
+      "phrase": "Kudu kerjo ben ora suci",
+      "rhyme_key": "i"
+    },
+    "ZE": {
+      "phrase": "Kudu nesu ben ora campur",
+      "rhyme_key": "ur"
+    },
+    "ZF": {
+      "phrase": "Ati bubar amergo keping",
+      "rhyme_key": "ing"
+    },
+    "ZG": {
+      "phrase": "Ati akur amergo tresno",
+      "rhyme_key": "o"
+    },
+    "ZH": {
+      "phrase": "Rembulane katon edan",
+      "rhyme_key": "an"
+    },
+    "ZI": {
+      "phrase": "Kudu nyoto ben ora prasetyaji",
+      "rhyme_key": "i"
+    },
+    "ZJ": {
+      "phrase": "Kudu goyangan ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "ZK": {
+      "phrase": "Angin wengi nggowo miring",
+      "rhyme_key": "ing"
+    },
+    "ZL": {
+      "phrase": "Ati wangi amergo ati",
+      "rhyme_key": "i"
+    },
+    "ZM": {
+      "phrase": "Kudu nyawiji ben ora kasmaran",
+      "rhyme_key": "an"
+    },
+    "ZN": {
+      "phrase": "Angin wengi nggowo tresno",
+      "rhyme_key": "o"
+    },
+    "ZO": {
+      "phrase": "Kudu kelingan ben ora prasojo",
+      "rhyme_key": "o"
+    },
+    "ZP": {
+      "phrase": "Ati kelu amergo keping",
+      "rhyme_key": "ing"
+    },
+    "ZQ": {
+      "phrase": "Kudu ngganggu ben ora makmur",
+      "rhyme_key": "ur"
+    },
+    "ZR": {
+      "phrase": "Kudu lungo ben ora edan",
+      "rhyme_key": "an"
+    },
+    "ZS": {
+      "phrase": "Ati gemati amergo kancan",
+      "rhyme_key": "an"
+    },
+    "ZT": {
+      "phrase": "Ati bodho amergo bumi",
+      "rhyme_key": "i"
+    },
+    "ZU": {
+      "phrase": "Ati tenan amergo roso",
+      "rhyme_key": "o"
+    },
+    "ZV": {
+      "phrase": "Kudu nggoleki ben ora luhur",
+      "rhyme_key": "ur"
+    },
+    "ZW": {
+      "phrase": "Ati wangi amergo asmoro",
+      "rhyme_key": "o"
+    },
+    "ZX": {
+      "phrase": "Ati bingung amergo sanding",
+      "rhyme_key": "ing"
+    },
+    "ZY": {
+      "phrase": "Rasane luhur ing njero ati",
+      "rhyme_key": "i"
+    },
+    "ZZ": {
+      "phrase": "Ati bubar amergo wulan",
+      "rhyme_key": "an"
+    }
+  }
+}

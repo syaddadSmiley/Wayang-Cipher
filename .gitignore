@@ -1,0 +1,42 @@
+# Byte-code files
+*.pyc
+__pycache__/
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+.envcrypto/
+
+# Editor/IDE specific files
+.idea/  # IntelliJ/PyCharm
+.vscode/ # VS Code
+*.sublime-project
+*.sublime-workspace
+
+# Operating System specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.log
+*.sqlite3
+.env # Environment variables file
+
+output*
