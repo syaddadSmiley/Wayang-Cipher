@@ -113,7 +113,7 @@ Untuk pengguna yang lebih mahir.
 * **Dekripsi dari File (Contoh Steganografi):**
     ```bash
     # Enkripsi dan simpan hasilnya ke file output.txt
-    python main.py encrypt "Teks super rahasia" -k JAWA -t data/parikan_jowo_final.json --steganography -o output.txt
+    python main.py encrypt "Teks super rahasia 😎" -k JAWA -t data/parikan_jowo_final.json --steganography -o output.txt
 
     # Dekripsi dari file output.txt
     python main.py decrypt output.txt -k JAWA -t data/parikan_jowo_final.json --steganography
