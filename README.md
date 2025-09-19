@@ -1,6 +1,6 @@
-# Enkripsi Puitis
+# Wayang Cipher
 
-Selamat datang di proyek Enkripsi Puitis. Aplikasi ini adalah implementasi unik dari kriptografi klasik yang mengubah pesan rahasia menjadi ciphertext yang berbentuk seperti puisi atau parikan Jawa. Alih-alih menghasilkan teks acak yang tidak bisa dibaca, aplikasi ini menyamarkan pesan terenkripsi Anda dalam bentuk karya sastra.
+Selamat datang di proyek Wayang Cipher. Aplikasi ini adalah implementasi unik dari kriptografi klasik yang mengubah pesan rahasia menjadi ciphertext yang berbentuk seperti puisi atau parikan Jawa. Alih-alih menghasilkan teks acak yang tidak bisa dibaca, aplikasi ini menyamarkan pesan terenkripsi Anda dalam bentuk karya sastra.
 
 > Ini adalah sebuah karya yang sangat unik, bisa kita sebut sebagai **"puisi kriptografis"**. Aturan dan strukturnya tidak ditentukan oleh kaidah sastra, melainkan oleh logika matematis dari algoritma enkripsi yang mendasarinya.
 
