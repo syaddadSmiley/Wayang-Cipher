@@ -116,10 +116,10 @@ def decrypt(ciphertext, key, theme_path):
     return core_decrypt(poetic_body, key, inverse_map, header_obj)
     
 def encrypt_headerless(plaintext, key, theme_path):
-    """Fungsi wrapper untuk mode sederhana."""
+    """Fungsi wrapper untuk mode headerless."""
     alpha_text = "".join([c for c in plaintext if c.isalpha()]).upper()
     if len(alpha_text) % 2 != 0:
-        raise ValueError("Untuk mode sederhana, jumlah huruf dalam plaintext harus genap.")
+        raise ValueError("Untuk mode headerless, jumlah huruf dalam plaintext harus genap.")
     try:
         with open(theme_path, 'r', encoding='utf-8') as f:
             dictionary = json.load(f).get('dictionary', {})

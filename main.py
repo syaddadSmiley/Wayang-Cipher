@@ -5,14 +5,16 @@ import sys
 import subprocess
 from src.core.engine import encrypt, decrypt, encrypt_headerless, decrypt_headerless, encrypt_steganography, decrypt_steganography
 
+DEFAULT_THEME_PATH = "data/parikan_jowo_final.json"
+
 def handle_encrypt(args):
     try:
         if args.steganography:
             target_func = encrypt_steganography
             mode_str = "(Mode Steganografi: Output Puisi Bersih & Akurat)"
-        elif args.simple:
+        elif args.headerless:
             target_func = encrypt_headerless
-            mode_str = "(Mode Sederhana: Hanya Puisi)"
+            mode_str = "(Mode Headerless: Hanya Puisi)"
         else:
             target_func = encrypt
             mode_str = "(Mode Standar: Dengan Header)"
@@ -48,9 +50,9 @@ def handle_decrypt(args):
         if args.steganography:
             target_func = decrypt_steganography
             mode_str = "(Mode Steganografi)"
-        elif args.simple:
+        elif args.headerless:
             target_func = decrypt_headerless
-            mode_str = "(Mode Sederhana)"
+            mode_str = "(Mode Headerless)"
         else:
             target_func = decrypt
             mode_str = "(Mode Standar)"
@@ -97,18 +99,18 @@ def main():
     parser_encrypt = subparsers.add_parser('encrypt', help='Enkripsi plaintext.')
     parser_encrypt.add_argument('plaintext', type=str, help='Teks asli atau path ke file teks asli.')
     parser_encrypt.add_argument('-k', '--key', type=str, required=True, help='Kunci enkripsi.')
-    parser_encrypt.add_argument('-t', '--theme', type=str, required=True, help='Path ke file tema.')
+    parser_encrypt.add_argument('-t', '--theme', type=str, default=DEFAULT_THEME_PATH, help=f'Path ke file tema (default: {DEFAULT_THEME_PATH}')
     parser_encrypt.add_argument('-o', '--output', type=str, help='(Opsional) Simpan hasil enkripsi ke file.') # OPSI BARU
     mode_group_enc = parser_encrypt.add_mutually_exclusive_group()
-    mode_group_enc.add_argument('--simple', action='store_true', help='Gunakan mode sederhana (tanpa header).')
+    mode_group_enc.add_argument('--headerless', action='store_true', help='Gunakan mode headerless (tanpa header).')
     mode_group_enc.add_argument('--steganography', action='store_true', help='Gunakan mode steganografi (tanpa header, akurat).')
 
     parser_decrypt = subparsers.add_parser('decrypt', help='Dekripsi ciphertext.')
     parser_decrypt.add_argument('ciphertext', type=str, help='Teks sandi atau path ke file teks sandi.')
     parser_decrypt.add_argument('-k', '--key', type=str, required=True, help='Kunci dekripsi.')
-    parser_decrypt.add_argument('-t', '--theme', type=str, required=True, help='Path ke file tema.')
+    parser_decrypt.add_argument('-t', '--theme', type=str, default=DEFAULT_THEME_PATH, help=f'Path ke file tema (default: {DEFAULT_THEME_PATH}')
     mode_group_dec = parser_decrypt.add_mutually_exclusive_group()
-    mode_group_dec.add_argument('--simple', action='store_true', help='Gunakan mode sederhana (tanpa header).')
+    mode_group_dec.add_argument('--headerless', action='store_true', help='Gunakan mode headerless (tanpa header).')
     mode_group_dec.add_argument('--steganography', action='store_true', help='Gunakan mode steganografi (tanpa header, akurat).')
 
     subparsers.add_parser('test', help='Jalankan semua unit test.')

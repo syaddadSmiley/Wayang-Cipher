@@ -22,7 +22,8 @@ except FileNotFoundError:
 # --- Tampilan Antarmuka (UI) ---
 st.title("📜 Enkripsi Puitis")
 st.write("Sebuah aplikasi untuk mengubah teks menjadi ciphertext puitis menggunakan Kriptografi Klasik dan Steganografi.")
-st.image("https://i.imgur.com/g0y2jV8.jpeg", caption="Seni Enkripsi dan Sastra")
+# st.image("https://i.imgur.com/g0y2jV8.jpeg", caption="Seni Enkripsi dan Sastra")
+st.image("https://avatars.githubusercontent.com/u/234149534?", caption="Seni Enkripsi dan Sastra")
 
 
 # --- Sidebar untuk Kontrol ---
@@ -30,7 +31,7 @@ st.sidebar.header("⚙️ Pengaturan")
 
 mode = st.sidebar.selectbox(
     "Pilih Mode Enkripsi:",
-    ("Standar (Dengan Header)", "Sederhana (Tanpa Header, Trade-Off)", "Steganografi (Tanpa Header, Akurat)")
+    ("Standar (Dengan Header)", "Headerless (Tanpa Header, Trade-Off)", "Steganografi (Tanpa Header, Akurat)")
 )
 
 key = st.sidebar.text_input("Masukkan Kunci Enkripsi:", placeholder="Contoh: RAHASIA")
@@ -61,7 +62,7 @@ with col1:
                 with st.spinner("Merangkai kata menjadi rahasia..."):
                     if mode == "Standar (Dengan Header)":
                         result = encrypt(text_input, key, theme_path)
-                    elif mode == "Sederhana (Tanpa Header, Trade-Off)":
+                    elif mode == "Headerless (Tanpa Header, Trade-Off)":
                         result = encrypt_headerless(text_input, key, theme_path)
                     else: # Steganografi
                         result = encrypt_steganography(text_input, key, theme_path)
@@ -79,7 +80,7 @@ with col2:
                 with st.spinner("Mengungkap rahasia dari kata..."):
                     if mode == "Standar (Dengan Header)":
                         result = decrypt(text_input, key, theme_path)
-                    elif mode == "Sederhana (Tanpa Header, Trade-Off)":
+                    elif mode == "Headerless (Tanpa Header, Trade-Off)":
                         result = decrypt_headerless(text_input, key, theme_path)
                     else: # Steganografi
                         result = decrypt_steganography(text_input, key, theme_path)

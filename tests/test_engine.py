@@ -35,9 +35,9 @@ class TestEncryptionModes(unittest.TestCase):
         print(f"  Hasil Dekripsi : '{decrypted_text}'")
         self.assertEqual(decrypted_text, original_text)
 
-    def test_02_simple_mode_success(self):
-        """Memastikan mode Sederhana berhasil untuk input yang valid."""
-        print("\n--- [Tes 2] Mode Sederhana (Sukses) ---")
+    def test_02_headerless_mode_success(self):
+        """Memastikan mode Headerless berhasil untuk input yang valid."""
+        print("\n--- [Tes 2] Mode Headerless (Sukses) ---")
 
         original_text = "HARUSGENAP"
         
@@ -49,9 +49,9 @@ class TestEncryptionModes(unittest.TestCase):
         print(f"  Hasil Dekripsi : '{decrypted_text}'")
         self.assertEqual(decrypted_text, original_text)
 
-    def test_03_simple_mode_odd_length_fail(self):
-        """Memastikan mode Sederhana GAGAL untuk input ganjil."""
-        print("\n--- [Tes 3] Mode Sederhana (Gagal - Teks Ganjil) ---")
+    def test_03_headerless_mode_odd_length_fail(self):
+        """Memastikan mode Headerless GAGAL untuk input ganjil."""
+        print("\n--- [Tes 3] Mode Headerless (Gagal - Teks Ganjil) ---")
 
         original_text = "AMBAT"
         

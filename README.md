@@ -11,7 +11,7 @@ Selamat datang di proyek Wayang Cipher. Aplikasi ini adalah implementasi unik da
 - **Codebook Puitis:** Memetakan hasil ciphertext ke dalam 676 frasa parikan Jawa yang unik untuk menghasilkan output puitis.
 - **Tiga Mode Operasi:**
     1.  **Mode Standar:** Mode paling akurat, menggunakan header untuk memastikan dekripsi 100% sempurna untuk teks kompleks (termasuk spasi, angka, tanda baca, dan huruf kapital).
-    2.  **Mode Sederhana:** Menghasilkan output puisi murni tanpa header, dengan syarat plaintext hanya berisi huruf dan berjumlah genap.
+    2.  **Mode Headerless:** Menghasilkan output puisi murni tanpa header, dengan syarat plaintext hanya berisi huruf dan berjumlah genap.
     3.  **Mode Steganografi:** Teknik paling canggih yang menyembunyikan header secara tak kasat mata di dalam puisi, menghasilkan output bersih dengan fungsionalitas penuh dari mode standar.
 - **Dua Antarmuka:**
     1.  **GUI (Graphical User Interface):** Antarmuka web yang interaktif dan mudah digunakan, dibangun dengan Streamlit.
@@ -100,9 +100,9 @@ Untuk pengguna yang lebih mahir.
     python main.py encrypt "Ini pesan rahasia, nomor 1!" -k JAWA -t data/parikan_jowo_final.json
     ```
 
-* **Enkripsi Mode Sederhana (Teks harus genap & hanya huruf):**
+* **Enkripsi Mode Headerless (Teks harus genap & hanya huruf):**
     ```bash
-    python main.py encrypt "INIRAHASIASEKALI" -k JAWA -t data/parikan_jowo_final.json --simple
+    python main.py encrypt "INIRAHASIASEKALI" -k JAWA -t data/parikan_jowo_final.json --headerless
     ```
 
 * **Enkripsi Mode Steganografi (Output bersih, akurasi penuh):**
@@ -113,7 +113,7 @@ Untuk pengguna yang lebih mahir.
 * **Dekripsi dari File (Contoh Steganografi):**
     ```bash
     # Enkripsi dan simpan hasilnya ke file output.txt
-    python main.py encrypt "Teks super rahasia 😎" -k JAWA -t data/parikan_jowo_final.json --steganography -o output.txt
+    python main.py encrypt "PADAMU NEGERI JIWA Raga Kami 😎" -k JAWA -t data/parikan_jowo_final.json --steganography -o output.txt
 
     # Dekripsi dari file output.txt
     python main.py decrypt output.txt -k JAWA -t data/parikan_jowo_final.json --steganography

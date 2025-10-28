@@ -49,7 +49,7 @@ def generate_final_codebook():
     for template in templates:
         placeholders = [ph[1:-1] for ph in template.split() if ph.startswith('{') and ph.endswith('}')]
         
-        # Ini adalah loop kombinatorial sederhana untuk mengisi placeholder
+        # Ini adalah loop kombinatorial headerless untuk mengisi placeholder
         # Untuk 1 placeholder
         if len(placeholders) == 1:
             cat = placeholders[0]
